@@ -67,20 +67,29 @@ for track in tracks:
     if contents_element:
         contents = contents_element.text.strip()
 
-    # noline을 제외한 th 요소 한 번만 추출
-    content_elements = detail_soup.select("div.tableType01 th:not(.noline)")
-    content = []
-    for th in content_elements:
-        text = th.text.strip()
-        if text not in content:
-            content.append(text)
+    # HOT 행의 .center_t 클래스 요소 추출
+    content_s1 = []
+    hot_row = detail_soup.select_one("div.tableType01 tr:nth-of-type(1)")
+    if hot_row and hot_row.select_one("th").text.strip() == "HOT":
+        hot_tds = hot_row.select("td.center_t")
+        for td in hot_tds:
+            content_s1.append(td.text.strip())
+    
+    # ICED 행의 .center_t 클래스 요소 추출
+    content_s2 = []
+    iced_row = detail_soup.select_one("div.tableType01 tr:nth-of-type(2)")
+    if iced_row and iced_row.select_one("th").text.strip() == "ICED":
+        iced_tds = iced_row.select("td.center_t")
+        for td in iced_tds:
+            content_s2.append(td.text.strip())
     
     coffee_data.append({
         "title": title,
         "imageURL": image_url,
         "SubTitle": subTitle,
         "contents": contents,
-        "content": content
+        "content_s1": content_s1,
+        "content_s2": content_s2
     })
 
 # 데이터를 JSON 파일로 저장
