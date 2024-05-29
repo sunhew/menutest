@@ -1,0 +1,297 @@
+[
+    {
+        "title": "에스프레소",
+        "imageURL": "https://composecoffee.com/files/thumbnails/208/384x530.crop.jpg?t=1715053862",
+        "content": {
+            "열량(kcal)": "15(1샷당 열량)",
+            "옵션": "디카페인 변경 가능"
+        }
+    },
+    {
+        "title": "빅포즈 아메리카노",
+        "imageURL": "https://composecoffee.com/files/thumbnails/253/097/384x530.crop.jpg?t=1708913648",
+        "content": {
+            "용량": "32oz(946ml)",
+            "카페인 - 4shot": "312mg/90ml\n* 카페인 유의 (적정 섭취량 400mg 이하)",
+            "열량(kcal)": "30",
+            "탄수화물(g)": "6",
+            "나트륨(mg)": "15",
+            "옵션": "디카페인 변경 가능"
+        }
+    },
+    {
+        "title": "HOT 아메리카노",
+        "imageURL": "https://composecoffee.com/files/thumbnails/210/384x530.crop.jpg?t=1708913697",
+        "content": {
+            "카페인 - 2shot": "156mg/45ml",
+            "열량(kcal)": "15",
+            "탄수화물(g)": "3",
+            "나트륨(mg)": "7.5",
+            "옵션": "디카페인 변경 가능"
+        }
+    },
+    {
+        "title": "ICE 아메리카노",
+        "imageURL": "https://composecoffee.com/files/thumbnails/451/038/384x530.crop.jpg?t=1708913708",
+        "content": {
+            "카페인 - 2shot": "156mg/45ml",
+            "열량(kcal)": "15",
+            "탄수화물(g)": "3",
+            "나트륨(mg)": "7.5",
+            "옵션": "디카페인 변경 가능"
+        }
+    },
+    {
+        "title": "HOT 카페라떼",
+        "imageURL": "https://composecoffee.com/files/thumbnails/212/384x530.crop.jpg?t=1708913719",
+        "content": {
+            "카페인 - 2shot": "208mg/60ml",
+            "열량(kcal)": "204",
+            "탄수화물(g)": "16.5",
+            "당류(g)": "13.5",
+            "단백질(g)": "8.1",
+            "나트륨(mg)": "142.5",
+            "지방(g)": "10.8",
+            "포화지방(g)": "7.1",
+            "옵션": "디카페인 변경 가능"
+        }
+    },
+    {
+        "title": "ICE 카페라떼",
+        "imageURL": "https://composecoffee.com/files/thumbnails/459/038/384x530.crop.jpg?t=1708913733",
+        "content": {
+            "카페인 - 2shot": "208mg/60ml",
+            "열량(kcal)": "155",
+            "탄수화물(g)": "13",
+            "당류(g)": "10",
+            "단백질(g)": "6",
+            "나트륨(mg)": "107.5",
+            "지방(g)": "8",
+            "포화지방(g)": "5.4",
+            "옵션": "디카페인 변경 가능"
+        }
+    },
+    {
+        "title": "카푸치노",
+        "imageURL": "https://composecoffee.com/files/thumbnails/214/384x530.crop.jpg?t=1708913746",
+        "content": {
+            "카페인 - 2shot": "208mg/60ml",
+            "열량(kcal)": "191.9",
+            "탄수화물(g)": "16",
+            "당류(g)": "12.9",
+            "단백질(g)": "7.5",
+            "나트륨(mg)": "132.5",
+            "지방(g)": "10",
+            "포화지방(g)": "6.8",
+            "옵션": "디카페인 변경 가능"
+        }
+    },
+    {
+        "title": "HOT 바닐라라떼",
+        "imageURL": "https://composecoffee.com/files/thumbnails/216/384x530.crop.jpg?t=1708913757",
+        "content": {
+            "카페인 - 2shot": "208mg/60ml",
+            "열량(kcal)": "258.3",
+            "탄수화물(g)": "32.5",
+            "당류(g)": "29.5",
+            "단백질(g)": "7.5",
+            "나트륨(mg)": "142.5",
+            "지방(g)": "10",
+            "포화지방(g)": "6.8",
+            "옵션": "디카페인 변경 가능"
+        }
+    },
+    {
+        "title": "ICE 바닐라라떼",
+        "imageURL": "https://composecoffee.com/files/thumbnails/593/038/384x530.crop.jpg?t=1708913773",
+        "content": {
+            "카페인 - 2shot": "208mg/60ml",
+            "열량(kcal)": "202.3",
+            "탄수화물(g)": "28.5",
+            "당류(g)": "25.5",
+            "단백질(g)": "5.1",
+            "나트륨(mg)": "102.8",
+            "지방(g)": "6.8",
+            "포화지방(g)": "4.6",
+            "옵션": "디카페인 변경 가능"
+        }
+    },
+    {
+        "title": "HOT 헤이즐넛라떼",
+        "imageURL": "https://composecoffee.com/files/thumbnails/218/384x530.crop.jpg?t=1708913786",
+        "content": {
+            "카페인 - 2shot": "208mg/60ml",
+            "열량(kcal)": "259.17",
+            "탄수화물(g)": "32.7",
+            "당류(g)": "29.6",
+            "단백질(g)": "7.5",
+            "나트륨(mg)": "143.1",
+            "지방(g)": "10",
+            "포화지방(g)": "6.8",
+            "옵션": "디카페인 변경 가능"
+        }
+    },
+    {
+        "title": "ICE 헤이즐넛 라떼",
+        "imageURL": "https://composecoffee.com/files/thumbnails/602/038/384x530.crop.jpg?t=1708913803",
+        "content": {
+            "카페인 - 2shot": "208mg/60ml",
+            "열량(kcal)": "203.17",
+            "탄수화물(g)": "28.7",
+            "당류(g)": "25.6",
+            "단백질(g)": "5.1",
+            "나트륨(mg)": "103.1",
+            "지방(g)": "6.8",
+            "포화지방(g)": "4.6",
+            "옵션": "디카페인 변경 가능"
+        }
+    },
+    {
+        "title": "HOT 카라멜마끼아또",
+        "imageURL": "https://composecoffee.com/files/thumbnails/220/384x530.crop.jpg?t=1715054142",
+        "content": {
+            "카페인 - 2shot": "208mg/60ml",
+            "열량(kcal)": "342.7",
+            "탄수화물(g)": "48.4",
+            "당류(g)": "36",
+            "단백질(g)": "7.9",
+            "나트륨(mg)": "176.5",
+            "지방(g)": "10.4",
+            "포화지방(g)": "7",
+            "옵션": "디카페인 변경 가능"
+        }
+    },
+    {
+        "title": "ICE 카라멜마끼아또",
+        "imageURL": "https://composecoffee.com/files/thumbnails/619/038/384x530.crop.jpg?t=1715054230",
+        "content": {
+            "카페인 - 2shot": "208mg/60ml",
+            "열량(kcal)": "253",
+            "탄수화물(g)": "10.4",
+            "당류(g)": "60.6",
+            "단백질(g)": "5.4",
+            "나트륨(mg)": "122.57",
+            "지방(g)": "7.0",
+            "포화지방(g)": "4.7",
+            "옵션": "디카페인 변경 가능"
+        }
+    },
+    {
+        "title": "HOT 카페모카",
+        "imageURL": "https://composecoffee.com/files/thumbnails/222/384x530.crop.jpg?t=1715054316",
+        "content": {
+            "카페인 - 2shot": "208mg/60ml",
+            "열량(kcal)": "377",
+            "탄수화물(g)": "43.6",
+            "당류(g)": "32.2",
+            "단백질(g)": "7.8",
+            "나트륨(mg)": "167.6",
+            "지방(g)": "18.5",
+            "포화지방(g)": "14.5",
+            "옵션": "디카페인 변경 가능"
+        }
+    },
+    {
+        "title": "ICE 카페모카",
+        "imageURL": "https://composecoffee.com/files/thumbnails/609/038/384x530.crop.jpg?t=1715054554",
+        "content": {
+            "카페인 - 2shot": "208mg/60ml",
+            "열량(kcal)": "321",
+            "탄수화물(g)": "39.6",
+            "당류(g)": "28.2",
+            "단백질(g)": "5.4",
+            "나트륨(mg)": "128.0",
+            "지방(g)": "15.1",
+            "포화지방(g)": "12.4",
+            "옵션": "디카페인 변경 가능"
+        }
+    },
+    {
+        "title": "HOT 돌체라떼",
+        "imageURL": "https://composecoffee.com/files/thumbnails/225/384x530.crop.jpg?t=1708913877",
+        "content": {
+            "카페인 - 2shot": "208mg/60ml",
+            "열량(kcal)": "359",
+            "탄수화물(g)": "43.34",
+            "당류(g)": "39.40",
+            "단백질(g)": "11.56",
+            "나트륨(mg)": "181.75",
+            "지방(g)": "14.57",
+            "포화지방(g)": "9.6",
+            "옵션": "디카페인 변경 가능"
+        }
+    },
+    {
+        "title": "ICE 돌체라떼",
+        "imageURL": "https://composecoffee.com/files/thumbnails/623/038/384x530.crop.jpg?t=1708913892",
+        "content": {
+            "카페인 - 2shot": "208mg/60ml",
+            "열량(kcal)": "269",
+            "탄수화물(g)": "33.78",
+            "당류(g)": "30",
+            "단백질(g)": "8.35",
+            "나트륨(mg)": "131.9",
+            "지방(g)": "10.45",
+            "포화지방(g)": "6.8",
+            "옵션": "디카페인 변경 가능"
+        }
+    },
+    {
+        "title": "흑당카페라떼",
+        "imageURL": "https://composecoffee.com/files/thumbnails/227/384x530.crop.jpg?t=1708913903",
+        "content": {
+            "카페인 - 1shot": "104mg/30ml",
+            "열량(kcal)": "297",
+            "탄수화물(g)": "49.00",
+            "당류(g)": "42.40",
+            "나트륨(mg)": "123.70",
+            "지방(g)": "8.00",
+            "포화지방(g)": "5.40",
+            "옵션": "디카페인 변경 가능"
+        }
+    },
+    {
+        "title": "달고나라떼",
+        "imageURL": "https://composecoffee.com/files/thumbnails/665/034/384x530.crop.jpg?t=1708913918",
+        "content": {
+            "카페인 - 2shot": "156mg/45ml",
+            "열량(kcal)": "337.2",
+            "탄수화물(g)": "58.5",
+            "당류(g)": "48.9",
+            "단백질(g)": "6",
+            "나트륨(mg)": "166",
+            "지방(g)": "8",
+            "포화지방(g)": "5.4",
+            "옵션": "디카페인 변경 가능"
+        }
+    },
+    {
+        "title": "아인슈페너라떼",
+        "imageURL": "https://composecoffee.com/files/thumbnails/229/384x530.crop.jpg?t=1708913930",
+        "content": {
+            "카페인 - 2shot": "208mg/60ml",
+            "열량(kcal)": "301.3",
+            "탄수화물(g)": "34.3",
+            "당류(g)": "34.3",
+            "단백질(g)": "5.9",
+            "나트륨(mg)": "140.6",
+            "지방(g)": "14.9",
+            "포화지방(g)": "11.5",
+            "옵션": "디카페인 변경 가능"
+        }
+    },
+    {
+        "title": "HOT 디카페인 아메리카노",
+        "imageURL": "https://composecoffee.com/files/thumbnails/936/121/384x530.crop.jpg?t=1708914765",
+        "content": {
+            "카페인 - 2shot": "12mg/45ml"
+        }
+    },
+    {
+        "title": "ICE 디카페인 아메리카노",
+        "imageURL": "https://composecoffee.com/files/thumbnails/938/121/384x530.crop.jpg?t=1708914780",
+        "content": {
+            "카페인 - 2shot": "12mg/45ml"
+        }
+    }
+]
