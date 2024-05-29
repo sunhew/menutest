@@ -62,16 +62,19 @@ for track in tracks:
         subTitle = "No subtitle available"
 
     # .tableInfo03 내부의 span 요소 추출
+    contents = "No contents available"
     contents_element = detail_soup.select_one("div.tableInfo03 span.ft16B")
     if contents_element:
         contents = contents_element.text.strip()
-    else:
-        contents = "No contents available"
-    
-    # noline을 제외한 th 요소 추출
-    th_elements = detail_soup.select("div.tableType01 th:not(.noline)")
-    content = [th.text.strip() for th in th_elements]
 
+    # noline을 제외한 th 요소 한 번만 추출
+    content_elements = detail_soup.select("div.tableType01 th:not(.noline)")
+    content = []
+    for th in content_elements:
+        text = th.text.strip()
+        if text not in content:
+            content.append(text)
+    
     coffee_data.append({
         "title": title,
         "imageURL": image_url,
