@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import time
 import json
+from urllib.parse import urljoin
 
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
@@ -19,7 +20,8 @@ filename = f"{folder_path}/menuhollys_{current_date}.json"
 options = ChromeOptions()
 options.add_argument("--headless")
 browser = webdriver.Chrome(options=options)
-browser.get("https://www.hollys.co.kr/menu/espresso.do")
+base_url = "https://www.hollys.co.kr/menu/espresso.do"
+browser.get(base_url)
 
 # 페이지가 완전히 로드될 때까지 대기
 WebDriverWait(browser, 10).until(
@@ -37,8 +39,9 @@ for track in tracks:
     title = track.select_one("li > a").text.strip()    
     image_url = track.select_one("li > a > img").get('src')
     
-    # 페이지로 이동하여 subtitle 추출
-    track_url = track.select_one("li > a").get('href')
+    # 상대 URL을 절대 URL로 변환
+    relative_url = track.select_one("li > a").get('href')
+    track_url = urljoin(base_url, relative_url)
     browser.get(track_url)
     
     # 페이지가 완전히 로드될 때까지 대기
