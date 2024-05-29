@@ -42,14 +42,12 @@ jobs:
       
     - name: run file
       run: |
-        python3 coffeebayCoffee.py
         python3 composeCoffee.py
         
     - name: commits
       run : |
         git config --global user.email "liarusen@gmail.com"
         git config --global user.name "sunhew"
-        git add coffeebay/menucoffeebay_*.json
         git add compose/menucompose_*.json
         git commit -m "메뉴 수집 완료"
         
