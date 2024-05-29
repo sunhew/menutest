@@ -33,16 +33,16 @@ soup = BeautifulSoup(html_source_updated, 'html.parser')
 
 # 데이터 추출
 coffee_data = []
-menu_items = soup.select("#menuSmallList > li")
+tracks = soup.select("#menuSmallList > li")
 
-for item in menu_items:
-    title = item.select_one("li > a").text.strip()    
-    image_url = item.select_one("li > a > img").get('src')
+for track in tracks:
+    title = track.select_one("li > a").text.strip()    
+    image_url = track.select_one("li > a > img").get('src')
     
     # 상대 URL을 절대 URL로 변환
-    relative_url = item.select_one("li > a").get('href')
-    menu_item_url = urljoin(base_url, relative_url)
-    browser.get(menu_item_url)
+    relative_url = track.select_one("li > a").get('href')
+    track_url = urljoin(base_url, relative_url)
+    browser.get(track_url)
     
     # 페이지가 완전히 로드될 때까지 대기
     WebDriverWait(browser, 10).until(
