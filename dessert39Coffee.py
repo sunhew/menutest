@@ -38,13 +38,11 @@ for track in tracks:
     title = track.select_one(".product > p.tit").text.strip()    
     image_url = track.select_one(".product > .frame > img").get('src')
     SubTitle = track.select_one(".product > p.detail").text.strip()
-    content = track.select_one(".product > .ex-txt b").text.strip()
   
     coffee_data.append({
         "title": title,
         "imageURL": image_url,
         "SubTitle": SubTitle,
-        "content": content
     })
 
 # 데이터를 JSON 파일로 저장
