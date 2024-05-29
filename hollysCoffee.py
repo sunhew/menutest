@@ -36,16 +36,30 @@ tracks = soup.select("#menuSmallList > li")
 for track in tracks:
     title = track.select_one("li > a").text.strip()    
     image_url = track.select_one("li > a > img").get('src')
-    SubTitle = track.select_one("body > .wrap > .contents_wr > .contents > .content > .menu_view01 > .menu_detail > .menu_info").text.strip()
+    
+    # 페이지로 이동하여 subtitle 추출
+    track_url = track.select_one("li > a").get('href')
+    browser.get(track_url)
+    
+    # 페이지가 완전히 로드될 때까지 대기
+    WebDriverWait(browser, 10).until(
+        EC.presence_of_element_located((By.CLASS_NAME, "menu_detail"))
+    )
+    
+    detail_html_source = browser.page_source
+    detail_soup = BeautifulSoup(detail_html_source, 'html.parser')
+    
+    subTitle = detail_soup.select_one("div.menu_detail > div.menu_info > p").text.strip()
+    
     coffee_data.append({
         "title": title,
         "imageURL": image_url,
-        "SubTitle": SubTitle,
+        "SubTitle": subTitle,
     })
 
 # 데이터를 JSON 파일로 저장
 with open(filename, 'w', encoding='utf-8') as f:
     json.dump(coffee_data, f, ensure_ascii=False, indent=4)
 
-# # 브라우저 종료
-# browser.quit()
+# 브라우저 종료
+browser.quit()
