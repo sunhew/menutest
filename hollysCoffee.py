@@ -52,7 +52,12 @@ for track in tracks:
     detail_html_source = browser.page_source
     detail_soup = BeautifulSoup(detail_html_source, 'html.parser')
     
-    subTitle = detail_soup.select_one("div.menu_detail > div.menu_info > p").text.strip()
+    # 메뉴 정보가 존재하는지 확인하고 추출
+    subTitle_element = detail_soup.select_one("div.menu_detail > div.menu_info > p")
+    if subTitle_element:
+        subTitle = subTitle_element.text.strip()
+    else:
+        subTitle = ""
     
     coffee_data.append({
         "title": title,
