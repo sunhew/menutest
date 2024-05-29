@@ -69,19 +69,17 @@ for track in tracks:
 
     # HOT 행의 .center_t 클래스 요소 추출
     content_s1 = []
-    hot_row = detail_soup.select_one("div.tableType01 tr:nth-of-type(1)")
-    if hot_row and hot_row.select_one("th").text.strip() == "HOT":
+    hot_row = detail_soup.select_one("div.tableType01 tr:has(th:contains('HOT'))")
+    if hot_row:
         hot_tds = hot_row.select("td.center_t")
-        for td in hot_tds:
-            content_s1.append(td.text.strip())
+        content_s1 = [td.text.strip() for td in hot_tds]
     
     # ICED 행의 .center_t 클래스 요소 추출
     content_s2 = []
-    iced_row = detail_soup.select_one("div.tableType01 tr:nth-of-type(2)")
-    if iced_row and iced_row.select_one("th").text.strip() == "ICED":
+    iced_row = detail_soup.select_one("div.tableType01 tr:has(th:contains('ICED'))")
+    if iced_row:
         iced_tds = iced_row.select("td.center_t")
-        for td in iced_tds:
-            content_s2.append(td.text.strip())
+        content_s2 = [td.text.strip() for td in iced_tds]
     
     coffee_data.append({
         "title": title,
