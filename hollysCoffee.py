@@ -55,11 +55,11 @@ for track in tracks:
     detail_soup = BeautifulSoup(detail_html_source, 'html.parser')
     
     # 메뉴 정보가 존재하는지 확인하고 추출
-    subTitle_element = detail_soup.select_one("div.menu_detail > div.menu_info > p")
+    subTitle_element = detail_soup.select_one("div.menu_detail p.menu_info")
     if subTitle_element:
         subTitle = subTitle_element.text.strip()
     else:
-        subTitle = ""
+        subTitle = "No subtitle available"
     
     coffee_data.append({
         "title": title,
