@@ -49,6 +49,8 @@ for track in tracks:
         EC.presence_of_element_located((By.CLASS_NAME, "menu_detail"))
     )
     
+    time.sleep(2)  # JavaScript가 실행될 시간을 추가로 대기
+
     detail_html_source = browser.page_source
     detail_soup = BeautifulSoup(detail_html_source, 'html.parser')
     
