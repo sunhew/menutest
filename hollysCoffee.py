@@ -36,7 +36,7 @@ tracks = soup.select("#menuSmallList > li")
 for track in tracks:
     title = track.select_one("li > a").text.strip()    
     image_url = track.select_one("li > a > img").get('src')
-    SubTitle = track.select_one("body .wrap .contents_wr.contents .content .menu_view01 .menu_detail p").text.strip()
+    SubTitle = track.select_one("body > .wrap > .contents_wr > .contents > .content > .menu_view01 > .menu_detail > .menu_info").text.strip()
     coffee_data.append({
         "title": title,
         "imageURL": image_url,
