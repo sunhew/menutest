@@ -36,15 +36,17 @@ soup = BeautifulSoup(html_source_updated, 'html.parser')
 
 # 데이터 추출
 coffee_data = []
-tracks = soup.select("#list_98 .product")
+tracks = soup.select("#list_111 .product")
 
 for track in tracks:
     title = track.select_one(".product > p.tit").text.strip()    
     image_url = track.select_one(".product > .frame > img").get('src')
     
     # 상세 정보 팝업 열기
-    detail_button = track.select_one(".product > p.tit") # 버튼을 선택하는 로직이 필요함
-    detail_button.click()
+    detail_button = track.select_one(".btn-detail.btn-bubble")
+    
+    # 상세 정보 팝업 열기
+    browser.execute_script("arguments[0].click();", detail_button)
     
     # 팝업이 열릴 때까지 대기
     WebDriverWait(browser, 10).until(
@@ -65,7 +67,14 @@ for track in tracks:
         "content": content
     })
     
-    # 팝업 닫기 (필요시)
+    # 팝업 닫기
+    close_button = browser.find_element(By.CSS_SELECTOR, ".popup-wrap .close")
+    browser.execute_script("arguments[0].click();", close_button)
+    
+    # 팝업이 닫힐 때까지 대기
+    WebDriverWait(browser, 10).until(
+        EC.invisibility_of_element_located((By.CSS_SELECTOR, ".popup-wrap > .popup_view > .info.pdinfo"))
+    )
 
 # 데이터를 JSON 파일로 저장
 with open(filename, 'w', encoding='utf-8') as f:
