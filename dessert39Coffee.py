@@ -45,36 +45,37 @@ for track in tracks:
     # 상세 정보 팝업 열기
     detail_button = track.select_one(".btn-detail.btn-bubble")
     
-    # 상세 정보 팝업 열기
-    browser.execute_script("arguments[0].click();", detail_button)
-    
-    # 팝업이 열릴 때까지 대기
-    WebDriverWait(browser, 10).until(
-        EC.visibility_of_element_located((By.CSS_SELECTOR, ".popup-wrap > .popup_view > .info.pdinfo"))
-    )
-    
-    # 팝업 내용 추출
-    popup_html_source = browser.page_source
-    popup_soup = BeautifulSoup(popup_html_source, 'html.parser')
-    
-    SubTitle = popup_soup.select_one(".popup-wrap > .popup_view > .info.pdinfo > p.engtit").text.strip()
-    content = popup_soup.select_one(".popup-wrap > .popup_view > .info.pdinfo > p.detail").text.strip()
-  
-    coffee_data.append({
-        "title": title,
-        "imageURL": image_url,
-        "SubTitle": SubTitle,
-        "content": content
-    })
-    
-    # 팝업 닫기
-    close_button = browser.find_element(By.CSS_SELECTOR, ".popup-wrap .close")
-    browser.execute_script("arguments[0].click();", close_button)
-    
-    # 팝업이 닫힐 때까지 대기
-    WebDriverWait(browser, 10).until(
-        EC.invisibility_of_element_located((By.CSS_SELECTOR, ".popup-wrap > .popup_view > .info.pdinfo"))
-    )
+    if detail_button:
+        detail_button = browser.find_element(By.CSS_SELECTOR, f"button[data-n='{detail_button['data-n']}']")
+        browser.execute_script("arguments[0].click();", detail_button)
+        
+        # 팝업이 열릴 때까지 대기
+        WebDriverWait(browser, 10).until(
+            EC.visibility_of_element_located((By.CSS_SELECTOR, ".popup-wrap > .popup_view > .info.pdinfo"))
+        )
+        
+        # 팝업 내용 추출
+        popup_html_source = browser.page_source
+        popup_soup = BeautifulSoup(popup_html_source, 'html.parser')
+        
+        SubTitle = popup_soup.select_one(".popup-wrap > .popup_view > .info.pdinfo > p.engtit").text.strip()
+        content = popup_soup.select_one(".popup-wrap > .popup_view > .info.pdinfo > p.detail").text.strip()
+      
+        coffee_data.append({
+            "title": title,
+            "imageURL": image_url,
+            "SubTitle": SubTitle,
+            "content": content
+        })
+        
+        # 팝업 닫기
+        close_button = browser.find_element(By.CSS_SELECTOR, ".popup-wrap .close")
+        browser.execute_script("arguments[0].click();", close_button)
+        
+        # 팝업이 닫힐 때까지 대기
+        WebDriverWait(browser, 10).until(
+            EC.invisibility_of_element_located((By.CSS_SELECTOR, ".popup-wrap > .popup_view > .info.pdinfo"))
+        )
 
 # 데이터를 JSON 파일로 저장
 with open(filename, 'w', encoding='utf-8') as f:
