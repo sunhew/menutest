@@ -37,8 +37,8 @@ tracks = soup.select("#list_98 .product")
 for track in tracks:
     title = track.select_one(".product > p.tit").text.strip()    
     image_url = track.select_one(".product > .frame > img").get('src')
-    SubTitle = track.select_one(".popup-wrap > .popup popup_view > .info.pdinfo > p.engtit").text.strip()
-    content = track.select_one(".popup-wrap > .popup popup_view > .info.pdinfo > p.detail").text.strip()
+    SubTitle = track.select_one(".popup-wrap > .popup.popup_view > .info.pdinfo > p.engtit").text.strip()
+    content = track.select_one(".popup-wrap > .popup.popup_view > .info.pdinfo > p.detail").text.strip()
   
     coffee_data.append({
         "title": title,
