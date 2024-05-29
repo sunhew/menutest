@@ -19,7 +19,9 @@ filename = f"{folder_path}/menuhollys_{current_date}.json"
 # 웹드라이브 설치
 options = ChromeOptions()
 options.add_argument("--headless")
-browser = webdriver.Chrome(options=options)
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
+browser = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
 base_url = "https://www.hollys.co.kr/menu/espresso.do"
 browser.get(base_url)
 
@@ -33,16 +35,16 @@ soup = BeautifulSoup(html_source_updated, 'html.parser')
 
 # 데이터 추출
 coffee_data = []
-tracks = soup.select("#menuSmallList > li")
+menu_items = soup.select("#menuSmallList > li")
 
-for track in tracks:
-    title = track.select_one("li > a").text.strip()    
-    image_url = track.select_one("li > a > img").get('src')
+for item in menu_items:
+    title = item.select_one("li > a").text.strip()    
+    image_url = item.select_one("li > a > img").get('src')
     
     # 상대 URL을 절대 URL로 변환
-    relative_url = track.select_one("li > a").get('href')
-    track_url = urljoin(base_url, relative_url)
-    browser.get(track_url)
+    relative_url = item.select_one("li > a").get('href')
+    menu_item_url = urljoin(base_url, relative_url)
+    browser.get(menu_item_url)
     
     # 페이지가 완전히 로드될 때까지 대기
     WebDriverWait(browser, 10).until(
