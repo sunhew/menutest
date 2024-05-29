@@ -46,29 +46,24 @@ for url in urls:
     # 데이터 추출
     items = soup.select(".itemBox")
     for item in items:
-        name = item.select_one(".title").text.strip()
+        name = item.select_one(".title").text.strip()  
         image_url = item.select_one(".rthumbnailimg").get('src').replace('/files', 'https://composecoffee.com/files')
-
-        # 각 메뉴 상세 페이지로 이동
-        detail_url = item.select_one("a").get('href')
-        browser.get(detail_url)
-        detail_page = browser.page_source
-        detail_soup = BeautifulSoup(detail_page, 'html.parser')
-
-        # 영양 성분 정보 추출
-        nutritional_info = detail_soup.select(".info-g-0 > .extra")
-        nutrients = {}
-        for info in nutritional_info:
-            try:
-                key, value = info.text.split(" : ")
-                nutrients[key.strip()] = value.strip()
-            except ValueError:
-                continue  # 값을 올바르게 분리할 수 없으면 건너뜀
+        
+        # 영양성분 정보 추출
+        nutrition_info = {}
+        nutrition_items = item.select(".info.g-0 .extra")
+        for nutrition_item in nutrition_items:
+            text = nutrition_item.text.strip().replace("⚬ ", "")
+            if text:
+                key_value = text.split(" : ")
+                if len(key_value) == 2:
+                    key, value = key_value
+                    nutrition_info[key] = value
 
         compose_data.append({
             "title": name,
             "imageURL": image_url,
-            "content": nutrients
+            "content": nutrition_info
         })
 
 # 데이터를 JSON 파일로 저장
