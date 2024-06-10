@@ -46,7 +46,7 @@ for url in urls:
     # 데이터 추출
     items = soup.select(".itemBox")
     for item in items:
-        brand = page_title  # 페이지 타이틀을 브랜드로 사용
+        brand = item.select_one("head > title").text.strip() 
         name = item.select_one(".title").text.strip()  
         image_url = item.select_one(".rthumbnailimg").get('src').replace('/files', 'https://composecoffee.com/files')
 
