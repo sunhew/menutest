@@ -46,7 +46,7 @@ for url in urls:
     # 데이터 추출
     items = soup.select(".itemBox")
     for item in items:
-        brand = item.select_one("head > title").text.strip() 
+        brand = item.select_one("title").text.strip() 
         name = item.select_one(".title").text.strip()  
         image_url = item.select_one(".rthumbnailimg").get('src').replace('/files', 'https://composecoffee.com/files')
 
