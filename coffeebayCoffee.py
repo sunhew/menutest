@@ -41,7 +41,7 @@ coffee_data = []
 tracks = soup.select("#sub_con > div > div > .list_con > div > .list_con > ul > li")
 
 for track in tracks:
-    brand = track.select_one("head > title").text.strip()
+    brand = track.select_one("title").text.strip()
     title = track.select_one(".list_div .title_con .kor_con span").text.strip()
     en_title = track.select_one(".list_div .title_con .eng_con span").text.strip()
     image_style = track.select_one(".list_div .img_con").get('style')
