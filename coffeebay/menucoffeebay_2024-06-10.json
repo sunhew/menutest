@@ -1,0 +1,200 @@
+[
+    {
+        "brand": "커피베이",
+        "title": "옛날 커피",
+        "titleE": "Retro Coffee",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240523151547.png'",
+        "desction": "리얼 에스프레소로 진하고 달달하게 즐기는 커피",
+        "information": "1회제공량(ml) : 560, 열량(kcal) : 242.3, 당류(g) : 40.4, 단백질(g) : 3.6(6.5%), 포화지방(g) : 2.5(16.7%), 나트륨(mg) : 55.2(2.8%)",
+        "address": "http://www.coffeebay.com"
+    },
+    {
+        "brand": "커피베이",
+        "title": "돌체 라떼",
+        "titleE": "Dolce Latte",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240315164404.png'",
+        "desction": "달콤한 연유에 에스프레소와 우유가 조화를 이루는 커피 음료",
+        "information": "1회제공량(ml) : 360, 열량(kcal) : 310.5, 당류(g) : 33.8, 단백질(g) : 10.5(19.0%), 포화지방(g) : 8.7(58.3%), 나트륨(mg) : 187.9(9.4%)",
+        "address": "http://www.coffeebay.com"
+    },
+    {
+        "brand": "커피베이",
+        "title": "아이스 돌체 라떼",
+        "titleE": "Iced Dolce Latte",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240315164355.png'",
+        "desction": "달콤한 연유에 에스프레소와 우유가 조화를 이루는 커피 음료",
+        "information": "1회제공량(ml) : 360, 열량(kcal) : 219.5, 당류(g) : 27.3, 단백질(g) : 6.6(11.9%), 포화지방(g) : 5.5(36.6%), 나트륨(mg) : 116.4(5.8%)",
+        "address": "http://www.coffeebay.com"
+    },
+    {
+        "brand": "커피베이",
+        "title": "에스프레소",
+        "titleE": "Espresso",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240315164322.png'",
+        "desction": "다크 초콜릿의 진한 풍미와 고소함을 즐길 수 있는 에스프레소 음료",
+        "information": "1회제공량(ml) : 30, 열량(kcal) : 5, 당류(g) : 0, 단백질(g) : 0.3(0%), 포화지방(g) : 0(0%), 나트륨(mg) : 1(0%)",
+        "address": "http://www.coffeebay.com"
+    },
+    {
+        "brand": "커피베이",
+        "title": "아이스 아메리카노",
+        "titleE": "Iced Americano",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240315164311.png'",
+        "desction": "베이만의 정통 에스프레소에 물을 첨가하여 깔끔하고 시원하게 즐기는 커피 음료",
+        "information": "1회제공량(ml) : 360, 열량(kcal) : 5, 당류(g) : 0, 단백질(g) : 0.3(0%), 포화지방(g) : 0(0%), 나트륨(mg) : 1(0%)",
+        "address": "http://www.coffeebay.com"
+    },
+    {
+        "brand": "커피베이",
+        "title": "아메리카노",
+        "titleE": "Americano",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240315164302.png'",
+        "desction": "베이만의 정통 에스프레소에 물을 첨가하여 깔끔하게 즐기는 커피 음료",
+        "information": "1회제공량(ml) : 360, 열량(kcal) : 5, 당류(g) : 0, 단백질(g) : 0.3(0%), 포화지방(g) : 0(0%), 나트륨(mg) : 1(0%)",
+        "address": "http://www.coffeebay.com"
+    },
+    {
+        "brand": "커피베이",
+        "title": "콜드브루 아메리카노",
+        "titleE": "Cold brew Americano",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240315164245.png'",
+        "desction": "섬세하고 깔끔한 콜드브루의 풍미를 담은 아메리카노",
+        "information": "1회제공량(ml) : 360, 열량(kcal) : 7.2, 당류(g) : 0, 단백질(g) : 0.2(0.3%), 포화지방(g) : 0(0%), 나트륨(mg) : 1.6(0.1%)",
+        "address": "http://www.coffeebay.com"
+    },
+    {
+        "brand": "커피베이",
+        "title": "콜드브루 라떼",
+        "titleE": "Cold brew Latte",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240315164237.png'",
+        "desction": "깔끔한 콜드브루 커피에 우유를 더해 부드럽게 즐기는 라떼",
+        "information": "1회제공량(ml) : 360, 열량(kcal) : 77.2, 당류(g) : 5.0, 단백질(g) : 3.2(5.7%), 포화지방(g) : 3.0(20.0%), 나트륨(mg) : 56.6(2.8%)",
+        "address": "http://www.coffeebay.com"
+    },
+    {
+        "brand": "커피베이",
+        "title": "콜드브루 아이스크림 라떼",
+        "titleE": "Cold brew Icecream Latte",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240315164227.png'",
+        "desction": "진한 콜드브루 라떼에 아이스크림까지 함께 즐길 수 있는 베스트 메뉴",
+        "information": "1회제공량(ml) : 360, 열량(kcal) : 132.2, 당류(g) : 15.8, 단백질(g) : 1.7(3.0%), 포화지방(g) : 4.3(28.7%), 나트륨(mg) : 36.1(1.8%)",
+        "address": "http://www.coffeebay.com"
+    },
+    {
+        "brand": "커피베이",
+        "title": "콜드브루 바닐라 라떼",
+        "titleE": "Cold brew Vanilla Latte",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240315164215.png'",
+        "desction": "바닐라 시럽의 달콤함을 더한 콜드브루 라떼",
+        "information": "1회제공량(ml) : 360, 열량(kcal) : 143.6, 당류(g) : 21.0, 단백질(g) : 3.2(5.7%), 포화지방(g) : 3.0(20.0%), 나트륨(mg) : 57.6(2.9%)",
+        "address": "http://www.coffeebay.com"
+    },
+    {
+        "brand": "커피베이",
+        "title": "바닐라 라떼",
+        "titleE": "Vanilla Latte",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240315164144.png'",
+        "desction": "달콤한 바닐라 향과 풍부한 풍미를 지닌 에스프레소가 조화를 이루는 커피 음료",
+        "information": "1회제공량(ml) : 360, 열량(kcal) : 241, 당류(g) : 28.5, 단백질(g) : 7.6(13.9%), 포화지방(g) : 7.4(49.3%), 나트륨(mg) : 158(7.9%)",
+        "address": "http://www.coffeebay.com"
+    },
+    {
+        "brand": "커피베이",
+        "title": "아이스 바닐라 라떼",
+        "titleE": "Iced Vanilla Latte",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240315164134.png'",
+        "desction": "달콤한 바닐라 향과 풍부한 풍미를 지닌 에스프레소가 조화를 이루는 커피 음료",
+        "information": "1회제공량(ml) : 360, 열량(kcal) : 179, 당류(g) : 20, 단백질(g) : 5.1(9%), 포화지방(g) : 8(25%), 나트륨(mg) : 78(4%)",
+        "address": "http://www.coffeebay.com"
+    },
+    {
+        "brand": "커피베이",
+        "title": "헤이즐넛 라떼",
+        "titleE": "Hazelnut Latte",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240315164124.png'",
+        "desction": "고소하고 달콤한 헤이즐넛 향과 에스프레소가 조화를 이루는 커피 음료",
+        "information": "1회제공량(ml) : 360, 열량(kcal) : 241, 당류(g) : 28.5, 단백질(g) : 7.6(13.9%), 포화지방(g) : 7.4(49.3%), 나트륨(mg) : 158(7.9%)",
+        "address": "http://www.coffeebay.com"
+    },
+    {
+        "brand": "커피베이",
+        "title": "아이스 헤이즐넛 라떼",
+        "titleE": "Iced Hazelnut Latte",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240315164108.png'",
+        "desction": "고소하고 달콤한 헤이즐넛 향과 에스프레소가 조화를 이루는 커피 음료",
+        "information": "1회제공량(ml) : 360, 열량(kcal) : 171, 당류(g) : 23.5, 단백질(g) : 4.6(8.4%), 포화지방(g) : 4.8(32%), 나트륨(mg) : 103(5.2%)",
+        "address": "http://www.coffeebay.com"
+    },
+    {
+        "brand": "커피베이",
+        "title": "카라멜 마끼아또",
+        "titleE": "Caramel Macchiato",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240315164051.png'",
+        "desction": "진한 카라멜의 달콤함에, 풍부한 우유 거품과 에스프레소를 함께 즐기는 커피 음료",
+        "information": "1회제공량(ml) : 360, 열량(kcal) : 250, 당류(g) : 36, 단백질(g) : 5.6(11%), 포화지방(g) : 14(30%), 나트륨(mg) : 162(9%)",
+        "address": "http://www.coffeebay.com"
+    },
+    {
+        "brand": "커피베이",
+        "title": "아이스 카라멜 마끼아또",
+        "titleE": "Iced Caramel Macchiato",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240315164039.png'",
+        "desction": "진한 카라멜의 달콤함과 쫄깃하고 부드러운 우유 거품, 진한 에스프레소가 조화로운 커피 음료",
+        "information": "1회제공량(ml) : 360, 열량(kcal) : 250, 당류(g) : 36, 단백질(g) : 5.6(11%), 포화지방(g) : 14(30%), 나트륨(mg) : 162(9%)",
+        "address": "http://www.coffeebay.com"
+    },
+    {
+        "brand": "커피베이",
+        "title": "카페모카",
+        "titleE": "Cafe Mocha",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240315164022.png'",
+        "desction": "달콤한 초콜릿, 깊은 맛의 에스프레소를 더해 휘핑크림으로 마무리한 커피 음료",
+        "information": "1회제공량(ml) : 360, 열량(kcal) : 375, 당류(g) : 36, 단백질(g) : 8.4(15%), 포화지방(g) : 14(96%), 나트륨(mg) : 175(9%)",
+        "address": "http://www.coffeebay.com"
+    },
+    {
+        "brand": "커피베이",
+        "title": "아이스 카페모카",
+        "titleE": "Iced Cafe Mocha",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240315164004.png'",
+        "desction": "달콤한 초콜릿, 깊은 맛의 에스프레소를 더해 휘핑크림으로 마무리한 커피 음료",
+        "information": "1회제공량(ml) : 360, 열량(kcal) : 326, 당류(g) : 36, 단백질(g) : 6.1(11%), 포화지방(g) : 14(83%), 나트륨(mg) : 137(9%)",
+        "address": "http://www.coffeebay.com"
+    },
+    {
+        "brand": "커피베이",
+        "title": "카페 라떼",
+        "titleE": "Caffe Latte",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240315163951.png'",
+        "desction": "진한 에스프레소에 우유를 더해 더욱 부드럽고 고소한 커피 음료",
+        "information": "1회제공량(ml) : 360, 열량(kcal) : 180, 당류(g) : 12.5, 단백질(g) : 7.8(15%), 포화지방(g) : 6.25(42%), 나트륨(mg) : 126(6%)",
+        "address": "http://www.coffeebay.com"
+    },
+    {
+        "brand": "커피베이",
+        "title": "아이스 카페 라떼",
+        "titleE": "Iced Caffe Latte",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240315163937.png'",
+        "desction": "진한 에스프레소에 차가운 우유를 더해 더욱 부드럽고 고소한 커피 음료",
+        "information": "1회제공량(ml) : 360, 열량(kcal) : 131, 당류(g) : 9, 단백질(g) : 5.7(11%), 포화지방(g) : 4.5(30%), 나트륨(mg) : 91(5%)",
+        "address": "http://www.coffeebay.com"
+    },
+    {
+        "brand": "커피베이",
+        "title": "카푸치노",
+        "titleE": "Cappuccino",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240315163923.png'",
+        "desction": "풍부한 우유 거품과 깊은 풍미의 에스프레소가 조화로운 커피 음료",
+        "information": "1회제공량(ml) : 360, 열량(kcal) : 166, 당류(g) : 11.5, 단백질(g) : 7.2(14%), 포화지방(g) : 5.75(38%), 나트륨(mg) : 116(6%)",
+        "address": "http://www.coffeebay.com"
+    },
+    {
+        "brand": "커피베이",
+        "title": "아이스 카푸치노",
+        "titleE": "Iced Cappuccino",
+        "imageURL": "'https://www.coffeebay.com/upload/menu/file_20240315163907.png'",
+        "desction": "풍부하고 쫄깃한 우유 거품과 에스프레소가 조화로운 커피 음료",
+        "information": "1회제공량(ml) : 360, 열량(kcal) : 89, 당류(g) : 6, 단백질(g) : 3.9(8%), 포화지방(g) : 3(20%), 나트륨(mg) : 61(3%)",
+        "address": "http://www.coffeebay.com"
+    }
+]
