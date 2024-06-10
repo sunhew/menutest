@@ -36,19 +36,25 @@ WebDriverWait(browser, 10).until(
 html_source_updated = browser.page_source
 soup = BeautifulSoup(html_source_updated, 'html.parser')
 
+# 헤드의 타이틀을 가져옴
+page_title = soup.head.title.text.strip() if soup.head.title else "No Title"
+
 # 데이터 추출
 coffee_data = []
 tracks = soup.select("#sub_con > div > div > .list_con > div > .list_con > ul > li")
 
 for track in tracks:
-    brand = track.select_one("title").text.strip()
+    brand = page_title  # 페이지 타이틀을 브랜드로 사용
     title = track.select_one(".list_div .title_con .kor_con span").text.strip()
     en_title = track.select_one(".list_div .title_con .eng_con span").text.strip()
     image_style = track.select_one(".list_div .img_con").get('style')
     image_url = re.search(r'url\((.*?)\)', image_style).group(1).replace("/upload", "https://www.coffeebay.com/upload")
     sub__title = track.select_one(".over_con > .contents_con.w_niceScroll_con > .contents_con.m_niceScroll_con > .info01_con > .intro_con span").text.strip()
     content = track.select_one(".over_con > .contents_con.w_niceScroll_con > .contents_con.m_niceScroll_con > .info02_con > .info_con span").text.strip()
-    address = track.select_one('link', rel='canonical').text.strip()
+
+    # 'link', rel='canonical' 부분 수정
+    canonical_link = soup.find('link', rel='canonical')
+    address = canonical_link['href'].strip() if canonical_link else "No Address"
     
     coffee_data.append({
         "brand": brand,
