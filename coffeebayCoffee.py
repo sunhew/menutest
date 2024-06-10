@@ -56,7 +56,7 @@ for track in tracks:
         "titleE": en_title,
         "imageURL": image_url,
         "desction": sub__title,
-        "information": content
+        "information": content,
         "address": address
     })
 
