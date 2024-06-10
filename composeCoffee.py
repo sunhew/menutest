@@ -69,7 +69,7 @@ for url in urls:
             "brand": brand,
             "title": name,
             "imageURL": image_url,
-            "information": nutrition_info
+            "information": nutrition_info,
             "address": address
         })
 
