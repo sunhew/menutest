@@ -45,6 +45,7 @@ for url in urls:
 
     # 헤드의 타이틀을 가져옴
     page_title = soup.head.title.text.strip() if soup.head.title else "No Title"
+    page_title = page_title.replace(" - MENU", "").strip()
 
     # head 태그 내의 link rel="canonical" 태그 선택 및 href 속성 값 추출
     canonical_link = soup.head.find('link', rel='canonical')
