@@ -1,36 +1,6 @@
 [
     {
         "brand": "CAFFEBENE",
-        "title": "바닐라 아포가토",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220304755389.png",
-        "desction": "카페베네 에스프레소와 쫀득하고 달콤한 카페베네 젤라또가 진하게 어우러진 아포가토   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
-        "information": {
-            "1회제공량 1개 (g/ml)": "205",
-            "열량 (kcal)": "320",
-            "당류 (g)": "28",
-            "단백질 (g) (%영양소기준치)": "4(7%)",
-            "포화지방 (g) (%영양소기준치)": "9(58%)",
-            "나트륨 (mg) (%영양소기준치)": "106(5%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=17&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "에스프레소(HOT ONLY)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607365216.png",
-        "desction": "카페베네 스페셜티 블렌드의 강렬하고 풍부한 향을 즐길 수 있는 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
-        "information": {
-            "1회 제공량 1잔 (ml)": "60",
-            "열량 (kcal)": "21",
-            "당류 (g)": "-",
-            "단백질 (g) (%영양소기준치)": "1(2%)",
-            "포화지방 (g) (%영양소기준치)": "0.1(1%)",
-            "나트륨 (mg) (%영양소기준치)": "0.4(0%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=22&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
         "title": "카라멜 마끼아또(ICED)",
         "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607884550.png",
         "desction": "에스프레소를 바닐라 향이 가득한 부드러운 우유에 점을 찍듯이 부은 후 달콤한 카라멜 소스를 드리즐한 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
@@ -151,48 +121,18 @@
     },
     {
         "brand": "CAFFEBENE",
-        "title": "카페 라떼(HOT)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200610661751.png",
-        "desction": "에스프레소와 부드러운 우유의 조화가 매력적인 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "title": "콜드브루 브라운 슈가 버블 라떼 (ICED ONLY)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607727696.png",
+        "desction": "카페베네 시그니처 콜드브루와 브라운 슈가의 달콤한 풍미, 쫄깃한 타피오카 펄을 함께 즐길 수 있는 음료    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
         "information": {
             "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "166",
-            "당류 (g)": "10",
-            "단백질 (g) (%영양소기준치)": "8(14%)",
-            "포화지방 (g) (%영양소기준치)": "6.2(41%)",
-            "나트륨 (mg) (%영양소기준치)": "134(6%)"
+            "열량 (kcal)": "253",
+            "당류 (g)": "36",
+            "단백질 (g) (%영양소기준치)": "5(8%)",
+            "포화지방 (g) (%영양소기준치)": "2.4(16%)",
+            "나트륨 (mg) (%영양소기준치)": "52(3%)"
         },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=33&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "아메리카노(ICED)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607384043.png",
-        "desction": "카페베네 스페셜티 블렌드로 추출한 에스프레소를 부드럽게 즐길 수 있는 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "12",
-            "당류 (g)": "0",
-            "단백질 (g) (%영양소기준치)": "1(2%)",
-            "포화지방 (g) (%영양소기준치)": "0.1(0%)",
-            "나트륨 (mg) (%영양소기준치)": "5(0%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=34&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "아메리카노(HOT)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607445430.png",
-        "desction": "카페베네 스페셜티 블렌드로 추출한 에스프레소를 부드럽게 즐길 수 있는 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "12",
-            "당류 (g)": "0",
-            "단백질 (g) (%영양소기준치)": "1(2%)",
-            "포화지방 (g) (%영양소기준치)": "0.1(0%)",
-            "나트륨 (mg) (%영양소기준치)": "5(0%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=35&pg=1&code=001000&scode="
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=43&pg=1&code=001000&scode="
     },
     {
         "brand": "CAFFEBENE",
@@ -256,6 +196,66 @@
     },
     {
         "brand": "CAFFEBENE",
+        "title": "카페 라떼(HOT)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200610661751.png",
+        "desction": "에스프레소와 부드러운 우유의 조화가 매력적인 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "166",
+            "당류 (g)": "10",
+            "단백질 (g) (%영양소기준치)": "8(14%)",
+            "포화지방 (g) (%영양소기준치)": "6.2(41%)",
+            "나트륨 (mg) (%영양소기준치)": "134(6%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=33&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "아메리카노(ICED)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607384043.png",
+        "desction": "카페베네 스페셜티 블렌드로 추출한 에스프레소를 부드럽게 즐길 수 있는 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "12",
+            "당류 (g)": "0",
+            "단백질 (g) (%영양소기준치)": "1(2%)",
+            "포화지방 (g) (%영양소기준치)": "0.1(0%)",
+            "나트륨 (mg) (%영양소기준치)": "5(0%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=34&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "아메리카노(HOT)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607445430.png",
+        "desction": "카페베네 스페셜티 블렌드로 추출한 에스프레소를 부드럽게 즐길 수 있는 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "12",
+            "당류 (g)": "0",
+            "단백질 (g) (%영양소기준치)": "1(2%)",
+            "포화지방 (g) (%영양소기준치)": "0.1(0%)",
+            "나트륨 (mg) (%영양소기준치)": "5(0%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=35&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "에스프레소(HOT ONLY)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607365216.png",
+        "desction": "카페베네 스페셜티 블렌드의 강렬하고 풍부한 향을 즐길 수 있는 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "60",
+            "열량 (kcal)": "21",
+            "당류 (g)": "-",
+            "단백질 (g) (%영양소기준치)": "1(2%)",
+            "포화지방 (g) (%영양소기준치)": "0.1(1%)",
+            "나트륨 (mg) (%영양소기준치)": "0.4(0%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=22&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
         "title": "베네캣 달고나 라떼(ICED)",
         "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607447287.png",
         "desction": "에스프레소에 부드러운 우유와 달콤하고 바삭한 식감의 달고나, 베네캣 달고나를 함께 즐길 수 있는 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
@@ -271,66 +271,6 @@
     },
     {
         "brand": "CAFFEBENE",
-        "title": "밀크티 브라운 슈가 버블 라떼 (ICED ONLY)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607435147.png",
-        "desction": "얼그레이 홍차와 브라운 슈가의 달콤한 풍미, 쫄깃한 타피오카 펄을 함께 즐길 수 있는 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "287",
-            "당류 (g)": "29",
-            "단백질 (g) (%영양소기준치)": "4(8%)",
-            "포화지방 (g) (%영양소기준치)": "3.5(23%)",
-            "나트륨 (mg) (%영양소기준치)": "55(3%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=42&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "콜드브루 브라운 슈가 버블 라떼 (ICED ONLY)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607727696.png",
-        "desction": "카페베네 시그니처 콜드브루와 브라운 슈가의 달콤한 풍미, 쫄깃한 타피오카 펄을 함께 즐길 수 있는 음료    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "253",
-            "당류 (g)": "36",
-            "단백질 (g) (%영양소기준치)": "5(8%)",
-            "포화지방 (g) (%영양소기준치)": "2.4(16%)",
-            "나트륨 (mg) (%영양소기준치)": "52(3%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=43&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "밀크티 버블 라떼(ICED ONLY)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607970826.png",
-        "desction": "깊은 홍차 향과 부드러운 우유, 쫄깃한 타피오카 펄을 함께 즐길 수 있는 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "301",
-            "당류 (g)": "32",
-            "단백질 (g) (%영양소기준치)": "5(9%)",
-            "포화지방 (g) (%영양소기준치)": "4.2(28%)",
-            "나트륨 (mg) (%영양소기준치)": "67(3%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=44&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "타로 버블 라떼(ICED ONLY)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607960326.png",
-        "desction": "고소한 타로의 맛과 부드러운 우유, 쫄깃한 타피오카 펄을 함께 즐길 수 있는 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "324",
-            "당류 (g)": "37",
-            "단백질 (g) (%영양소기준치)": "7(12%)",
-            "포화지방 (g) (%영양소기준치)": "6.6(44%)",
-            "나트륨 (mg) (%영양소기준치)": "116(6%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=45&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
         "title": "베네캣 달고나 라떼(HOT)",
         "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607739848.png",
         "desction": "에스프레소에 부드러운 우유와 달콤하고 바삭한 식감의 달고나, 베네캣 달고나를 함께 즐길 수 있는 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
@@ -343,201 +283,6 @@
             "나트륨 (mg) (%영양소기준치)": "124(6%)"
         },
         "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=46&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "고구마 라떼(ICED)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607637979.png",
-        "desction": "달콤한 고구마의 풍미를 부드러운 우유와 함께 즐길 수 있는 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "269",
-            "당류 (g)": "28",
-            "단백질 (g) (%영양소기준치)": "5(9%)",
-            "포화지방 (g) (%영양소기준치)": "2.2(13%)",
-            "나트륨 (mg) (%영양소기준치)": "41(2%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=49&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "고구마 라떼(HOT)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607111383.png",
-        "desction": "달콤한 고구마의 풍미를 부드러운 우유와 함께 즐길 수 있는 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "369",
-            "당류 (g)": "40",
-            "단백질 (g) (%영양소기준치)": "8(14%)",
-            "포화지방 (g) (%영양소기준치)": "3.9(27%)",
-            "나트륨 (mg) (%영양소기준치)": "71(4%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=50&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "오곡 라떼(ICED)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607341036.png",
-        "desction": "담백하고 고소한 곡물의 풍미를 부드러운 우유와 함께 즐길 수 있는 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "192",
-            "당류 (g)": "9",
-            "단백질 (g) (%영양소기준치)": "8(14%)",
-            "포화지방 (g) (%영양소기준치)": "4.7(31%)",
-            "나트륨 (mg) (%영양소기준치)": "66(3%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=51&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "오곡 라떼(HOT)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607935102.png",
-        "desction": "담백하고 고소한 곡물의 풍미를 부드러운 우유와 함께 즐길 수 있는 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "300",
-            "당류 (g)": "13",
-            "단백질 (g) (%영양소기준치)": "12(22%)",
-            "포화지방 (g) (%영양소기준치)": "7.0(49%)",
-            "나트륨 (mg) (%영양소기준치)": "103(5%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=52&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "제주녹차 라떼(ICED)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200610671060.png",
-        "desction": "쌉싸름한 제주녹차의 풍미를 부드러운 우유와 함께 즐길 수 있는 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "229",
-            "당류 (g)": "33",
-            "단백질 (g) (%영양소기준치)": "7(13%)",
-            "포화지방 (g) (%영양소기준치)": "4.5(30%)",
-            "나트륨 (mg) (%영양소기준치)": "65(3%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=55&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "제주녹차 라떼(HOT)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200610893497.png",
-        "desction": "쌉싸름한 제주녹차의 풍미를 부드러운 우유와 함께 즐길 수 있는 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "272",
-            "당류 (g)": "33",
-            "단백질 (g) (%영양소기준치)": "10(18%)",
-            "포화지방 (g) (%영양소기준치)": "5.8(39%)",
-            "나트륨 (mg) (%영양소기준치)": "89(4%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=56&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "초콜릿 라떼(ICED)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220304686230.png",
-        "desction": "달콤쌉싸름한 초콜릿의 진한 풍미를 부드러운 우유와 함께 즐길 수 있는 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "222",
-            "당류 (g)": "20",
-            "단백질 (g) (%영양소기준치)": "8(14%)",
-            "포화지방 (g) (%영양소기준치)": "6(41%)",
-            "나트륨 (mg) (%영양소기준치)": "97(5%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=57&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "초콜릿 라떼(HOT)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220304243069.png",
-        "desction": "달콤쌉싸름한 초콜릿의 진한 풍미를 부드러운 우유와 함께 즐길 수 있는 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "225",
-            "당류 (g)": "19",
-            "단백질 (g) (%영양소기준치)": "8(15%)",
-            "포화지방 (g) (%영양소기준치)": "7(45%)",
-            "나트륨 (mg) (%영양소기준치)": "103(5%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=58&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "블루베리 리얼 요거트 프라페노",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220315689828.png",
-        "desction": "새콤달콤한 블루베리와 리얼 요거트가 어우러진 블렌디드 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "243",
-            "당류 (g)": "39",
-            "단백질 (g) (%영양소기준치)": "3(5%)",
-            "포화지방 (g) (%영양소기준치)": "3.2(22%)",
-            "나트륨 (mg) (%영양소기준치)": "40(2%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=62&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "딸기 리얼 요거트 프라페노",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220315204095.png",
-        "desction": "상큼한 딸기와 리얼 요거트가 어우러진 블렌디드 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "241",
-            "당류 (g)": "36",
-            "단백질 (g) (%영양소기준치)": "4(7%)",
-            "포화지방 (g) (%영양소기준치)": "4.1(27%)",
-            "나트륨 (mg) (%영양소기준치)": "54(3%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=63&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "플레인 리얼 요거트 프라페노",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200610189199.png",
-        "desction": "리얼 요거트가 들어가 더욱 산뜻한 블렌디드 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "332",
-            "당류 (g)": "60",
-            "단백질 (g) (%영양소기준치)": "6(11%)",
-            "포화지방 (g) (%영양소기준치)": "2.2(13%)",
-            "나트륨 (mg) (%영양소기준치)": "65(3%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=64&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "초콜릿쿠키 젤라또 프라페노",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200610414609.png",
-        "desction": "초콜릿 젤라또와 바삭한 쿠키를 더해 초콜릿 맛을 더욱 진하고 시원하게 즐길 수 있는 블렌디드 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "345",
-            "당류 (g)": "35",
-            "단백질 (g) (%영양소기준치)": "8(14%)",
-            "포화지방 (g) (%영양소기준치)": "8(55%)",
-            "나트륨 (mg) (%영양소기준치)": "240(12%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=65&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "딸기 젤라또 프라페노",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200610569911.png",
-        "desction": "딸기 젤라또를 더해 상큼 달콤한 딸기 맛을 더욱 진하고 시원하게 즐길 수 있는 블렌디드 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "338",
-            "당류 (g)": "63",
-            "단백질 (g) (%영양소기준치)": "3(6%)",
-            "포화지방 (g) (%영양소기준치)": "2.5(20%)",
-            "나트륨 (mg) (%영양소기준치)": "62(3%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=66&pg=1&code=001000&scode="
     },
     {
         "brand": "CAFFEBENE",
@@ -586,741 +331,6 @@
     },
     {
         "brand": "CAFFEBENE",
-        "title": "자몽 주스",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200610192010.png",
-        "desction": "새콤 쌉싸름한 자몽 본연의 맛을 느낄 수 있는 과일주스",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "246",
-            "당류 (g)": "43",
-            "단백질 (g) (%영양소기준치)": "2(3%)",
-            "포화지방 (g) (%영양소기준치)": "0.1(1%)",
-            "나트륨 (mg) (%영양소기준치)": "4(0%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=82&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "키위 주스",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200610228043.png",
-        "desction": "상큼한 키위를 그대로 갈아 만든 과일주스",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "246",
-            "당류 (g)": "56",
-            "단백질 (g) (%영양소기준치)": "2(3%)",
-            "포화지방 (g) (%영양소기준치)": "0(0%)",
-            "나트륨 (mg) (%영양소기준치)": "6(0%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=83&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "복숭아 아이스티",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200610794548.png",
-        "desction": "진한 홍차 풍미와 달콤한 복숭아 향이 어우러진 시원한 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "244",
-            "당류 (g)": "51",
-            "단백질 (g) (%영양소기준치)": "0(1%)",
-            "포화지방 (g) (%영양소기준치)": "0.0(0%)",
-            "나트륨 (mg) (%영양소기준치)": "14(1%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=84&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "자몽 차(HOT/ICED)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200610719777.png",
-        "desction": "새콤 쌉싸름한 자몽의 풍미를 느낄 수 있는 과일차",
-        "information": {
-            "1회 제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "220",
-            "당류 (g)": "51",
-            "단백질 (g) (%영양소기준치)": "1(1%)",
-            "포화지방 (g) (%영양소기준치)": "0.0(0%)",
-            "나트륨 (mg) (%영양소기준치)": "24(1%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=85&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "고흥유자 차(HOT/ICED)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200610603726.png",
-        "desction": "상큼한 고흥유자의 풍미를 느낄 수 있는 과일차",
-        "information": {
-            "1회 제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "208",
-            "당류 (g)": "45",
-            "단백질 (g) (%영양소기준치)": "1(1%)",
-            "포화지방 (g) (%영양소기준치)": "0.0(0%)",
-            "나트륨 (mg) (%영양소기준치)": "68(3%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=86&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "얼그레이 티(HOT/ICED)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200610724461.png",
-        "desction": "더 깊고 진한 향미가 지속되는 얼그레이 향이 특징인 대표적인 홍차",
-        "information": {
-            "1회 제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "2",
-            "당류 (g)": "0",
-            "단백질 (g) (%영양소기준치)": "0.4(0%)",
-            "포화지방 (g) (%영양소기준치)": "0.0(0%)",
-            "나트륨 (mg) (%영양소기준치)": "5(0%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=88&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "페퍼민트 티(HOT/ICED)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200610288582.png",
-        "desction": "상쾌한 민트의 청량함이 가득한 허브차",
-        "information": {
-            "1회 제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "2",
-            "당류 (g)": "0",
-            "단백질 (g) (%영양소기준치)": "0.2(0%)",
-            "포화지방 (g) (%영양소기준치)": "0.0(0%)",
-            "나트륨 (mg) (%영양소기준치)": "5(0%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=90&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "얼그레이 밀크티 라떼(HOT)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220304901205.png",
-        "desction": "베르가못 향을 더한 홍차의 풍미를 부드러운 우유와 함께 즐길 수 있는 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "211",
-            "당류 (g)": "27",
-            "단백질 (g) (%영양소기준치)": "6(11%)",
-            "포화지방 (g) (%영양소기준치)": "4.7(31%)",
-            "나트륨 (mg) (%영양소기준치)": "76(4%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=93&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "콜드브루 바닐라 젤라또 라떼",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200619766270.png",
-        "desction": "카페베네 시그니처 콜드브루와 바닐라 향이 가득한 부드러운 우유, 바닐라 젤라또를 함께 즐길 수 있는 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "251",
-            "당류 (g)": "36",
-            "단백질 (g) (%영양소기준치)": "5(9%)",
-            "포화지방 (g) (%영양소기준치)": "6(38%)",
-            "나트륨 (mg) (%영양소기준치)": "55(3%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=96&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "얼그레이 밀크티 라떼(ICED)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220304587820.png",
-        "desction": "베르가못 향을 더한 홍차의 풍미를 부드러운 우유와 함께 즐길 수 있는 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "172",
-            "당류 (g)": "20",
-            "단백질 (g) (%영양소기준치)": "6(11%)",
-            "포화지방 (g) (%영양소기준치)": "4.7(31%)",
-            "나트륨 (mg) (%영양소기준치)": "64(3%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=104&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "요거트(싱글/더블)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614443689.png",
-        "desction": "새콤달콤한 요거트의 맛을 진하게 느낄 수 있는 젤라또",
-        "information": {
-            "1회 제공량 1개(g)": "싱글 : 1컵(90g) / 더블 : 1컵(180g)",
-            "열량 (kcal)": "싱글 : 139 / 더블 : 278",
-            "당류 (g)": "싱글 : 20 / 더블 : 40",
-            "단백질 (g) (%영양소기준치)": "싱글 : 2(4%) / 더블 : 5(9%)",
-            "포화지방 (g) (%영양소기준치)": "싱글 : 1.9(13%) / 더블 : 3.8(25%)",
-            "나트륨 (mg) (%영양소기준치)": "싱글 : 36(2%)/ 더블 : 72(4%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=192&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "에스프레소(싱글/더블)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614384608.png",
-        "desction": "진한 에스프레소의 풍미와 달콤함을 크리미하게 느낄 수 있는 젤라또",
-        "information": {
-            "1회 제공량 1개(g)": "싱글 : 1컵(90g) / 더블 : 1컵(180g)",
-            "열량 (kcal)": "싱글 : 140 / 더블 : 280",
-            "당류 (g)": "싱글 : 16 / 더블 : 32",
-            "단백질 (g) (%영양소기준치)": "싱글 : 2(4%) / 더블 :5(9%)",
-            "포화지방 (g) (%영양소기준치)": "싱글 : 2.6(17%) / 더블 :5(35%)",
-            "나트륨 (mg) (%영양소기준치)": "싱글 : 31(2%) / 더블 : 63(3%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=194&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "제주녹차 젤라또(싱글/더블)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614640882.png",
-        "desction": "쌉싸름한 제주녹차의 풍미를 진하게 느낄 수 있는 젤라또",
-        "information": {
-            "1회 제공량 1개(g)": "싱글 : 1컵(90g) / 더블 : 1컵(180g)",
-            "열량 (kcal)": "싱글 : 175 / 더블 : 350",
-            "당류 (g)": "싱글 : 15 / 더블 : 31",
-            "단백질 (g) (%영양소기준치)": "싱글 : 3(5%) / 더블 : 6(12%)",
-            "포화지방 (g) (%영양소기준치)": "싱글 : 5(35%) / 더블 : 11(70%)",
-            "나트륨 (mg) (%영양소기준치)": "싱글 : 36(2%) / 더블 : 71(4%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=196&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "망고(싱글/더블)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614769169.png",
-        "desction": "달콤하고 상큼한 망고 본연의 맛을 진하게 느낄 수 있는 셔벗 타입의 젤라또",
-        "information": {
-            "1회 제공량 1개(g)": "싱글 : 1컵(90g) / 더블 : 1컵(180g)",
-            "열량 (kcal)": "싱글 : 99 / 더블 : 197",
-            "당류 (g)": "싱글 : 19 / 더블 : 38",
-            "단백질 (g) (%영양소기준치)": "싱글 : 1g미만(1%)/ 더블 : 1(3%)",
-            "포화지방 (g) (%영양소기준치)": "싱글 : 0.8(6%) / 더블 :1.7(11%)",
-            "나트륨 (mg) (%영양소기준치)": "싱글 :19(1%)/ 더블 : 37(2%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=198&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "다크초콜릿(싱글/더블)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614576949.png",
-        "desction": "다크초콜릿의 진한 풍미를 느낄 수 있는 젤라또",
-        "information": {
-            "1회 제공량 1개(g)": "싱글 : 1컵(90g) / 더블 : 1컵(180g)",
-            "열량 (kcal)": "싱글 : 176 / 더블 : 352",
-            "당류 (g)": "싱글 : 18 / 더블 : 37",
-            "단백질 (g) (%영양소기준치)": "싱글 : 3(5%)/ 더블 : 7(13%)",
-            "포화지방 (g) (%영양소기준치)": "싱글 : 3.9(26%) / 더블 :8(53%)",
-            "나트륨 (mg) (%영양소기준치)": "싱글 : 32(2%)/ 더블 : 64(3%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=200&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "리코타치즈(싱글/더블)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614267418.png",
-        "desction": "리코타치즈의 고소함을 느낄 수 있는 젤라또",
-        "information": {
-            "1회 제공량 1개(g)": "싱글:1컵(90g) / 더블: 1컵(180g)",
-            "열량 (kcal)": "싱글:185 / 더블: 370",
-            "당류 (g)": "싱글:16 / 더블: 32",
-            "단백질 (g) (%영양소기준치)": "싱글:2(4%)/ 더블: 5(9%)",
-            "포화지방 (g) (%영양소기준치)": "싱글:7(47%)/ 더블: 14(94%)",
-            "나트륨 (mg) (%영양소기준치)": "싱글:61(3%)/ 더블: 122(6%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=202&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "딸기(싱글/더블)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614755574.png",
-        "desction": "딸기의 상큼함을 느낄 수 있는 젤라또",
-        "information": {
-            "1회 제공량 1개(g)": "싱글 : 1컵(109g) / 더블: 1컵(217g)",
-            "열량 (kcal)": "싱글 :109 / 더블: 217",
-            "당류 (g)": "싱글 :21 / 더블:42",
-            "단백질 (g) (%영양소기준치)": "싱글 :0(1%)/ 더블:1g미만(1%)",
-            "포화지방 (g) (%영양소기준치)": "싱글 :1.5(10%)/ 더블:2.9(20%)",
-            "나트륨 (mg) (%영양소기준치)": "싱글 :6(0%)/ 더블:11(1%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=204&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "딸기 눈꽃빙수",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220315402536.png",
-        "desction": "부드러운 우유 베이스에 딸기와 블루베리, 치즈케익 큐브, 딸기 젤라또를 더하여 상큼달콤함을 부드럽게 즐길 수 있는 젤라또 눈꽃빙수",
-        "information": {
-            "1회제공량 1개 (g/ml)": "762",
-            "열량 (kcal)": "857",
-            "당류 (g)": "127",
-            "단백질 (g) (%영양소기준치)": "14(26%)",
-            "포화지방 (g) (%영양소기준치)": "14(93%)",
-            "나트륨 (mg) (%영양소기준치)": "360(18%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=205&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "인절미 눈꽃빙수",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220315495672.png",
-        "desction": "부드러운 우유 베이스와 고소함이 가득한 인절미, 견과류 토핑에 쫀득한 바닐라 젤라또가 조화롭게 어우러진 젤라또 눈꽃빙수",
-        "information": {
-            "1회제공량 1개 (g/ml)": "574",
-            "열량 (kcal)": "957",
-            "당류 (g)": "84",
-            "단백질 (g) (%영양소기준치)": "27(49%)",
-            "포화지방 (g) (%영양소기준치)": "12(82%)",
-            "나트륨 (mg) (%영양소기준치)": "460(23%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=206&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "커피 빙수",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220315545770.png",
-        "desction": "부드러운 커피 베이스에  바삭한 비스코프 쿠키, 쫀득한 에스프레소 젤라또, 고소한 넛츠가 더해진 커피 빙수  - 카페베네 에스프레소는 R size(2 shot) 기준 147mg, 콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg, 콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다. - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
-        "information": {
-            "1회제공량 1개 (g/ml)": "868",
-            "열량 (kcal)": "930",
-            "당류 (g)": "118",
-            "단백질 (g) (%영양소기준치)": "15(27%)",
-            "포화지방 (g) (%영양소기준치)": "12(80%)",
-            "나트륨 (mg) (%영양소기준치)": "290(15%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=213&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "제주녹차 빙수",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220315535195.png",
-        "desction": "진한 그린티베이스에 달콤한 팥, 고소한 넛트, 쫀득 젤라또까지 더해진 녹차 빙수",
-        "information": {
-            "1회제공량 1개 (g/ml)": "840",
-            "열량 (kcal)": "1080",
-            "당류 (g)": "120",
-            "단백질 (g) (%영양소기준치)": "27(49%)",
-            "포화지방 (g) (%영양소기준치)": "15(100%)",
-            "나트륨 (mg) (%영양소기준치)": "460(23%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=214&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "쿠키앤크림 빙수",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220315661538.png",
-        "desction": "부드러운 밀크 베이스와 쿠키분태가 조화롭게 어우러진 쿠키앤크림빙수",
-        "information": {
-            "1회제공량 1개 (g/ml)": "778",
-            "열량 (kcal)": "1090",
-            "당류 (g)": "131",
-            "단백질 (g) (%영양소기준치)": "20(36%)",
-            "포화지방 (g) (%영양소기준치)": "25(167%)",
-            "나트륨 (mg) (%영양소기준치)": "630(32%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=215&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "초코악마 빙수",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614392065.png",
-        "desction": "진한 초코 베이스에 초코 쿠키와 쿠키앤크림, 다크 초콜릿 젤라또가 더해져 진한 다크 초콜릿 맛을 느낄 수 있는 빙수",
-        "information": {
-            "1회제공량 1개 (g/ml)": "816",
-            "열량 (kcal)": "895",
-            "당류 (g)": "130",
-            "단백질 (g) (%영양소기준치)": "13(23%)",
-            "포화지방 (g) (%영양소기준치)": "15(102%)",
-            "나트륨 (mg) (%영양소기준치)": "540(27%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=216&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "딸기 빙수",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220315753521.png",
-        "desction": "새콤달콤한 딸기젤라또와 딸기, 블루베리, 고소한 큐브치즈케이크를 더하여 상큼 달콤함이 일품인 스테디셀러 빙수",
-        "information": {
-            "1회제공량 1개 (g/ml)": "876",
-            "열량 (kcal)": "790",
-            "당류 (g)": "135",
-            "단백질 (g) (%영양소기준치)": "11(20%)",
-            "포화지방 (g) (%영양소기준치)": "13(87%)",
-            "나트륨 (mg) (%영양소기준치)": "100(5%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=217&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "팥빙수",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220315862094.png",
-        "desction": "쫀득한 바닐라젤라또와 고소한 넛츠, 인절미, 팥이 조화롭게 어우러진 젤라또 팥빙수",
-        "information": {
-            "1회제공량 1개 (g/ml)": "982",
-            "열량 (kcal)": "1475",
-            "당류 (g)": "141",
-            "단백질 (g) (%영양소기준치)": "39(72%)",
-            "포화지방 (g) (%영양소기준치)": "13(84%)",
-            "나트륨 (mg) (%영양소기준치)": "580(295)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=218&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "뉴욕칠리 핫도그",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614123663.png",
-        "desction": "육즙 가득한 소시지에 비프 살사 소스를 얹은 핫도그",
-        "information": {
-            "1회 제공량 1개(g)": "1개(185g)",
-            "열량 (kcal)": "434",
-            "당류 (g)": "9",
-            "단백질 (g) (%영양소기준치)": "16(29%)",
-            "포화지방 (g) (%영양소기준치)": "7(47%)",
-            "나트륨 (mg) (%영양소기준치)": "1,030(52%)",
-            "*알레르기 유발 성분": "밀, 우유, 대두, 계란, 토마토, 쇠고기, 돼지고기, 닭고기 함유"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=219&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "스윗콘에그 핫도그",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614520443.png",
-        "desction": "육즙 가득한 소시지에 촉촉한 스크램블 에그와 톡톡 터지는 옥수수, 달콤한 화이트소스를 얹은 핫도그",
-        "information": {
-            "1회 제공량 1개(g)": "1개(175g)",
-            "열량 (kcal)": "529",
-            "당류 (g)": "9",
-            "단백질 (g) (%영양소기준치)": "19(35%)",
-            "포화지방 (g) (%영양소기준치)": "10.4(67%)",
-            "나트륨 (mg) (%영양소기준치)": "860(43%)",
-            "*알레르기 유발 성분": "밀, 우유, 대두, 계란, 쇠고기, 돼지고기, 조개류(굴) 함유"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=220&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "크로크무슈",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614497259.png",
-        "desction": "햄과 2종류의 치즈(체다&모짜렐라), 양파, 갈릭 시즈닝이 함유된 샌드위치",
-        "information": {
-            "1회 제공량 1개(g)": "1개(160g)",
-            "열량 (kcal)": "432",
-            "당류 (g)": "4",
-            "단백질 (g) (%영양소기준치)": "19(35%)",
-            "포화지방 (g) (%영양소기준치)": "8.8(60%)",
-            "나트륨 (mg) (%영양소기준치)": "951(48%)",
-            "*알레르기 유발 성분": "밀, 우유, 대두, 계란, 쇠고기, 돼지고기 함유"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=225&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "당근 치즈 케이크",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220520505999.png",
-        "desction": "진한 크림치즈와  고소한 견과류, 당근 시트가 조화로운 당근 치즈 케이크",
-        "information": {
-            "1회 제공량 1개(g)": "151",
-            "열량 (kcal)": "478",
-            "당류 (g)": "36",
-            "단백질 (g) (%영양소기준치)": "7(13%)",
-            "포화지방 (g) (%영양소기준치)": "7(48%)",
-            "나트륨 (mg) (%영양소기준치)": "308(15%)",
-            "*알레르기 유발 성분": "밀, 우유, 대두, 계란, 호두, 돼지고기 함유"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=227&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "라운드 쇼콜라 케이크",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220221823175.png",
-        "desction": "푹신한 초콜릿 시트와 진한 초콜릿 생크림이 입 안에서 부드럽게 퍼지는 초콜릿 생크림 케이크",
-        "information": {
-            "1회 제공량 1개(g)": "1개(161g)",
-            "열량 (kcal)": "548",
-            "당류 (g)": "35",
-            "단백질 (g) (%영양소기준치)": "9(16%)",
-            "포화지방 (g) (%영양소기준치)": "4.4(29%)",
-            "나트륨 (mg) (%영양소기준치)": "211(11%)",
-            "*알레르기 유발 성분": "밀, 우유, 대두, 계란 함유"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=228&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "허브갈릭 크림치즈",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614940465.png",
-        "desction": "향긋한 마늘의 풍미에 허브의 향이 더해진 크림치즈",
-        "information": {
-            "1회 제공량 1개(g)": "1개(67g)",
-            "열량 (kcal)": "187",
-            "당류 (g)": "5",
-            "단백질 (g) (%영양소기준치)": "5(8%)",
-            "포화지방 (g) (%영양소기준치)": "7.5(50%)",
-            "나트륨 (mg) (%영양소기준치)": "428(21%)",
-            "*알레르기 유발 성분": "우유, 대두 함유"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=232&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "초코청크 크림치즈",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614971355.png",
-        "desction": "달콤하고 진한 초콜릿 풍미를 느낄 수 있는 크림치즈",
-        "information": {
-            "1회 제공량 1개(g)": "1개(67g)",
-            "열량 (kcal)": "202",
-            "당류 (g)": "7",
-            "단백질 (g) (%영양소기준치)": "4(8%)",
-            "포화지방 (g) (%영양소기준치)": "8(51%)",
-            "나트륨 (mg) (%영양소기준치)": "324(16%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=234&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "블루베리 크림치즈",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614465183.png",
-        "desction": "블루베리의 상큼 달큼함과 고소함이 부드럽게 어우러진 크림치즈",
-        "information": {
-            "1회 제공량 1개(g)": "1개(67g)",
-            "열량 (kcal)": "183",
-            "당류 (g)": "11",
-            "단백질 (g) (%영양소기준치)": "6(3%)",
-            "포화지방 (g) (%영양소기준치)": "6(40%)",
-            "나트륨 (mg) (%영양소기준치)": "382(19%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=235&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "플레인 크림치즈",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614817367.png",
-        "desction": "부드럽고 진한 크림치즈의 맛을 느낄 수 있는 크림치즈",
-        "information": {
-            "1회 제공량 1개(g)": "1개(67g)",
-            "열량 (kcal)": "190",
-            "당류 (g)": "1",
-            "단백질 (g) (%영양소기준치)": "3(6%)",
-            "포화지방 (g) (%영양소기준치)": "9.5(63%)",
-            "나트륨 (mg) (%영양소기준치)": "168(8%)",
-            "*알레르기 유발 성분": "우유, 대두, 쇠고기 함유"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=236&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "어니언 베이글",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20201119604684.png",
-        "desction": "구운 양파의 향긋한 향과 단맛이 그대로 느껴지는 어니언 베이글",
-        "information": {
-            "1회 제공량 1개(g)": "1개(110g)",
-            "열량 (kcal)": "356",
-            "당류 (g)": "11",
-            "단백질 (g) (%영양소기준치)": "12(22%)",
-            "포화지방 (g) (%영양소기준치)": "0.4(3%)",
-            "나트륨 (mg) (%영양소기준치)": "492(25%)",
-            "*알레르기 유발 성분": "밀, 우유 함유"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=237&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "블루베리 베이글",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614980835.png",
-        "desction": "천연 블루베리를 사용하여 건강한 단맛이 느껴지는 블루베리 베이글",
-        "information": {
-            "1회 제공량 1개(g)": "1개(110g)",
-            "열량 (kcal)": "357",
-            "당류 (g)": "16",
-            "단백질 (g) (%영양소기준치)": "11(21%)",
-            "포화지방 (g) (%영양소기준치)": "0.4(3%)",
-            "나트륨 (mg) (%영양소기준치)": "491(25%)",
-            "*알레르기 유발 성분": "밀, 우유 함유"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=238&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "플레인 베이글",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20201119909417.png",
-        "desction": "밀 고유의 담백한 맛과 고소한 맛을 살린 깔끔한 맛의 기본 베이글",
-        "information": {
-            "1회 제공량 1개(g)": "1개(110g)",
-            "열량 (kcal)": "348",
-            "당류 (g)": "11",
-            "단백질 (g) (%영양소기준치)": "12(21%)",
-            "포화지방 (g) (%영양소기준치)": "0.5(3%)",
-            "나트륨 (mg) (%영양소기준치)": "491(25%)",
-            "*알레르기 유발 성분": "밀, 우유 함유"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=239&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "촉촉 크림치즈 쿠키",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614711914.png",
-        "desction": "고소한 크림치즈 풍미에 달콤한 크랜베리를 더한 쿠키",
-        "information": {
-            "1회제공량 1개 (g/ml)": "1개(50g)",
-            "열량 (kcal)": "222",
-            "당류 (g)": "10",
-            "단백질 (g) (%영양소기준치)": "3(5%)",
-            "포화지방 (g) (%영양소기준치)": "3.7(24%)",
-            "나트륨 (mg) (%영양소기준치)": "75(4%)",
-            "*알레르기 유발 성분": "밀, 우유, 대두, 계란 함유"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=240&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "진한 초코 쿠키",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614441796.png",
-        "desction": "달콤하고 진한 초코릿 풍미에 초코칩을 더한 쿠키",
-        "information": {
-            "1회제공량 1개 (g/ml)": "1개(50g)",
-            "열량 (kcal)": "225",
-            "당류 (g)": "10",
-            "단백질 (g) (%영양소기준치)": "4(6%)",
-            "포화지방 (g) (%영양소기준치)": "3.8(25%)",
-            "나트륨 (mg) (%영양소기준치)": "91(5%)",
-            "*알레르기 유발 성분": "밀, 우유, 대두, 계란 함유"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=241&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "비벼먹는 페스츄리 초콜릿",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614697100.png",
-        "desction": "겉은 바삭하고 속은 촉촉한 페스츄리에 진한 초콜릿과 초코소스를 토핑하여 비벼먹는 페스츄리",
-        "information": {
-            "1회 제공량 1개(g)": "1개(186g)",
-            "열량 (kcal)": "741",
-            "당류 (g)": "27",
-            "단백질 (g) (%영양소기준치)": "13(24%)",
-            "포화지방 (g) (%영양소기준치)": "19.0(127%)",
-            "나트륨 (mg) (%영양소기준치)": "683(34%)",
-            "*알레르기 유발 성분": "밀, 우유, 대두, 계란 함유"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=249&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "비벼먹는 페스츄리 딸기",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614407827.png",
-        "desction": "겉은 바삭하고 속은 촉촉한 페스츄리에 상큼한 딸기와 생크림을 토핑하여  비벼먹는 페스츄리",
-        "information": {
-            "1회 제공량 1개(g)": "1개(276g)",
-            "열량 (kcal)": "720",
-            "당류 (g)": "30",
-            "단백질 (g) (%영양소기준치)": "13(24%)",
-            "포화지방 (g) (%영양소기준치)": "17.3(113%)",
-            "나트륨 (mg) (%영양소기준치)": "431(22%)",
-            "*알레르기 유발 성분": "밀, 우유, 대두, 계란 함유"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=250&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "카라멜 시나몬 브레드",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614753477.png",
-        "desction": "국내산 벌꿀이 함유된 허니브레드 빵에 은은한 시나몬과 진한 카라멜을  함께 즐길 수 있는 브레드",
-        "information": {
-            "1회 제공량 1개(g)": "1개(203g)",
-            "열량 (kcal)": "607",
-            "당류 (g)": "20",
-            "단백질 (g) (%영양소기준치)": "13(24%)",
-            "포화지방 (g) (%영양소기준치)": "17.1(113%)",
-            "나트륨 (mg) (%영양소기준치)": "747(37%)",
-            "*알레르기 유발 성분": "밀, 우유, 대두 함유"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=251&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "레몬 에이드",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614802613.png",
-        "desction": "상큼한 레몬과 탄산수가 어우러진 스파클링 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "202",
-            "당류 (g)": "28",
-            "단백질 (g) (%영양소기준치)": "0(0%)",
-            "포화지방 (g) (%영양소기준치)": "0.0(0%)",
-            "나트륨 (mg) (%영양소기준치)": "2(0%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=255&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "자몽 에이드",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614270060.png",
-        "desction": "새콤 쌉싸름한 자몽과 탄산수가 어우러진 스파클링 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "173",
-            "당류 (g)": "32",
-            "단백질 (g) (%영양소기준치)": "7(13%)",
-            "포화지방 (g) (%영양소기준치)": "0.0(0%)",
-            "나트륨 (mg) (%영양소기준치)": "4(0%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=256&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "청포도 에이드",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614391379.png",
-        "desction": "상큼한 청포도의 과육이 살아 있는 스파클링 음료",
-        "information": {
-            "1회제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "165",
-            "당류 (g)": "35",
-            "단백질 (g) (%영양소기준치)": "0(0%)",
-            "포화지방 (g) (%영양소기준치)": "0.0(0%)",
-            "나트륨 (mg) (%영양소기준치)": "126(6%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=257&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "홍시 주스",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200617511281.png",
-        "desction": "달콤한 홍시 본연의 맛을 느낄 수 있는 과일주스",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "166",
-            "당류 (g)": "35",
-            "단백질 (g) (%영양소기준치)": "0.5(0.9%)",
-            "포화지방 (g) (%영양소기준치)": "0.0(0.2%)",
-            "나트륨 (mg) (%영양소기준치)": "0.2(0.1%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=260&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "제주녹차 프라페노",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614892628.png",
-        "desction": "쌉싸름한 제주녹차의 풍미를 시원하게 즐길 수 있는 블렌디드 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "324",
-            "당류 (g)": "49",
-            "단백질 (g) (%영양소기준치)": "5(10%)",
-            "포화지방 (g) (%영양소기준치)": "7.5(50%)",
-            "나트륨 (mg) (%영양소기준치)": "71(4%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=262&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "초코칩 프라페노",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614162422.png",
-        "desction": "달콤쌉싸름한 초콜릿의 진한 풍미와 초코칩이 어우러진 블렌디드 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "430",
-            "당류 (g)": "55",
-            "단백질 (g) (%영양소기준치)": "7(13%)",
-            "포화지방 (g) (%영양소기준치)": "14(90%)",
-            "나트륨 (mg) (%영양소기준치)": "95(5%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=263&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
         "title": "모카 더블 베네프레소 7oz (ICED ONLY)",
         "imageURL": "http://www.caffebene.co.kr/uploads/product/20200617340779.png",
         "desction": "카페베네 에스프레소와 카페베네만의 초콜릿 베이스를 쉐이킹하여 더욱 진한 달콤함을 시원하게 즐길 수 있는 메뉴   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
@@ -1366,18 +376,18 @@
     },
     {
         "brand": "CAFFEBENE",
-        "title": "시그니처 콜드브루 리코타치즈 아포가토",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220304791836.png",
-        "desction": "카페베네 시그니처 콜드브루와 쫀득하고 달콤한 카페베네 젤라또가 진하게 어우러진 아포가토   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "title": "콜드브루 바닐라 젤라또 라떼",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200619766270.png",
+        "desction": "카페베네 시그니처 콜드브루와 바닐라 향이 가득한 부드러운 우유, 바닐라 젤라또를 함께 즐길 수 있는 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
         "information": {
-            "1회제공량 1개 (g/ml)": "205",
-            "열량 (kcal)": "317",
-            "당류 (g)": "27",
-            "단백질 (g) (%영양소기준치)": "4(8%)",
-            "포화지방 (g) (%영양소기준치)": "12(79%)",
-            "나트륨 (mg) (%영양소기준치)": "102(5%)"
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "251",
+            "당류 (g)": "36",
+            "단백질 (g) (%영양소기준치)": "5(9%)",
+            "포화지방 (g) (%영양소기준치)": "6(38%)",
+            "나트륨 (mg) (%영양소기준치)": "55(3%)"
         },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=270&pg=1&code=001000&scode="
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=96&pg=1&code=001000&scode="
     },
     {
         "brand": "CAFFEBENE",
@@ -1396,168 +406,18 @@
     },
     {
         "brand": "CAFFEBENE",
-        "title": "애플 시나몬 티(HOT)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200929977285.png",
-        "desction": "블랙티에 건조 사과와 시나몬스틱이 더해져 더욱  진하고 향기로운 티 블렌딩 음료",
+        "title": "콜드브루 브라운 슈가 버블 라떼 디카페인 (ICED ONLY)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331741354.png",
+        "desction": "카페베네 디카페인 콜드브루와 브라운 슈가의 달콤한 풍미, 쫄깃한 타피오카 펄을 함께 즐길 수 있는 음료   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
         "information": {
-            "1회 제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "118",
-            "당류 (g)": "19",
-            "단백질 (g) (%영양소기준치)": "2(4%)",
-            "포화지방 (g) (%영양소기준치)": "0.0(0%)",
-            "나트륨 (mg) (%영양소기준치)": "4(0%)"
+            "1회제공량 1잔 (ml)": "450",
+            "열량 (kcal)": "254",
+            "당류 (g)": "29",
+            "단백질 (g) (%영양소기준치)": "4(8%)",
+            "포화지방 (g) (%영양소기준치)": "3.6(24%)",
+            "나트륨 (mg) (%영양소기준치)": "57(3%)"
         },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=284&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "애플 시나몬 티(ICED)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200929461834.png",
-        "desction": "블랙티에 건조 사과와 시나몬스틱이 더해져 더욱  진하고 향기로운 티 블렌딩 음료",
-        "information": {
-            "1회 제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "111",
-            "당류 (g)": "19",
-            "단백질 (g) (%영양소기준치)": "1(2%)",
-            "포화지방 (g) (%영양소기준치)": "0.0(0%)",
-            "나트륨 (mg) (%영양소기준치)": "2(0%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=285&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "바닐라(싱글/더블)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200929624871.png",
-        "desction": "부드럽고 깊은 바닐라 풍미를 가진 카페베네만의 젤라또",
-        "information": {
-            "1회 제공량 1개(g)": "싱글: 1컵(90g) / 더블: 1컵(180g)",
-            "열량 (kcal)": "싱글: 192/ 더블: 383",
-            "당류 (g)": "싱글: 17g/ 더블:34",
-            "단백질 (g) (%영양소기준치)": "싱글: 2(4%)/ 더블: 5(9%)",
-            "포화지방 (g) (%영양소기준치)": "싱글: 5(35%))/ 더블:10(69%)",
-            "나트륨 (mg) (%영양소기준치)": "싱글: 64(3%)/ 더블:127(6%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=290&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "히비스커스 블렌드 티(HOT/ICED)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20201119887500.png",
-        "desction": "히비스커스와 호박을 블렌딩 된 차로 피부미용과 체지방 감소에 효과적이며, 상큼한 향미가 특징인 티",
-        "information": {
-            "1회 제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "3",
-            "당류 (g)": "0",
-            "단백질 (g) (%영양소기준치)": "0.3(1%)",
-            "포화지방 (g) (%영양소기준치)": "0.0(0%)",
-            "나트륨 (mg) (%영양소기준치)": "5(0%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=301&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "감잎 차(HOT/ICED)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20201119742672.png",
-        "desction": "약재로 쓰이는 감잎은 비타민 C가 풍부하고 피부미용에 좋으며, 녹차보다 깔끔한 맛과 은은한 향이 특징인 티",
-        "information": {
-            "1회 제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "2",
-            "당류 (g)": "0",
-            "단백질 (g) (%영양소기준치)": "0.2(0%)",
-            "포화지방 (g) (%영양소기준치)": "0.0(0%)",
-            "나트륨 (mg) (%영양소기준치)": "5(0%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=304&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "레몬 사과 블렌드 티(HOT/ICED)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20201119432583.png",
-        "desction": "사과 원물에 레몬향이 더해져 달콤상큼함을 함께  즐길 수 있는 허브 블렌딩 티",
-        "information": {
-            "1회 제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "4",
-            "당류 (g)": "0",
-            "단백질 (g) (%영양소기준치)": "0.3(1%)",
-            "포화지방 (g) (%영양소기준치)": "0.1(0%)",
-            "나트륨 (mg) (%영양소기준치)": "7(0%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=306&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "리코타치즈 아포가토",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220304669256.png",
-        "desction": "카페베네 에스프레소와 쫀득하고 달콤한 카페베네 젤라또가 진하게 어우러진 아포가토    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
-        "information": {
-            "1회제공량 1개 (g/ml)": "205",
-            "열량 (kcal)": "309",
-            "당류 (g)": "27",
-            "단백질 (g) (%영양소기준치)": "4(7%)",
-            "포화지방 (g) (%영양소기준치)": "12(79%)",
-            "나트륨 (mg) (%영양소기준치)": "102(5%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=314&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "콜드브루 디카페인",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331719381.png",
-        "desction": "에티오피아 내추럴 원두를 싱글 오리진으로 사용하여 달콤한 머스캣과 군고구마의 풍미가 특징인 콜드브루 디카페인 커피    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
-        "information": {
-            "1회제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "10",
-            "당류 (g)": "0",
-            "단백질 (g) (%영양소기준치)": "0(1%)",
-            "포화지방 (g) (%영양소기준치)": "0(0%)",
-            "나트륨 (mg) (%영양소기준치)": "0(0%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=321&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "콜드브루 라떼 디카페인",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331457412.png",
-        "desction": "카페베네 디카페인 콜드브루와 부드러운 우유의 조화가 매력적인 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
-        "information": {
-            "1회제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "110",
-            "당류 (g)": "7",
-            "단백질 (g) (%영양소기준치)": "3(5%)",
-            "포화지방 (g) (%영양소기준치)": "1.9(13%)",
-            "나트륨 (mg) (%영양소기준치)": "40(2%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=322&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "콜드브루 카라멜 마끼아또 디카페인",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331558651.png",
-        "desction": "카페베네 디카페인 콜드브루를 부드러운 우유에 점을 찍듯이 부은 후 달콤한 카라멜 소스를 드리즐한 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
-        "information": {
-            "1회제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "145",
-            "당류 (g)": "18",
-            "단백질 (g) (%영양소기준치)": "6(11%)",
-            "포화지방 (g) (%영양소기준치)": "2.8(19%)",
-            "나트륨 (mg) (%영양소기준치)": "45(2%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=323&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "콜드브루 헤이즐넛 라떼 디카페인",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331155041.png",
-        "desction": "카페베네 디카페인 콜드브루에 부드러운 우유와 고소한 헤이즐넛 풍미가 어우러진 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
-        "information": {
-            "1회제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "145",
-            "당류 (g)": "17",
-            "단백질 (g) (%영양소기준치)": "2(4%)",
-            "포화지방 (g) (%영양소기준치)": "1.6(11%)",
-            "나트륨 (mg) (%영양소기준치)": "35(2%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=324&pg=1&code=001000&scode="
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=331&pg=1&code=001000&scode="
     },
     {
         "brand": "CAFFEBENE",
@@ -1576,33 +436,18 @@
     },
     {
         "brand": "CAFFEBENE",
-        "title": "더블 베네브루 디카페인  7oz (ICED ONLY)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331629403.png",
-        "desction": "카페베네 디카페인 콜드브루와 카페베네만의 베이스를 쉐이킹하여 더욱 진한 달콤함을 시원하게 즐길 수 있는 메뉴    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
-        "information": {
-            "1회제공량 1잔 (ml)": "210",
-            "열량 (kcal)": "157",
-            "당류 (g)": "16",
-            "단백질 (g) (%영양소기준치)": "2(4%)",
-            "포화지방 (g) (%영양소기준치)": "7(49%)",
-            "나트륨 (mg) (%영양소기준치)": "19(1%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=326&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "콜드브루 오리지널 프라페노 디카페인",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331242382.png",
-        "desction": "카페베네만의 풍부한 커피 맛을 디카페인으로 즐길수 있는 콜드브루 디카페인 블렌디드 음료   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "title": "콜드브루 모카 프라페노 디카페인",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331477627.png",
+        "desction": "카페베네 디카페인 콜드브루와 진한 초콜릿 풍미를 시원하게 즐길 수 있는 블렌디드 음료    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
         "information": {
             "1회제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "270",
-            "당류 (g)": "32",
+            "열량 (kcal)": "375",
+            "당류 (g)": "50",
             "단백질 (g) (%영양소기준치)": "4(7%)",
-            "포화지방 (g) (%영양소기준치)": "9(57%)",
-            "나트륨 (mg) (%영양소기준치)": "90(4%)"
+            "포화지방 (g) (%영양소기준치)": "12(77%)",
+            "나트륨 (mg) (%영양소기준치)": "105(5%)"
         },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=327&pg=1&code=001000&scode="
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=329&pg=1&code=001000&scode="
     },
     {
         "brand": "CAFFEBENE",
@@ -1621,266 +466,93 @@
     },
     {
         "brand": "CAFFEBENE",
-        "title": "콜드브루 모카 프라페노 디카페인",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331477627.png",
-        "desction": "카페베네 디카페인 콜드브루와 진한 초콜릿 풍미를 시원하게 즐길 수 있는 블렌디드 음료    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "title": "콜드브루 오리지널 프라페노 디카페인",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331242382.png",
+        "desction": "카페베네만의 풍부한 커피 맛을 디카페인으로 즐길수 있는 콜드브루 디카페인 블렌디드 음료   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
         "information": {
             "1회제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "375",
-            "당류 (g)": "50",
+            "열량 (kcal)": "270",
+            "당류 (g)": "32",
             "단백질 (g) (%영양소기준치)": "4(7%)",
-            "포화지방 (g) (%영양소기준치)": "12(77%)",
-            "나트륨 (mg) (%영양소기준치)": "105(5%)"
+            "포화지방 (g) (%영양소기준치)": "9(57%)",
+            "나트륨 (mg) (%영양소기준치)": "90(4%)"
         },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=329&pg=1&code=001000&scode="
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=327&pg=1&code=001000&scode="
     },
     {
         "brand": "CAFFEBENE",
-        "title": "콜드브루 브라운 슈가 버블 라떼 디카페인 (ICED ONLY)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331741354.png",
-        "desction": "카페베네 디카페인 콜드브루와 브라운 슈가의 달콤한 풍미, 쫄깃한 타피오카 펄을 함께 즐길 수 있는 음료   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "title": "콜드브루 헤이즐넛 라떼 디카페인",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331155041.png",
+        "desction": "카페베네 디카페인 콜드브루에 부드러운 우유와 고소한 헤이즐넛 풍미가 어우러진 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
         "information": {
-            "1회제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "254",
-            "당류 (g)": "29",
-            "단백질 (g) (%영양소기준치)": "4(8%)",
-            "포화지방 (g) (%영양소기준치)": "3.6(24%)",
-            "나트륨 (mg) (%영양소기준치)": "57(3%)"
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "145",
+            "당류 (g)": "17",
+            "단백질 (g) (%영양소기준치)": "2(4%)",
+            "포화지방 (g) (%영양소기준치)": "1.6(11%)",
+            "나트륨 (mg) (%영양소기준치)": "35(2%)"
         },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=331&pg=1&code=001000&scode="
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=324&pg=1&code=001000&scode="
     },
     {
         "brand": "CAFFEBENE",
-        "title": "팥빙수(1인)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210503443652.png",
-        "desction": "쫀득한 바닐라젤라또와 고소한 넛츠, 인절미, 팥이 조화롭게 어우러진 젤라또 팥빙수",
+        "title": "콜드브루 카라멜 마끼아또 디카페인",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331558651.png",
+        "desction": "카페베네 디카페인 콜드브루를 부드러운 우유에 점을 찍듯이 부은 후 달콤한 카라멜 소스를 드리즐한 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
         "information": {
-            "1회제공량 1개 (g/ml)": "389",
-            "열량 (kcal)": "630",
-            "당류 (g)": "52",
-            "단백질 (g) (%영양소기준치)": "17(30%)",
-            "포화지방 (g) (%영양소기준치)": "7(465)",
-            "나트륨 (mg) (%영양소기준치)": "230(11%)"
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "145",
+            "당류 (g)": "18",
+            "단백질 (g) (%영양소기준치)": "6(11%)",
+            "포화지방 (g) (%영양소기준치)": "2.8(19%)",
+            "나트륨 (mg) (%영양소기준치)": "45(2%)"
         },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=337&pg=1&code=001000&scode="
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=323&pg=1&code=001000&scode="
     },
     {
         "brand": "CAFFEBENE",
-        "title": "딸기 빙수(1인)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210503352987.png",
-        "desction": "새콤달콤한 딸기젤라또와 딸기, 블루베리, 고소한 큐브치즈케이크를 더하여 상큼 달콤함이 일품인 1인 젤라또 빙수",
+        "title": "더블 베네브루 디카페인  7oz (ICED ONLY)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331629403.png",
+        "desction": "카페베네 디카페인 콜드브루와 카페베네만의 베이스를 쉐이킹하여 더욱 진한 달콤함을 시원하게 즐길 수 있는 메뉴    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
         "information": {
-            "1회제공량 1개 (g/ml)": "407",
-            "열량 (kcal)": "318",
-            "당류 (g)": "51",
-            "단백질 (g) (%영양소기준치)": "6(10%)",
-            "포화지방 (g) (%영양소기준치)": "5(33%)",
-            "나트륨 (mg) (%영양소기준치)": "110(6%)"
+            "1회제공량 1잔 (ml)": "210",
+            "열량 (kcal)": "157",
+            "당류 (g)": "16",
+            "단백질 (g) (%영양소기준치)": "2(4%)",
+            "포화지방 (g) (%영양소기준치)": "7(49%)",
+            "나트륨 (mg) (%영양소기준치)": "19(1%)"
         },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=338&pg=1&code=001000&scode="
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=326&pg=1&code=001000&scode="
     },
     {
         "brand": "CAFFEBENE",
-        "title": "초코악마 빙수(1인)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210503434451.png",
-        "desction": "진한 초코베이스에 쿠키분태,다크초콜릿젤라또가 조화롭게 어우러진 1인 젤라또 빙수",
+        "title": "콜드브루 라떼 디카페인",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331457412.png",
+        "desction": "카페베네 디카페인 콜드브루와 부드러운 우유의 조화가 매력적인 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
         "information": {
-            "1회제공량 1개 (g/ml)": "333",
-            "열량 (kcal)": "455",
-            "당류 (g)": "55",
-            "단백질 (g) (%영양소기준치)": "9(16%)",
-            "포화지방 (g) (%영양소기준치)": "7(48%)",
-            "나트륨 (mg) (%영양소기준치)": "290(15%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=340&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "쿠키앤크림 빙수(1인)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210503366116.png",
-        "desction": "부드러운 크림베이스와 쿠키분태, 리코타치즈 젤라또가 조화롭게 어우러진 1인 젤라또 빙수",
-        "information": {
-            "1회제공량 1개 (g/ml)": "373",
-            "열량 (kcal)": "630",
-            "당류 (g)": "66",
-            "단백질 (g) (%영양소기준치)": "10(18%)",
-            "포화지방 (g) (%영양소기준치)": "15(101%)",
-            "나트륨 (mg) (%영양소기준치)": "400(20%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=341&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "제주녹차 빙수(1인)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210503998104.png",
-        "desction": "진한 그린티베이스와 달콤한 팥, 고소한 넛트, 쫀득한 그린티젤라또가 조화롭게 어우러진 1인 젤라또 빙수",
-        "information": {
-            "1회제공량 1개 (g/ml)": "356",
-            "열량 (kcal)": "536",
-            "당류 (g)": "48",
-            "단백질 (g) (%영양소기준치)": "14(25%)",
-            "포화지방 (g) (%영양소기준치)": "6(38%)",
-            "나트륨 (mg) (%영양소기준치)": "150(8%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=342&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "커피 빙수(1인)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210503808343.png",
-        "desction": "부드러운 커피 베이스와 바삭한 비스코프 쿠키, 쫀득한 에스프레소 젤라또가 달콤함을 선사하는 1인 젤라또 빙수  - 카페베네 에스프레소는 R size(2 shot) 기준 147mg, 콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg, 콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다. - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
-        "information": {
-            "1회제공량 1개 (g/ml)": "352",
-            "열량 (kcal)": "475",
-            "당류 (g)": "48",
-            "단백질 (g) (%영양소기준치)": "11(19%)",
-            "포화지방 (g) (%영양소기준치)": "6(36%)",
-            "나트륨 (mg) (%영양소기준치)": "150(8%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=343&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "커피 빙수 디카페인(1인)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210503668954.png",
-        "desction": "디카페인 커피 베이스와 바삭한 비스코프 쿠키,쫀득 달콤한 바닐라 젤라또가 어우러진 디카페인으로 즐기는 1인 젤라또 빙수   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
-        "information": {
-            "1회제공량 1개 (g/ml)": "388",
-            "열량 (kcal)": "550",
-            "당류 (g)": "55",
-            "단백질 (g) (%영양소기준치)": "13(23%)",
-            "포화지방 (g) (%영양소기준치)": "6(43%)",
-            "나트륨 (mg) (%영양소기준치)": "170(8%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=344&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "커피 빙수 디카페인",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210503293469.png",
-        "desction": "디카페인 커피 베이스와 바삭한 비스코프 쿠키,쫀득 달콤한 바닐라 젤라또가 어우러진 디카페인으로 즐기는 1인 젤라또 빙수   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
-        "information": {
-            "1회제공량 1개 (g/ml)": "892",
-            "열량 (kcal)": "1121",
-            "당류 (g)": "106",
-            "단백질 (g) (%영양소기준치)": "24(44%)",
-            "포화지방 (g) (%영양소기준치)": "12(81%)",
-            "나트륨 (mg) (%영양소기준치)": "330(17%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=345&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "천도복숭아 젤라또",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210818993161.png",
-        "desction": "천도복숭아 비주얼과 새콤달콤한 맛을 느낄 수 있는 젤라또",
-        "information": {
-            "1회제공량 1개 (g/ml)": "-",
-            "열량 (kcal)": "-",
-            "당류 (g)": "-",
-            "단백질 (g) (%영양소기준치)": "-",
-            "포화지방 (g) (%영양소기준치)": "-",
-            "나트륨 (mg) (%영양소기준치)": "-"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=351&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "자몽 얼그레이 티(ICED)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210830249276.png",
-        "desction": "달콤쌉싸름한 자몽과 얼그레이 티가 만나 향기롭고 달콤하게 즐길 수 있는 티 블렌딩 음료",
-        "information": {
-            "1회제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "252",
-            "당류 (g)": "64",
-            "단백질 (g) (%영양소기준치)": "3(1%)",
-            "포화지방 (g) (%영양소기준치)": "0.9(6%)",
-            "나트륨 (mg) (%영양소기준치)": "64(3%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=386&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "자몽 얼그레이 티(HOT)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210830412588.png",
-        "desction": "달콤쌉싸름한 자몽과 얼그레이 티가 만나 향기롭고 달콤하게 즐길 수 있는 티 블렌딩 음료",
-        "information": {
-            "1회제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "252",
-            "당류 (g)": "64",
-            "단백질 (g) (%영양소기준치)": "3(1%)",
-            "포화지방 (g) (%영양소기준치)": "0.9(6%)",
-            "나트륨 (mg) (%영양소기준치)": "64(3%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=387&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "유자 히비스커스 티(ICED)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210830664807.png",
-        "desction": "상큼한 유자와 히비스커스 블렌드 티가 만나 상큼 달콤하게 즐길 수 있는 티 블렌딩 음료",
-        "information": {
-            "1회제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "281",
-            "당류 (g)": "63",
-            "단백질 (g) (%영양소기준치)": "3(1%)",
-            "포화지방 (g) (%영양소기준치)": "0.7(5%)",
-            "나트륨 (mg) (%영양소기준치)": "86(4%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=388&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "유자 히비스커스 티(HOT)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210830525994.png",
-        "desction": "상큼한 유자와 히비스커스 블렌드 티가 만나 상큼 달콤하게 즐길 수 있는 티 블렌딩 음료",
-        "information": {
-            "1회제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "281",
-            "당류 (g)": "63",
-            "단백질 (g) (%영양소기준치)": "3(1%)",
-            "포화지방 (g) (%영양소기준치)": "0.7(5%)",
-            "나트륨 (mg) (%영양소기준치)": "86(4%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=389&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "찰떡팥 젤라또",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20211020987145.png",
-        "desction": "쫀득쫀득한 찹쌀떡이 쏙쏙 박혀 있어 씹는 재미까지 즐거운 찰떡팥 젤라또",
-        "information": {
-            "1회제공량 1개 (g/ml)": "싱글 : 1컵(90g) / 더블 : 1컵(180g)",
-            "열량 (kcal)": "싱글 : 132 / 더블 : 263",
-            "당류 (g)": "싱글 : 20 / 더블 : 41",
-            "단백질 (g) (%영양소기준치)": "싱글 : 1(2%) / 더블 : 2(4%)",
-            "포화지방 (g) (%영양소기준치)": "싱글 : 0.8(5%) / 더블 :1.6(11%)",
-            "나트륨 (mg) (%영양소기준치)": "싱글 : 23(1%) / 더블 : 45(2%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=392&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "찰떡팥 젤라또 프라페노",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20211020363864.png",
-        "desction": "쫀득한 찰떡팥 젤라또와 달콤한 통단팥의 씹히는 맛을 더해 단팥을 더욱 진하고 시원하게 즐길 수 있는 블렌디드 음료",
-        "information": {},
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=393&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "에그타르트",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20211020541897.png",
-        "desction": "달걀노른자를 활용하여 만든 커스타드 크림으로 속을 채운 겉바속촉 타르트",
-        "information": {
-            "1회제공량 1개 (g/ml)": "1개(50g)",
-            "열량 (kcal)": "132",
-            "당류 (g)": "9",
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "110",
+            "당류 (g)": "7",
             "단백질 (g) (%영양소기준치)": "3(5%)",
-            "포화지방 (g) (%영양소기준치)": "2.5(17%)",
-            "나트륨 (mg) (%영양소기준치)": "54(3%)"
+            "포화지방 (g) (%영양소기준치)": "1.9(13%)",
+            "나트륨 (mg) (%영양소기준치)": "40(2%)"
         },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=395&pg=1&code=001000&scode="
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=322&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 디카페인",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331719381.png",
+        "desction": "에티오피아 내추럴 원두를 싱글 오리진으로 사용하여 달콤한 머스캣과 군고구마의 풍미가 특징인 콜드브루 디카페인 커피    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "10",
+            "당류 (g)": "0",
+            "단백질 (g) (%영양소기준치)": "0(1%)",
+            "포화지방 (g) (%영양소기준치)": "0(0%)",
+            "나트륨 (mg) (%영양소기준치)": "0(0%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=321&pg=1&code=001000&scode="
     },
     {
         "brand": "CAFFEBENE",
@@ -1900,61 +572,6 @@
     },
     {
         "brand": "CAFFEBENE",
-        "title": "치즈크림 숏 라떼 7oz",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20211103632150.png",
-        "desction": "우유의 고소함과 노란빛 체다치즈 크림의 진한 치즈 풍미가 매력적인 단짠단짠 라떼",
-        "information": {},
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=400&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "바스크 치즈 케이크",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220520599768.png",
-        "desction": "크림치즈를 듬뿍 넣어 높은 온도에서 빠르게 구워 낸 진하고 부드러운 치즈 케이크",
-        "information": {
-            "1회제공량 1개 (g/ml)": "151",
-            "열량 (kcal)": "531",
-            "당류 (g)": "25",
-            "단백질 (g) (%영양소기준치)": "8(15%)",
-            "포화지방 (g) (%영양소기준치)": "25(168%)",
-            "나트륨 (mg) (%영양소기준치)": "291(15%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=401&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "티라미수 케이크",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20211116457330.png",
-        "desction": "에스프레소에 적신 사보이 아르디 위에 마스카포네 치즈 크림이 듬뿍 올라간 티라미수",
-        "information": {
-            "1회제공량 1개 (g/ml)": "1개(120g)",
-            "열량 (kcal)": "361",
-            "당류 (g)": "21",
-            "단백질 (g) (%영양소기준치)": "8(14%)",
-            "포화지방 (g) (%영양소기준치)": "12(78%)",
-            "나트륨 (mg) (%영양소기준치)": "215(11%)",
-            "*알레르기 유발 성분": "밀, 우유, 대두 , 계란, 쇠고기, 돼지고기, 아황산류 포함"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=404&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "치즈 버블 라떼 L(ICED)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220221691256.png",
-        "desction": "단짠단짠 체다치즈의 맛과 고소한 우유, 쫄깃한 타피오카펄을 함께 즐길 수 있는 라떼",
-        "information": {},
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=416&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "트리플 치즈 젤라또 쉐이크(ICED)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220221433517.png",
-        "desction": "리코타치즈 젤라또, 체다치즈 베이스, 치즈케익 큐브가 올라가 3가지의 치즈맛을 더욱 진하고 시원하게 즐길 수 있는 블렌디드 음료",
-        "information": {},
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=417&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
         "title": "더블 베네브루 시그니처 7oz (ICED ONLY)",
         "imageURL": "http://www.caffebene.co.kr/uploads/product/20220411964404.png",
         "desction": "카페베네 콜드브루와 카페베네만의 베이스를 쉐이킹하여 더욱 진한 달콤함을 시원하게 즐길 수 있는 메뉴   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
@@ -1966,21 +583,6 @@
             "나트륨 (mg) (%영양소기준치)": "19(1%)"
         },
         "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=418&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "캐모마일 티(HOT/ICED)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220315400366.png",
-        "desction": "긴장 완화와 불면증 개선에 좋으며, 향긋하게 퍼지는 캐모마일 향과 입안 가득 느껴지는 달콤함이 특징인 허브 차",
-        "information": {
-            "1회제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "6",
-            "당류 (g)": "0",
-            "단백질 (g) (%영양소기준치)": "1(0%)",
-            "포화지방 (g) (%영양소기준치)": "0.0(0%)",
-            "나트륨 (mg) (%영양소기준치)": "16(1%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=419&pg=1&code=001000&scode="
     },
     {
         "brand": "CAFFEBENE",
@@ -2163,36 +765,6 @@
     },
     {
         "brand": "CAFFEBENE",
-        "title": "블루밍 콜드브루 바닐라 아포가토",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220330828558.png",
-        "desction": "카페베네 블루밍 콜드브루와 쫀득하고 달콤한 카페베네 젤라또가 진하게 어우러진 아포가토   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
-        "information": {
-            "1회제공량 1개 (g/ml)": "205",
-            "열량 (kcal)": "317",
-            "당류 (g)": "27",
-            "단백질 (g) (%영양소기준치)": "4(8%)",
-            "포화지방 (g) (%영양소기준치)": "12(79%)",
-            "나트륨 (mg) (%영양소기준치)": "102(5%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=433&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "블루밍 콜드브루 리코타치즈 아포가토",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220330828146.png",
-        "desction": "카페베네 블루밍 콜드브루와 쫀득하고 달콤한 카페베네 젤라또가 진하게 어우러진 아포가토   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
-        "information": {
-            "1회제공량 1개 (g/ml)": "205",
-            "열량 (kcal)": "317",
-            "당류 (g)": "27",
-            "단백질 (g) (%영양소기준치)": "4(8%)",
-            "포화지방 (g) (%영양소기준치)": "12(79%)",
-            "나트륨 (mg) (%영양소기준치)": "103(5%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=434&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
         "title": "블루밍 콜드브루 티라미수 젤라또 프라페노",
         "imageURL": "http://www.caffebene.co.kr/uploads/product/20220330598449.png",
         "desction": "카페베네 블루밍 콜드브루와 달콤한 티라미수의 풍미를 그대로 살린 더욱 진하고 시원하게 즐길 수 있는 블렌디드 음료   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
@@ -2223,51 +795,6 @@
     },
     {
         "brand": "CAFFEBENE",
-        "title": "시그니처 콜드브루 바닐라 아포가토",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220331933285.png",
-        "desction": "카페베네 시그니처 콜드브루와 쫀득하고 달콤한 카페베네 젤라또가 진하게 어우러진 아포가토\t\t   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
-        "information": {
-            "1회제공량 1개 (g/ml)": "205",
-            "열량 (kcal)": "329",
-            "당류 (g)": "28",
-            "단백질 (g) (%영양소기준치)": "4(8%)",
-            "포화지방 (g) (%영양소기준치)": "9(58%)",
-            "나트륨 (mg) (%영양소기준치)": "106(5%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=437&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "콜드브루 바닐라 아포가토 디카페인",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220411179348.png",
-        "desction": "카페베네 디카페인 콜드브루와 쫀득하고 달콤한 카페베네 젤라또가 진하게 어우러진 아포가토\t\t    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
-        "information": {
-            "1회제공량 1개 (g/ml)": "205",
-            "열량 (kcal)": "326",
-            "당류 (g)": "28",
-            "단백질 (g) (%영양소기준치)": "4(7%)",
-            "포화지방 (g) (%영양소기준치)": "9(58%)",
-            "나트륨 (mg) (%영양소기준치)": "106(5%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=438&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "콜드브루 리코타치즈 아포가토 디카페인",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220411542391.png",
-        "desction": "카페베네 디카페인 콜드브루와 쫀득하고 달콤한 카페베네 젤라또가 진하게 어우러진 아포가토\t\t   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
-        "information": {
-            "1회제공량 1개 (g/ml)": "205",
-            "열량 (kcal)": "317",
-            "당류 (g)": "27",
-            "단백질 (g) (%영양소기준치)": "4(8%)",
-            "포화지방 (g) (%영양소기준치)": "12(79%)",
-            "나트륨 (mg) (%영양소기준치)": "102(5%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=439&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
         "title": "블루밍 콜드브루 모카 프라페노",
         "imageURL": "http://www.caffebene.co.kr/uploads/product/20220411797494.png",
         "desction": "카페베네 블루밍 콜드브루와 진한 초콜릿 풍미를 시원하게 즐길 수 있는 블렌디드 음료   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,\t\t\t\t\t    콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,\t\t\t\t\t    콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.\t\t\t\t\t  - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
@@ -2283,162 +810,11 @@
     },
     {
         "brand": "CAFFEBENE",
-        "title": "쿠키앤크림 케이크",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220520973110.png",
-        "desction": "진한 치즈크림과 달콤한 쿠키가 어우러진 쿠키앤크림 케이크",
-        "information": {
-            "1회제공량 1개 (g/ml)": "161",
-            "열량 (kcal)": "541",
-            "당류 (g)": "30",
-            "단백질 (g) (%영양소기준치)": "4(7%)",
-            "포화지방 (g) (%영양소기준치)": "16(108%)",
-            "나트륨 (mg) (%영양소기준치)": "351(18%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=444&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "흑임자 갸또 쇼콜라",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220520214257.png",
-        "desction": "꾸덕한 갸또 쇼콜라 위에 흑임자 초코가나슈와 생크림이 레이어드된 흑임자의 풍미가 가득한 케이크",
-        "information": {
-            "1회제공량 1개 (g/ml)": "121",
-            "열량 (kcal)": "389",
-            "당류 (g)": "27",
-            "단백질 (g) (%영양소기준치)": "6(11%)",
-            "포화지방 (g) (%영양소기준치)": "16(108%)",
-            "나트륨 (mg) (%영양소기준치)": "311(16%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=445&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "마카롱",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220520391961.png",
-        "desction": "쫀득한 꼬끄 사이에 필링이 가득 들어간 뚱카롱 (황치즈/다크초코/퐁/순우유/쿠앤크 5종)",
-        "information": {
-            "1회제공량 1개 (g/ml)": "40",
-            "열량 (kcal)": "165",
-            "당류 (g)": "9",
-            "단백질 (g) (%영양소기준치)": "3(5%)",
-            "포화지방 (g) (%영양소기준치)": "4.4(29%)",
-            "나트륨 (mg) (%영양소기준치)": "98(5%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=447&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "제주한라봉 젤라또 에이드(ICED ONLY)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220610939410.png",
-        "desction": "제주를 가득 담은 새콤달콤한 한라봉의 맛을 그대로 담아 더욱 진하고 시원하게 즐길 수 있는 젤라또 에이드",
-        "information": {
-            "1회제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "249",
-            "당류 (g)": "53",
-            "단백질 (g) (%영양소기준치)": "1(2%)",
-            "포화지방 (g) (%영양소기준치)": "1.1(7%)",
-            "나트륨 (mg) (%영양소기준치)": "40(2%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=449&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "제주한라봉 리얼 요거트 프라페노(ICED ONLY)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220610118841.png",
-        "desction": "새콤달콤한 제주 한라봉과 리얼 요거트가 어우러진 블렌디드 음료",
-        "information": {
-            "1회제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "403",
-            "당류 (g)": "78",
-            "단백질 (g) (%영양소기준치)": "6(11%)",
-            "포화지방 (g) (%영양소기준치)": "1.8(12%)",
-            "나트륨 (mg) (%영양소기준치)": "175(9%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=451&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "제주한라봉 젤라또",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220610156387.png",
-        "desction": "제주산 한라봉 알갱이가 살아 있는 카페베네 제주한라봉 베이스로 만들어 더욱 새콤달콤한 제주한라봉 젤라또",
-        "information": {
-            "1회제공량 1개 (g/ml)": "싱글 : 1컵(90g) / 더블 : 1컵(180g)",
-            "열량 (kcal)": "싱글 : 126 / 더블 : 252",
-            "당류 (g)": "싱글 : 26 / 더블 : 51",
-            "단백질 (g) (%영양소기준치)": "싱글 : 1(1%) / 더블 : 1(1%)",
-            "포화지방 (g) (%영양소기준치)": "싱글 : 1.2(8%) / 더블 : 2.4(16%)",
-            "나트륨 (mg) (%영양소기준치)": "싱글 : 42(2%) / 더블 : 84(4%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=456&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "흑임자 젤라또",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220610719628.png",
-        "desction": "흑임자의 고소함과 달콤함을 담은 쫀득한 식감의 흑임자 젤라또",
+        "title": "카페 오트 라떼(HOT)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220831871294.png",
+        "desction": "카페베네 에스프레소와 고소한 오트 밀크의 조화가 매력적인 스페셜 커피",
         "information": {},
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=457&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "제주녹차 오트 라떼(ICED)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220831643046.png",
-        "desction": "제주에서 자란 녹차의 쌉싸름한 풍미를 고소한 오트 밀크와 함께 즐길 수 있는 음료",
-        "information": {},
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=469&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "제주녹차 오트 라떼(HOT)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220831858880.png",
-        "desction": "제주에서 자란 녹차의 쌉싸름한 풍미를 고소한 오트 밀크와 함께 즐길 수 있는 음료",
-        "information": {},
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=470&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "우리흑임자 라떼(ICED)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220831726772.png",
-        "desction": "국산 흑임자의 고소한 풍미를 부드러운 우유와 함께 즐길 수 있는 음료",
-        "information": {
-            "1회제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "225",
-            "당류 (g)": "31",
-            "단백질 (g) (%영양소기준치)": "7(12%)",
-            "포화지방 (g) (%영양소기준치)": "4.5(30%)",
-            "나트륨 (mg) (%영양소기준치)": "129(6%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=471&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "우리흑임자 라떼(HOT)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220831536420.png",
-        "desction": "국산 흑임자의 고소한 풍미를 부드러운 우유와 함께 즐길 수 있는 음료",
-        "information": {
-            "1회제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "243",
-            "당류 (g)": "31",
-            "단백질 (g) (%영양소기준치)": "8(14%)",
-            "포화지방 (g) (%영양소기준치)": "4.7(31%)",
-            "나트륨 (mg) (%영양소기준치)": "142(7%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=472&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "애플망고 주스",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20230302708760.png",
-        "desction": "새콤달콤한 애플망고를 듬뿍 넣어  갈아 만든 과일주스",
-        "information": {
-            "1회제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "171",
-            "당류 (g)": "37",
-            "단백질 (g) (%영양소기준치)": "1(2%)",
-            "포화지방 (g) (%영양소기준치)": "0(0%)",
-            "나트륨 (mg) (%영양소기준치)": "41(2%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=473&pg=1&code=001000&scode="
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=475&pg=1&code=001000&scode="
     },
     {
         "brand": "CAFFEBENE",
@@ -2450,248 +826,11 @@
     },
     {
         "brand": "CAFFEBENE",
-        "title": "카페 오트 라떼(HOT)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220831871294.png",
-        "desction": "카페베네 에스프레소와 고소한 오트 밀크의 조화가 매력적인 스페셜 커피",
-        "information": {},
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=475&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
         "title": "흑임자 크림 라떼(ICED)",
         "imageURL": "http://www.caffebene.co.kr/uploads/product/20220831979442.png",
         "desction": "에스프레소와 국산 흑임자 크림의 고소함이 어우러진 스페셜 커피",
         "information": {},
         "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=477&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "소금빵",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20221017460020.png",
-        "desction": "버터의 고소한 풍미와 소금의 짭조름함이 더해진 소금빵",
-        "information": {
-            "1회제공량 1개 (g/ml)": "75",
-            "열량 (kcal)": "248",
-            "당류 (g)": "4",
-            "단백질 (g) (%영양소기준치)": "6(11%)",
-            "포화지방 (g) (%영양소기준치)": "0(0%)",
-            "나트륨 (mg) (%영양소기준치)": "695(35%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=478&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "비스코프 스모어 쿠키",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20221017813006.png",
-        "desction": "통으로 올린 비스코프의 진한 맛과 마시멜로우의 쫀득한 식감이 어우러진 쿠키",
-        "information": {
-            "1회제공량 1개 (g/ml)": "95",
-            "열량 (kcal)": "453",
-            "당류 (g)": "26",
-            "단백질 (g) (%영양소기준치)": "5(9%)",
-            "포화지방 (g) (%영양소기준치)": "1.0(7%)",
-            "나트륨 (mg) (%영양소기준치)": "259(13%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=479&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "오레오 스모어 쿠키",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20221017223159.png",
-        "desction": "통으로 올린 오레오의 달콤한 맛과 마시멜로우의 쫀득한 식감이 어우러진 쿠키",
-        "information": {
-            "1회제공량 1개 (g/ml)": "100",
-            "열량 (kcal)": "435",
-            "당류 (g)": "27",
-            "단백질 (g) (%영양소기준치)": "7(13%)",
-            "포화지방 (g) (%영양소기준치)": "2.3(15%)",
-            "나트륨 (mg) (%영양소기준치)": "218(11%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=480&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "미트볼 칠리 치즈 샌드위치",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20221017851957.png",
-        "desction": "겉은 바삭하고 속은 부드러운 바게트 사이에 미트볼와 매콤한 칠리소스, 고소한 모짜렐라치즈가 조화로운 샌드위치",
-        "information": {
-            "1회제공량 1개 (g/ml)": "233",
-            "열량 (kcal)": "570",
-            "당류 (g)": "14",
-            "단백질 (g) (%영양소기준치)": "26(47%)",
-            "포화지방 (g) (%영양소기준치)": "9(60%)",
-            "나트륨 (mg) (%영양소기준치)": "1,140(57%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=481&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "할라피뇨 치킨 샌드위치",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20221017628706.png",
-        "desction": "쫀득한 치아바타 사이에 치킨과 썬드라이 토마토, 할라피뇨, 고소한 모짜렐라치즈가 어우러진 담백 매콤한 샌드위치",
-        "information": {
-            "1회제공량 1개 (g/ml)": "194",
-            "열량 (kcal)": "480",
-            "당류 (g)": "5",
-            "단백질 (g) (%영양소기준치)": "29(53%)",
-            "포화지방 (g) (%영양소기준치)": "6(40%)",
-            "나트륨 (mg) (%영양소기준치)": "850(43%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=482&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "문경오미자 뱅쇼(HOT)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20221116247727.png",
-        "desction": "문경에서 자란 오미자의 새콤달콤함이 어우러진 레드 뱅쇼",
-        "information": {
-            "1회제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "219",
-            "당류 (g)": "47",
-            "단백질 (g) (%영양소기준치)": "1(1%)",
-            "포화지방 (g) (%영양소기준치)": "0(0%)",
-            "나트륨 (mg) (%영양소기준치)": "25(1%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=485&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "순우유 롤",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20230111118638.png",
-        "desction": "촉촉한 롤케이크 안에 부드러운 우유 크림이 가득 차 있는 케이크",
-        "information": {
-            "1회제공량 1개 (g/ml)": "1개(91g)",
-            "열량 (kcal)": "396",
-            "당류 (g)": "28",
-            "단백질 (g) (%영양소기준치)": "5(9%)",
-            "포화지방 (g) (%영양소기준치)": "13(88%)",
-            "나트륨 (mg) (%영양소기준치)": "66(3%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=493&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "소보로빵",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20230111235431.png",
-        "desction": "빵의 촉촉한 식감과 소보로의 고소한 풍미가 특징인 소보로빵",
-        "information": {},
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=494&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "애플망고 치즈 젤라또 프라페노",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20230302302735.png",
-        "desction": "망고 젤라또와 필라델피아 치즈 케이크 큐브를 더해 새콤달콤한 애플망고와 진한 치즈 풍미를  시원하게 즐길 수 있는 블렌디드 음료",
-        "information": {},
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=501&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "애플망고 리얼 요거트 젤라또 프라페노",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20230302362212.png",
-        "desction": "새콤달콤한 애플망고와 리얼 요거트, 요거트 젤라또가 어우러진 블렌디드 음료",
-        "information": {},
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=502&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "애플망고 연유 보틀 라떼",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20230302798232.png",
-        "desction": "새콤달콤한 애플망고와 달콤한 연유를 함께 즐길 수 있는 애플망고 연유 라떼",
-        "information": {},
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=503&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "애플망고 빙수",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20230302398833.png",
-        "desction": "달콤한 애플망고 베이스에 상큼한 애플망고 과육, 망고 젤라또,필라델피아 치즈케이크 큐브가 가득 토핑된 클래식 젤라또 빙수",
-        "information": {
-            "1회제공량 1개 (g/ml)": "842",
-            "열량 (kcal)": "609",
-            "당류 (g)": "96",
-            "단백질 (g) (%영양소기준치)": "7(13%)",
-            "포화지방 (g) (%영양소기준치)": "9(62%)",
-            "나트륨 (mg) (%영양소기준치)": "208(10%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=504&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "애플망고 빙수(1인)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20230302984664.png",
-        "desction": "달콤한 애플망고 베이스에 상큼한 애플망고 과육, 망고 젤라또,필라델피아 치즈케이크 큐브가 가득 토핑된 1인 젤라또 빙수",
-        "information": {
-            "1회제공량 1개 (g/ml)": "344",
-            "열량 (kcal)": "272",
-            "당류 (g)": "46",
-            "단백질 (g) (%영양소기준치)": "4(7%)",
-            "포화지방 (g) (%영양소기준치)": "3.7(25%)",
-            "나트륨 (mg) (%영양소기준치)": "91(5%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=505&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "애플망고 눈꽃빙수",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20230302800850.png",
-        "desction": "달콤한 애플망고 베이스에  상큼한 애플망고 과육, 망고 젤라또, 필라델피아 치즈케이크 큐브가 가득 토핑된 젤라또 눈꽃빙수",
-        "information": {
-            "1회제공량 1개 (g/ml)": "696",
-            "열량 (kcal)": "784",
-            "당류 (g)": "119",
-            "단백질 (g) (%영양소기준치)": "13(23%)",
-            "포화지방 (g) (%영양소기준치)": "12(83%)",
-            "나트륨 (mg) (%영양소기준치)": "266(13%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=506&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "논산수박 프라페노",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20230711472941.png",
-        "desction": "달콤하게 잘 익은 충남 논산 수박을 통째로 갈은 시원한 블렌디드 음료",
-        "information": {},
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=507&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "성주참외 프라페노",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20230711735389.png",
-        "desction": "경북 성주 참외 본연의 신선함을 100% 그대로 갈아 담아 시원하고 달달한 블렌디드 음료",
-        "information": {},
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=508&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "우리배 프라페노",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20230711977037.png",
-        "desction": "국산 배로 만들어 더욱 신선하고 청량감 있게 즐길 수 있는 블렌디드 음료",
-        "information": {},
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=509&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "베리베리 그릭요거트 빙수",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20230711789509.png",
-        "desction": "진한 그릭요거트 베이스에 상큼한 딸기와 믹스베리(블랙베리, 라즈베리, 블루베리), 요거트 젤라또, 요거트 빅구슬 아이스크림이 가득 올라간 새콤달콤한 젤라또 빙수",
-        "information": {},
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=510&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "헤이즐넛 라떼(HOT)",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20240610533010.png",
-        "desction": "에스프레소에 부드러운 우유와 고소한 헤이즐넛 풍미가 어우러진 커피",
-        "information": {
-            "1회제공량 1잔 (ml)": "360",
-            "열량 (kcal)": "186",
-            "당류 (g)": "22",
-            "단백질 (g) (%영양소기준치)": "7(13%)",
-            "포화지방 (g) (%영양소기준치)": "4(27%)",
-            "나트륨 (mg) (%영양소기준치)": "70(3%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=511&pg=1&code=001000&scode="
     },
     {
         "brand": "CAFFEBENE",
@@ -2710,6 +849,21 @@
     },
     {
         "brand": "CAFFEBENE",
+        "title": "헤이즐넛 라떼(HOT)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20240610533010.png",
+        "desction": "에스프레소에 부드러운 우유와 고소한 헤이즐넛 풍미가 어우러진 커피",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "186",
+            "당류 (g)": "22",
+            "단백질 (g) (%영양소기준치)": "7(13%)",
+            "포화지방 (g) (%영양소기준치)": "4(27%)",
+            "나트륨 (mg) (%영양소기준치)": "70(3%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=511&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
         "title": "베네 크림 라떼(ICED ONLY)",
         "imageURL": "http://www.caffebene.co.kr/uploads/product/20240610338074.png",
         "desction": "에스프레소에 달콤한 우유 베이스와 부드러운 크림이 어우러진 커피",
@@ -2722,74 +876,5 @@
             "나트륨 (mg) (%영양소기준치)": "100(5%)"
         },
         "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=513&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "제주청귤 에이드",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20240220710984.png",
-        "desction": "제주에서 자란 청귤의 상큼함을 청량감 있게 즐길 수 있는 에이드",
-        "information": {
-            "1회제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "259",
-            "당류 (g)": "57",
-            "단백질 (g) (%영양소기준치)": "0(1%)",
-            "포화지방 (g) (%영양소기준치)": "0(0%)",
-            "나트륨 (mg) (%영양소기준치)": "61(3%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=515&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "문경오미자 샹그리아 에이드",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20240220769065.png",
-        "desction": "문경에서 자란 오미자의 새콤달콤함이 어우러진 레드 뱅쇼를 청량감 있게 즐길 수 있는 에이드",
-        "information": {
-            "1회제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "204",
-            "당류 (g)": "44",
-            "단백질 (g) (%영양소기준치)": "1(1%)",
-            "포화지방 (g) (%영양소기준치)": "0(0%)",
-            "나트륨 (mg) (%영양소기준치)": "17(1%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=516&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "모히또 에이드",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20240220125476.png",
-        "desction": "상큼한 레몬, 라임과 상쾌한 민트 향이 가득한 모히또 에이드",
-        "information": {
-            "1회제공량 1잔 (ml)": "450",
-            "열량 (kcal)": "143",
-            "당류 (g)": "28",
-            "단백질 (g) (%영양소기준치)": "0(1%)",
-            "포화지방 (g) (%영양소기준치)": "0(1%)",
-            "나트륨 (mg) (%영양소기준치)": "2(0%)"
-        },
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=517&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "키위 망고 젤라또 에이드",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20240220462909.png",
-        "desction": "상큼한 키위와 새콤달콤한 망고 젤라또가 어우러진 청량 가득한 젤라또 에이드",
-        "information": {},
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=518&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "논산 생딸기 주스",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20240220479595.png",
-        "desction": "\"신선한 논산 생딸기를 듬뿍 넣어 갈아 만든 딸기 주스\"",
-        "information": {},
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=519&pg=1&code=001000&scode="
-    },
-    {
-        "brand": "CAFFEBENE",
-        "title": "논산 생딸기 라떼",
-        "imageURL": "http://www.caffebene.co.kr/uploads/product/20240220875379.png",
-        "desction": "\"논산 생딸기 과육을 가득 올려 딸기 본연의 상큼함을 즐길 수 있는 딸기 라떼\"",
-        "information": {},
-        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=520&pg=1&code=001000&scode="
     }
 ]
