@@ -63,11 +63,12 @@ for seq in seq_range:
     track = soup.select_one(".menu-detail")
 
     if track:
-        title = track.select_one(".static h2").text.strip() if track.select_one(".static h2") else "No Title"
+        title_tag = track.select_one(".static h2")
+        title = title_tag.text.strip() if title_tag else ""
         image_url_tag = track.select_one(".menu-detail-view-photo img")
-        image_url = image_url_tag.get('src').replace('/uploads', 'http://www.caffebene.co.kr/uploads') if image_url_tag else "No Image"
+        image_url = image_url_tag.get('src').replace('/uploads', 'http://www.caffebene.co.kr/uploads') if image_url_tag else ""
         desction_tag = track.select_one(".menu-detail-view-info .t1")
-        desction = desction_tag.get_text(separator="\n").strip() if desction_tag else "No Description"
+        desction = desction_tag.text.strip().replace('\n', ' ') if desction_tag else ""
 
         # tbody의 tr 요소들을 가져옴
         nutrition_info = {}
@@ -79,14 +80,16 @@ for seq in seq_range:
                 value = row.find("td").text.strip()
                 nutrition_info[key] = value
 
-        coffee_data.append({
-            "brand": page_title,
-            "title": title,
-            "imageURL": image_url,
-            "desction": desction,
-            "information": nutrition_info,
-            "address": address
-        })
+        # 필수 필드가 모두 존재하는 경우에만 데이터 추가
+        if title and image_url and desction:
+            coffee_data.append({
+                "brand": page_title,
+                "title": title,
+                "imageURL": image_url,
+                "desction": desction,
+                "information": nutrition_info,
+                "address": address
+            })
     else:
         print(f"No data found for seq={seq}")
 
