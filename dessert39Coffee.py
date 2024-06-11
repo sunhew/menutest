@@ -38,9 +38,8 @@ soup = BeautifulSoup(html_source_updated, 'html.parser')
 page_title = soup.head.title.text.strip() if soup.head.title else "No Title"
 page_title = page_title.replace(" - 메뉴", "").strip()
 
-# head 태그 내의 link rel="canonical" 태그 선택 및 href 속성 값 추출
-canonical_link = soup.head.find('link', rel='canonical')
-address = canonical_link['href'].strip() if canonical_link else "No Address"
+# 고정된 주소 설정
+address = "https://dessert39.com/"
 
 # 데이터 추출
 coffee_data = []
