@@ -35,7 +35,7 @@ coffee_data = []
 
 for seq in seq_range:
     # 각 seq 값에 대해 페이지 로드
-    url = f"http://www.caffebene.co.kr/menu/menu_list.html?code=001000&seq={seq}"
+    url = f"http://www.caffebene.co.kr/menu/menu_view.html?seq={seq}&pg=1&code=001000&scode="
     browser.get(url)
     
     # 페이지가 완전히 로드될 때까지 대기
