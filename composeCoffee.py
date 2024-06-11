@@ -51,6 +51,7 @@ for url in urls:
         brand = soup.head.title.text.strip() if soup.head.title else "No Brand"
         name = item.select_one(".title").text.strip()
         image_url = item.select_one(".rthumbnailimg").get('src').replace('/files', 'https://composecoffee.com/files')
+        address = canonical_link['href'].strip() if canonical_link else "No Address"
     
         # 영양성분 정보 추출
         nutrition_info = {}
@@ -64,7 +65,7 @@ for url in urls:
                     nutrition_info[key] = value
     
         compose_data.append({
-            "brand": brand,
+            # "brand": brand,
             "title": name,
             "imageURL": image_url,
             "information": nutrition_info,
