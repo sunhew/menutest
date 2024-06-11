@@ -25,7 +25,8 @@ options.add_argument("--headless")
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--disable-gpu")
-browser = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
+service = ChromeService(executable_path=ChromeDriverManager().install())
+browser = webdriver.Chrome(service=service, options=options)
 
 # seq 값의 범위 설정 (1부터 520까지)
 seq_range = range(1, 521)
@@ -37,19 +38,19 @@ for seq in seq_range:
     # 각 seq 값에 대해 페이지 로드
     url = f"http://www.caffebene.co.kr/menu/menu_view.html?seq={seq}&pg=1&code=001000&scode="
     browser.get(url)
-    
+
     # 페이지가 완전히 로드될 때까지 대기
     try:
-        WebDriverWait(browser, 10).until(
+        WebDriverWait(browser, 20).until(
             EC.presence_of_element_located((By.CLASS_NAME, "menu-detail"))
         )
     except:
         print(f"Skipping seq={seq}, element not found.")
         continue
 
-    # 업데이트된 페이지 소스를 변수에 저장
-    html_source_updated = browser.page_source
-    soup = BeautifulSoup(html_source_updated, 'html.parser')
+    # 상세 페이지의 소스를 변수에 저장
+    detail_page_source = browser.page_source
+    soup = BeautifulSoup(detail_page_source, 'html.parser')
 
     # 헤드의 타이틀을 가져옴
     page_title = soup.head.title.text.strip() if soup.head.title else "No Title"
