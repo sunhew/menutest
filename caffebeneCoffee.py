@@ -22,7 +22,10 @@ if not os.path.exists(folder_path):
 # 웹드라이브 설치
 options = ChromeOptions()
 options.add_argument("--headless")
-browser = webdriver.Chrome(service=webdriver.ChromeService(ChromeDriverManager().install()), options=options)
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
+options.add_argument("--disable-gpu")
+browser = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
 
 # seq 값의 범위 설정 (1부터 520까지)
 seq_range = range(1, 521)
@@ -56,9 +59,9 @@ for seq in seq_range:
     address = url
 
     # 데이터 추출
-    tracks = soup.select(".menu-detail")
+    track = soup.select_one(".menu-detail")
 
-    for track in tracks:
+    if track:
         title = track.select_one(".static h2").text.strip()
         image_url = track.select_one(".menu-detail-view-photo img").get('src').replace('/uploads', 'http://www.caffebene.co.kr/uploads')
         desction = track.select_one(".menu-detail-view-info .t1").text.strip()
@@ -81,6 +84,8 @@ for seq in seq_range:
             "information": nutrition_info,
             "address": address
         })
+    else:
+        print(f"No data found for seq={seq}")
 
 # 데이터를 JSON 파일로 저장
 with open(filename, 'w', encoding='utf-8') as f:
