@@ -64,8 +64,10 @@ for seq in seq_range:
 
     if track:
         title = track.select_one(".static h2").text.strip() if track.select_one(".static h2") else "No Title"
-        image_url = track.select_one(".menu-detail-view-photo img").get('src').replace('/uploads', 'http://www.caffebene.co.kr/uploads') if track.select_one(".menu-detail-view-photo img") else "No Image"
-        desction = track.select_one(".menu-detail-view-info .t1").text.strip() if track.select_one(".menu-detail-view-info .t1") else "No Description"
+        image_url_tag = track.select_one(".menu-detail-view-photo img")
+        image_url = image_url_tag.get('src').replace('/uploads', 'http://www.caffebene.co.kr/uploads') if image_url_tag else "No Image"
+        desction_tag = track.select_one(".menu-detail-view-info .t1")
+        desction = desction_tag.get_text(separator="\n").strip() if desction_tag else "No Description"
 
         # tbody의 tr 요소들을 가져옴
         nutrition_info = {}
