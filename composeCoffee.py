@@ -43,16 +43,20 @@ for url in urls:
     html_source_updated = browser.page_source
     soup = BeautifulSoup(html_source_updated, 'html.parser')
 
+    # 헤드의 타이틀을 가져옴
+    page_title = soup.head.title.text.strip() if soup.head.title else "No Title"
+
+    # head 태그 내의 link rel="canonical" 태그 선택 및 href 속성 값 추출
+    canonical_link = soup.head.find('link', rel='canonical')
+    address = canonical_link['href'].strip() if canonical_link else "No Address"
+
     # 데이터 추출
-    compose_data = []
     items = soup.select(".itemBox")
     for item in items:
-        # brand = item.select_one("title").text.strip() # 이 줄은 오류를 일으킬 수 있음
-        brand = soup.head.title.text.strip() if soup.head.title else "No Brand"
+        brand = page_title  # 페이지 타이틀을 브랜드로 사용
         name = item.select_one(".title").text.strip()
         image_url = item.select_one(".rthumbnailimg").get('src').replace('/files', 'https://composecoffee.com/files')
-        address = canonical_link['href'].strip() if canonical_link else "No Address"
-    
+
         # 영양성분 정보 추출
         nutrition_info = {}
         nutrition_items = item.select(".info.g-0 .extra")
@@ -63,9 +67,9 @@ for url in urls:
                 if len(key_value) == 2:
                     key, value = key_value
                     nutrition_info[key] = value
-    
+
         compose_data.append({
-            # "brand": brand,
+            "brand": brand,
             "title": name,
             "imageURL": image_url,
             "information": nutrition_info,
