@@ -28,13 +28,18 @@ options.add_argument("--disable-gpu")
 service = ChromeService(executable_path=ChromeDriverManager().install())
 browser = webdriver.Chrome(service=service, options=options)
 
-# seq 값의 범위 설정 (1부터 520까지)
-seq_range = range(1, 521)
+# 수집할 seq 값 리스트
+seq_list = [
+    23, 24, 27, 28, 29, 30, 31, 32, 43, 37, 38, 39, 40, 33, 34, 35, 22, 41, 46, 70,
+    71, 72, 266, 267, 268, 96, 271, 331, 325, 329, 328, 327, 324, 323, 326, 322,
+    321, 397, 398, 418, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 431, 432,
+    435, 436, 443, 475, 474, 477, 512, 511, 513
+]
 
 # 데이터 추출을 위한 빈 리스트 생성
 coffee_data = []
 
-for seq in seq_range:
+for seq in seq_list:
     # 각 seq 값에 대해 페이지 로드
     url = f"http://www.caffebene.co.kr/menu/menu_view.html?seq={seq}&pg=1&code=001000&scode="
     browser.get(url)
