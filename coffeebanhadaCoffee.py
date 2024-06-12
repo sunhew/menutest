@@ -48,6 +48,15 @@ for m_idx in m_idx_list:
         )
     except:
         print(f"Skipping m_idx={m_idx}, element not found.")
+        coffee_data.append({
+            "brand": "커피에반하다",
+            "title": "",
+            "titleE": "",
+            "imageURL": "",
+            "desction": "",
+            "information": {},
+            "address": url
+        })
         continue
 
     # 상세 페이지의 소스를 변수에 저장
@@ -84,18 +93,36 @@ for m_idx in m_idx_list:
                         }
                         break
 
-            if title and titleE and image_url and desction and nutrition_info:
-                coffee_data.append({
-                    "brand": "커피에반하다",
-                    "title": title,
-                    "titleE": titleE,
-                    "imageURL": image_url,
-                    "desction": desction,
-                    "information": nutrition_info,
-                    "address": address
-                })
+            coffee_data.append({
+                "brand": "커피에반하다",
+                "title": title,
+                "titleE": titleE,
+                "imageURL": image_url,
+                "desction": desction,
+                "information": nutrition_info,
+                "address": address
+            })
         except Exception as e:
             print(f"Error extracting data from m_idx={m_idx}: {e}")
+            coffee_data.append({
+                "brand": "커피에반하다",
+                "title": "",
+                "titleE": "",
+                "imageURL": "",
+                "desction": "",
+                "information": {},
+                "address": address
+            })
+    else:
+        coffee_data.append({
+            "brand": "커피에반하다",
+            "title": "",
+            "titleE": "",
+            "imageURL": "",
+            "desction": "",
+            "information": {},
+            "address": address
+        })
 
 # 데이터를 JSON 파일로 저장
 with open(filename, 'w', encoding='utf-8') as f:
