@@ -54,10 +54,6 @@ for m_idx in m_idx_list:
     detail_page_source = browser.page_source
     soup = BeautifulSoup(detail_page_source, 'html.parser')
 
-    # 헤드의 타이틀을 가져옴
-    page_title = soup.body.title.text.strip() if soup.head.title else "No Title"
-    page_title = page_title.replace(" - 메뉴", "").strip()
-
     # 고정된 주소 설정
     address = url
 
@@ -67,11 +63,11 @@ for m_idx in m_idx_list:
     if item:
         try:
             title = item.select_one(".menu_info_right p.menu_title").get_text(separator=" ").strip()
-            titleE = item.select_one(".menu_info_right p.menu_title span").text.strip()
+            title = title.split("\n")[0].strip()
             image_url = item.select_one(".menu_info_left img").get('src').replace('/data', 'https://coffeebanhada.com/data')
             desction = item.select_one(".menu_info_right p.menu_sub").get_text(separator=" ").strip().replace('\n', ' ').replace('\t', ' ')
 
-           
+            # HOT 영양 정보 추출
             nutrition_info = {}
             rows = item.select("div.nutritional_info_vanada tr")
             for row in rows:
@@ -89,11 +85,10 @@ for m_idx in m_idx_list:
                         }
                         nutrition_info[key] = value
 
-            if title and titleE and image_url and desction and nutrition_info:
+            if title and image_url and desction and nutrition_info:
                 coffee_data.append({
-                    "brand": page_title,
+                    "brand": "커피에반하다",
                     "title": title,
-                    "titleE": titleE,
                     "imageURL": image_url,
                     "desction": desction,
                     "information": nutrition_info,
