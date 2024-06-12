@@ -6,7 +6,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
-import requests
 import json
 import os
 from datetime import datetime
@@ -56,7 +55,7 @@ for product_cd in product_cd_list:
     
     title_element = soup.select_one(".myAssignZone h4")
     title = title_element.text.split("\n")[0].strip() if title_element else "No Title"
-    titleE = title_element.select_one("span").text.strip() if title_element else "No English Title"
+    titleE = title_element.select_one("span").text.strip() if title_element and title_element.select_one("span") else "No English Title"
     
     image_element = soup.select_one(".product_big_pic img")
     image_url = image_element['src'] if image_element else "No Image"
