@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import json
 import os
+import time
 
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
@@ -30,7 +31,7 @@ browser = webdriver.Chrome(service=service, options=options)
 
 # 첫 번째 페이지에서 데이터 추출
 browser.get("https://www.starbucks.co.kr/menu/drink_list.do?CATE_CD=product_espresso")
-WebDriverWait(browser, 10).until(
+WebDriverWait(browser, 20).until(
     EC.presence_of_element_located((By.CLASS_NAME, "product_espresso"))
 )
 html_source_updated = browser.page_source
@@ -53,48 +54,54 @@ for track in tracks:
     image_url = image_element.get('src')
     product_cd = track.select_one("dt a").get('prod')
     
-    # 이미지 클릭하여 두 번째 페이지로 이동
+    # 스크롤하여 요소가 보이도록 함
     element = browser.find_element(By.CSS_SELECTOR, f'a.goDrinkView[prod="{product_cd}"] img')
+    browser.execute_script("arguments[0].scrollIntoView(true);", element)
+    time.sleep(1)  # 스크롤 후 잠시 대기
     
-    # 요소가 상호작용 가능해질 때까지 대기
-    WebDriverWait(browser, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, f'a.goDrinkView[prod="{product_cd}"] img')))
-    
-    # 직접 클릭 이벤트 발생
-    browser.execute_script("arguments[0].click();", element)
-    
-    # 새로운 페이지가 로드될 때까지 대기
-    WebDriverWait(browser, 10).until(
-        EC.presence_of_element_located((By.CLASS_NAME, "product_view_detail"))
-    )
-    
-    detail_page_source = browser.page_source
-    detail_soup = BeautifulSoup(detail_page_source, 'html.parser')
+    try:
+        # 요소가 상호작용 가능해질 때까지 대기
+        WebDriverWait(browser, 20).until(EC.element_to_be_clickable((By.CSS_SELECTOR, f'a.goDrinkView[prod="{product_cd}"] img')))
+        
+        # 직접 클릭 이벤트 발생
+        browser.execute_script("arguments[0].click();", element)
+        
+        # 새로운 페이지가 로드될 때까지 대기
+        WebDriverWait(browser, 20).until(
+            EC.presence_of_element_located((By.CLASS_NAME, "product_view_detail"))
+        )
+        
+        detail_page_source = browser.page_source
+        detail_soup = BeautifulSoup(detail_page_source, 'html.parser')
 
-    titleE_element = detail_soup.select_one(".myAssignZone span")
-    titleE = titleE_element.text.strip() if titleE_element else "No English Title"
-    desction_element = detail_soup.select_one(".t1")
-    desction = desction_element.text.strip() if desction_element else "No Description"
-    information = {}
-    for row in detail_soup.select(".product_view_info ul li"):
-        key = row.select_one("dt").text.strip()
-        value = row.select_one("dd").text.strip()
-        information[key] = value
+        titleE_element = detail_soup.select_one(".myAssignZone span")
+        titleE = titleE_element.text.strip() if titleE_element else "No English Title"
+        desction_element = detail_soup.select_one(".t1")
+        desction = desction_element.text.strip() if desction_element else "No Description"
+        information = {}
+        for row in detail_soup.select(".product_view_info ul li"):
+            key = row.select_one("dt").text.strip()
+            value = row.select_one("dd").text.strip()
+            information[key] = value
 
-    coffee_data.append({
-        "brand": "스타벅스",
-        "title": title,
-        "titleE": titleE,
-        "imageURL": image_url,
-        "desction": desction,
-        "information": information,
-        "address": browser.current_url
-    })
+        coffee_data.append({
+            "brand": "스타벅스",
+            "title": title,
+            "titleE": titleE,
+            "imageURL": image_url,
+            "desction": desction,
+            "information": information,
+            "address": browser.current_url
+        })
 
-    # 다시 첫 번째 페이지로 이동
-    browser.back()
-    WebDriverWait(browser, 10).until(
-        EC.presence_of_element_located((By.CLASS_NAME, "product_espresso"))
-    )
+        # 다시 첫 번째 페이지로 이동
+        browser.back()
+        WebDriverWait(browser, 20).until(
+            EC.presence_of_element_located((By.CLASS_NAME, "product_espresso"))
+        )
+    except Exception as e:
+        print(f"Error processing product {product_cd}: {e}")
+        continue
 
 # 데이터를 JSON 파일로 저장
 with open(filename, 'w', encoding='utf-8') as f:
