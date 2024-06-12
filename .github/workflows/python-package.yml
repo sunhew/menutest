@@ -42,13 +42,13 @@ jobs:
       
     - name: run file
       run: |
-        python3 coffeebanhadaCoffee.py
+        python3 starbucksCoffee.py
         
     - name: commits
       run : |
         git config --global user.email "liarusen@gmail.com"
         git config --global user.name "sunhew"
-        git add coffeebanhada/menucoffeebanhada_*.json
+        git add starbucks/menustarbucks_*.json
         git commit -m "메뉴 수집 완료"
         
     - name: push
