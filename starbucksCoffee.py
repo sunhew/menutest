@@ -55,7 +55,12 @@ for track in tracks:
     
     # 이미지 클릭하여 두 번째 페이지로 이동
     element = browser.find_element(By.CSS_SELECTOR, f'a.goDrinkView[prod="{product_cd}"] img')
-    element.click()
+    
+    # 요소가 상호작용 가능해질 때까지 대기
+    WebDriverWait(browser, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, f'a.goDrinkView[prod="{product_cd}"] img')))
+    
+    # 직접 클릭 이벤트 발생
+    browser.execute_script("arguments[0].click();", element)
     
     # 새로운 페이지가 로드될 때까지 대기
     WebDriverWait(browser, 10).until(
