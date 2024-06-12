@@ -37,7 +37,7 @@ m_idx_list = [
 # 데이터 추출을 위한 빈 리스트 생성
 coffee_data = []
 
-for seq in seq_list:
+for m_idx in m_idx_list:
     # 각 seq 값에 대해 페이지 로드
     url = f"https://coffeebanhada.com/main/menu/view.php?m_idx={m_idx}"
     browser.get(url)
