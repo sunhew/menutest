@@ -62,8 +62,8 @@ for m_idx in m_idx_list:
 
     if item:
         try:
-            title = item.select_one(".menu_info_right p.menu_title").get_text(separator=" ").strip()
-            title = title.split("\n")[0].strip()
+            title = item.select_one(".menu_info_right p.menu_title").contents[0].strip()
+            titleE = item.select_one(".menu_info_right p.menu_title span").text.strip()
             image_url = item.select_one(".menu_info_left img").get('src').replace('/data', 'https://coffeebanhada.com/data')
             desction = item.select_one(".menu_info_right p.menu_sub").get_text(separator=" ").strip().replace('\n', ' ').replace('\t', ' ')
 
@@ -74,8 +74,7 @@ for m_idx in m_idx_list:
                 if "HOT" in row.get_text():
                     cols = row.find_all("td")
                     if cols:
-                        key = cols[0].get_text(separator=" ").strip()
-                        value = {
+                        nutrition_info = {
                             "열량(Kcal)": cols[1].text.strip(),
                             "당류(g)": cols[2].text.strip(),
                             "단백질(g)": cols[3].text.strip(),
@@ -83,12 +82,13 @@ for m_idx in m_idx_list:
                             "나트륨(mg)": cols[5].text.strip(),
                             "카페인(mg)": cols[6].text.strip(),
                         }
-                        nutrition_info[key] = value
+                        break
 
-            if title and image_url and desction and nutrition_info:
+            if title and titleE and image_url and desction and nutrition_info:
                 coffee_data.append({
                     "brand": "커피에반하다",
                     "title": title,
+                    "titleE": titleE,
                     "imageURL": image_url,
                     "desction": desction,
                     "information": nutrition_info,
