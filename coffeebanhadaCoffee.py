@@ -64,7 +64,7 @@ for m_idx in m_idx_list:
 
 # 데이터 추출
 coffeebanhada_data = []
-items = soup.select("wrap .sub_content.menu_wrap div.menu_info menu_info_in.w1250")
+items = soup.select("wrap .sub_content menu_info menu_info_in.w1250")
 
 print(f"Found {len(items)} items.")  # 디버깅용 출력
 
