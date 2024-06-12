@@ -1,8 +1,7 @@
 [
     {
-        "brand": "No Title",
+        "brand": "커피에반하다",
         "title": "바닐라라떼 Vanilla Latte",
-        "titleE": "Vanilla Latte",
         "imageURL": "https://coffeebanhada.com/data/menu/2024/04/29/1714383716.png",
         "desction": "바닐라의 달콤한 풍미와 부드러운 우유가 조화가 이루는 바닐라라떼",
         "information": {
@@ -18,9 +17,8 @@
         "address": "https://coffeebanhada.com/main/menu/view.php?m_idx=1058"
     },
     {
-        "brand": "No Title",
+        "brand": "커피에반하다",
         "title": "카페라떼 Cafe Latte",
-        "titleE": "Cafe Latte",
         "imageURL": "https://coffeebanhada.com/data/menu/2024/04/29/1714383434.png",
         "desction": "진하고 풍부한 에스프레소와 부드러운 우유가 만나 조화를 이루는 카페라떼",
         "information": {
@@ -36,9 +34,8 @@
         "address": "https://coffeebanhada.com/main/menu/view.php?m_idx=1056"
     },
     {
-        "brand": "No Title",
+        "brand": "커피에반하다",
         "title": "아메리카노 Americano",
-        "titleE": "Americano",
         "imageURL": "https://coffeebanhada.com/data/menu/2024/04/29/1714382640.png",
         "desction": "직접 로스팅한 원두를 추출하여 고소하고 깊은 커피",
         "information": {
