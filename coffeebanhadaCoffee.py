@@ -7,7 +7,6 @@ from selenium.webdriver.chrome.options import Options as ChromeOptions
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 from datetime import datetime
-import time
 import json
 import os
 
@@ -29,7 +28,7 @@ options.add_argument("--disable-gpu")
 service = ChromeService(executable_path=ChromeDriverManager().install())
 browser = webdriver.Chrome(service=service, options=options)
 
-# 수집할 seq 값 리스트
+# 수집할 m_idx 값 리스트
 m_idx_list = [
     1211, 1077, 1075, 1073, 1071, 1070, 1068, 1066, 1064, 1062, 1060, 1058, 1056, 1054
 ]
@@ -38,7 +37,7 @@ m_idx_list = [
 coffee_data = []
 
 for m_idx in m_idx_list:
-    # 각 seq 값에 대해 페이지 로드
+    # 각 m_idx 값에 대해 페이지 로드
     url = f"https://coffeebanhada.com/main/menu/view.php?m_idx={m_idx}"
     browser.get(url)
 
@@ -56,40 +55,56 @@ for m_idx in m_idx_list:
     soup = BeautifulSoup(detail_page_source, 'html.parser')
 
     # 헤드의 타이틀을 가져옴
-    page_title = soup.head.title.text.strip() if soup.head.title else "No Title"
+    page_title = soup.body.title.text.strip() if soup.head.title else "No Title"
     page_title = page_title.replace(" - 메뉴", "").strip()
 
     # 고정된 주소 설정
     address = url
 
-# 데이터 추출
-coffeebanhada_data = []
-items = soup.select("wrap .sub_content menu_info menu_info_in.w1250")
+    # 데이터 추출
+    item = soup.select_one(".sub_content .menu_info .menu_info_in.w1250")
 
-print(f"Found {len(items)} items.")  # 디버깅용 출력
+    if item:
+        try:
+            title = item.select_one(".menu_info_right p.menu_title").get_text(separator=" ").strip()
+            titleE = item.select_one(".menu_info_right p.menu_title span").text.strip()
+            image_url = item.select_one(".menu_info_left img").get('src').replace('/data', 'https://coffeebanhada.com/data')
+            desction = item.select_one(".menu_info_right p.menu_sub").get_text(separator=" ").strip().replace('\n', ' ').replace('\t', ' ')
 
-# 각 항목에서 데이터 추출
-for item in items:
-    try:
-        title = item.select_one("menu_info_right p.menu_title").text.strip()
-        titleE = item.select_one("menu_info_right p.menu_title span").text.strip()
-        image_url = item.select_one("menu_info_top menu_info_left img").get('src').replace('/data', 'https://coffeebanhada.com/data')
-        desction = item.select_one("menu_info_right p.menu_sub").text.strip()
-        
-        coffeebanhada_data.append({
-            "brand": page_title,
-            "title": name,
-            "titleE": titleE,
-            "imageURL": image_url,
-            "desction": desction,
-            "address": address
-        })
-    except Exception as e:
-        print(f"Error extracting data from item: {e}")
+           
+            nutrition_info = {}
+            rows = item.select("div.nutritional_info_vanada tr")
+            for row in rows:
+                if "HOT" in row.get_text():
+                    cols = row.find_all("td")
+                    if cols:
+                        key = cols[0].get_text(separator=" ").strip()
+                        value = {
+                            "열량(Kcal)": cols[1].text.strip(),
+                            "당류(g)": cols[2].text.strip(),
+                            "단백질(g)": cols[3].text.strip(),
+                            "포화지방(g)": cols[4].text.strip(),
+                            "나트륨(mg)": cols[5].text.strip(),
+                            "카페인(mg)": cols[6].text.strip(),
+                        }
+                        nutrition_info[key] = value
+
+            if title and titleE and image_url and desction and nutrition_info:
+                coffee_data.append({
+                    "brand": page_title,
+                    "title": title,
+                    "titleE": titleE,
+                    "imageURL": image_url,
+                    "desction": desction,
+                    "information": nutrition_info,
+                    "address": address
+                })
+        except Exception as e:
+            print(f"Error extracting data from m_idx={m_idx}: {e}")
 
 # 데이터를 JSON 파일로 저장
 with open(filename, 'w', encoding='utf-8') as f:
-    json.dump(coffeebanhada_data, f, ensure_ascii=False, indent=4)
+    json.dump(coffee_data, f, ensure_ascii=False, indent=4)
 
 # 브라우저 종료
 browser.quit()
