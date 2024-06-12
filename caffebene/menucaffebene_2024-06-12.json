@@ -1,0 +1,880 @@
+[
+    {
+        "brand": "CAFFEBENE",
+        "title": "카라멜 마끼아또(ICED)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607884550.png",
+        "desction": "에스프레소를 바닐라 향이 가득한 부드러운 우유에 점을 찍듯이 부은 후 달콤한 카라멜 소스를 드리즐한 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "196",
+            "당류 (g)": "27",
+            "단백질 (g) (%영양소기준치)": "6(11%)",
+            "포화지방 (g) (%영양소기준치)": "4.2(27%)",
+            "나트륨 (mg) (%영양소기준치)": "63(3%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=23&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "카라멜 마끼아또(HOT)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607498136.png",
+        "desction": "에스프레소를 바닐라 향이 가득한 부드러운 우유에 점을 찍듯이 부은 후 달콤한 카라멜 소스를 드리즐한 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "216",
+            "당류 (g)": "27",
+            "단백질 (g) (%영양소기준치)": "7(13%)",
+            "포화지방 (g) (%영양소기준치)": "4.4(27%)",
+            "나트륨 (mg) (%영양소기준치)": "76(4%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=24&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "카페 모카(ICED)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607739343.png",
+        "desction": "에스프레소에 부드러운 우유와 진한 초콜릿 풍미가 어우러진 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "227",
+            "당류 (g)": "17",
+            "단백질 (g) (%영양소기준치)": "6(11%)",
+            "포화지방 (g) (%영양소기준치)": "4.3(28%)",
+            "나트륨 (mg) (%영양소기준치)": "58(3%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=27&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "카페 모카(HOT)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607822666.png",
+        "desction": "에스프레소에 부드러운 우유와 진한 초콜릿 풍미가 어우러진 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "352",
+            "당류 (g)": "39",
+            "단백질 (g) (%영양소기준치)": "9(17%)",
+            "포화지방 (g) (%영양소기준치)": "12.2(80%)",
+            "나트륨 (mg) (%영양소기준치)": "127(6%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=28&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "바닐라 라떼(ICED)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607258777.png",
+        "desction": "에스프레소에 부드러운 우유와 달콤한 바닐라 향이 가득한 커피    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "182",
+            "당류 (g)": "18",
+            "단백질 (g) (%영양소기준치)": "5(10%)",
+            "포화지방 (g) (%영양소기준치)": "5.3(34%)",
+            "나트륨 (mg) (%영양소기준치)": "148(7%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=29&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "바닐라 라떼(HOT)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607111992.png",
+        "desction": "에스프레소에 부드러운 우유와 달콤한 바닐라 향이 가득한 커피    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "224",
+            "당류 (g)": "21",
+            "단백질 (g) (%영양소기준치)": "7(13%)",
+            "포화지방 (g) (%영양소기준치)": "7.3(49%)",
+            "나트륨 (mg) (%영양소기준치)": "101(5%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=30&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "카푸치노(HOT ONLY)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607761531.png",
+        "desction": "에스프레소와 부드러운 우유 거품을 풍성하게 느낄 수 있는 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "78",
+            "당류 (g)": "4",
+            "단백질 (g) (%영양소기준치)": "5(10%)",
+            "포화지방 (g) (%영양소기준치)": "0.4(2%)",
+            "나트륨 (mg) (%영양소기준치)": "64(3%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=31&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "카페 라떼(ICED)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200624193046.png",
+        "desction": "에스프레소와 부드러운 우유의 조화가 매력적인 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "87",
+            "당류 (g)": "6",
+            "단백질 (g) (%영양소기준치)": "6(10%)",
+            "포화지방 (g) (%영양소기준치)": "0.8(5%)",
+            "나트륨 (mg) (%영양소기준치)": "76(4%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=32&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 브라운 슈가 버블 라떼 (ICED ONLY)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607727696.png",
+        "desction": "카페베네 시그니처 콜드브루와 브라운 슈가의 달콤한 풍미, 쫄깃한 타피오카 펄을 함께 즐길 수 있는 음료    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "253",
+            "당류 (g)": "36",
+            "단백질 (g) (%영양소기준치)": "5(8%)",
+            "포화지방 (g) (%영양소기준치)": "2.4(16%)",
+            "나트륨 (mg) (%영양소기준치)": "52(3%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=43&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 헤이즐넛 라떼",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607837666.png",
+        "desction": "카페베네 시그니처 콜드브루에 부드러운 우유와 고소한 헤이즐넛 풍미가 어우러진 커피    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "156",
+            "당류 (g)": "22",
+            "단백질 (g) (%영양소기준치)": "5(9%)",
+            "포화지방 (g) (%영양소기준치)": "3.3(20%)",
+            "나트륨 (mg) (%영양소기준치)": "41(2%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=37&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 카라멜 마끼아또",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607789776.png",
+        "desction": "카페베네 시그니처 콜드브루를 부드러운 우유에 점을 찍듯이 부은 후 달콤한 카라멜 소스를 드리즐한 커피    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "142",
+            "당류 (g)": "18",
+            "단백질 (g) (%영양소기준치)": "6(11%)",
+            "포화지방 (g) (%영양소기준치)": "2.8(20%)",
+            "나트륨 (mg) (%영양소기준치)": "45(2%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=38&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "시그니처 콜드브루 라떼",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607397033.png",
+        "desction": "카페베네 시그니처 콜드브루와 부드러운 우유의 조화가 매력적인 커피    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "110",
+            "당류 (g)": "7",
+            "단백질 (g) (%영양소기준치)": "5(9%)",
+            "포화지방 (g) (%영양소기준치)": "3.8(25%)",
+            "나트륨 (mg) (%영양소기준치)": "75(4%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=39&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "시그니처 콜드브루",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200614662117.png",
+        "desction": "카페베네 시그니처 블렌드의 고소한 견과류 향과 무게감 있는 다크초콜릿의 단맛이 특징인 콜드브루 커피    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "9",
+            "당류 (g)": "0",
+            "단백질 (g) (%영양소기준치)": "0(1%)",
+            "포화지방 (g) (%영양소기준치)": "0.0(0%)",
+            "나트륨 (mg) (%영양소기준치)": "0(0%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=40&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "카페 라떼(HOT)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200610661751.png",
+        "desction": "에스프레소와 부드러운 우유의 조화가 매력적인 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "166",
+            "당류 (g)": "10",
+            "단백질 (g) (%영양소기준치)": "8(14%)",
+            "포화지방 (g) (%영양소기준치)": "6.2(41%)",
+            "나트륨 (mg) (%영양소기준치)": "134(6%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=33&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "아메리카노(ICED)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607384043.png",
+        "desction": "카페베네 스페셜티 블렌드로 추출한 에스프레소를 부드럽게 즐길 수 있는 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "12",
+            "당류 (g)": "0",
+            "단백질 (g) (%영양소기준치)": "1(2%)",
+            "포화지방 (g) (%영양소기준치)": "0.1(0%)",
+            "나트륨 (mg) (%영양소기준치)": "5(0%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=34&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "아메리카노(HOT)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607445430.png",
+        "desction": "카페베네 스페셜티 블렌드로 추출한 에스프레소를 부드럽게 즐길 수 있는 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "12",
+            "당류 (g)": "0",
+            "단백질 (g) (%영양소기준치)": "1(2%)",
+            "포화지방 (g) (%영양소기준치)": "0.1(0%)",
+            "나트륨 (mg) (%영양소기준치)": "5(0%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=35&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "에스프레소(HOT ONLY)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607365216.png",
+        "desction": "카페베네 스페셜티 블렌드의 강렬하고 풍부한 향을 즐길 수 있는 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "60",
+            "열량 (kcal)": "21",
+            "당류 (g)": "-",
+            "단백질 (g) (%영양소기준치)": "1(2%)",
+            "포화지방 (g) (%영양소기준치)": "0.1(1%)",
+            "나트륨 (mg) (%영양소기준치)": "0.4(0%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=22&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "베네캣 달고나 라떼(ICED)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607447287.png",
+        "desction": "에스프레소에 부드러운 우유와 달콤하고 바삭한 식감의 달고나, 베네캣 달고나를 함께 즐길 수 있는 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,           콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,           콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.         - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "257",
+            "당류 (g)": "41",
+            "단백질 (g) (%영양소기준치)": "5(9%)",
+            "포화지방 (g) (%영양소기준치)": "2.3(13%)",
+            "나트륨 (mg) (%영양소기준치)": "92(5%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=41&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "베네캣 달고나 라떼(HOT)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200607739848.png",
+        "desction": "에스프레소에 부드러운 우유와 달콤하고 바삭한 식감의 달고나, 베네캣 달고나를 함께 즐길 수 있는 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,           콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,           콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.         - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "370",
+            "당류 (g)": "52",
+            "단백질 (g) (%영양소기준치)": "9(16%)",
+            "포화지방 (g) (%영양소기준치)": "5.6(40%)",
+            "나트륨 (mg) (%영양소기준치)": "124(6%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=46&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 모카 프라페노",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200617276884.png",
+        "desction": "카페베네 시그니처 콜드브루와 진한 초콜릿 풍미를 시원하게 즐길 수 있는 블렌디드 음료    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "270",
+            "당류 (g)": "46",
+            "단백질 (g) (%영양소기준치)": "4(7%)",
+            "포화지방 (g) (%영양소기준치)": "1.7(11%)",
+            "나트륨 (mg) (%영양소기준치)": "70(3%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=70&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 카라멜 프라페노",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200617138498.png",
+        "desction": "카페베네 시그니처 콜드브루와 달콤한 카라멜 풍미를 시원하게 즐길 수 있는 블렌디드 음료    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "268",
+            "당류 (g)": "46",
+            "단백질 (g) (%영양소기준치)": "3(5%)",
+            "포화지방 (g) (%영양소기준치)": "2.8(19%)",
+            "나트륨 (mg) (%영양소기준치)": "91(5%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=71&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 오리지널 프라페노",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200617414271.png",
+        "desction": "카페베네 시그니처 콜드브루 풍미를 시원하게 즐길 수 있는 블렌디드 음료    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "235",
+            "당류 (g)": "38",
+            "단백질 (g) (%영양소기준치)": "3(5%)",
+            "포화지방 (g) (%영양소기준치)": "3.1(20%)",
+            "나트륨 (mg) (%영양소기준치)": "75(4%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=72&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "모카 더블 베네프레소 7oz (ICED ONLY)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200617340779.png",
+        "desction": "카페베네 에스프레소와 카페베네만의 초콜릿 베이스를 쉐이킹하여 더욱 진한 달콤함을 시원하게 즐길 수 있는 메뉴   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,           콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,           콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.         - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "210",
+            "열량 (kcal)": "171",
+            "당류 (g)": "19",
+            "단백질 (g) (%영양소기준치)": "3(5%)",
+            "포화지방 (g) (%영양소기준치)": "6.1(40%)",
+            "나트륨 (mg) (%영양소기준치)": "23(1%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=266&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "바닐라 더블 베네프레소 7oz (ICED ONLY)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200617838852.png",
+        "desction": "카페베네 에스프레소와 카페베네만의 바닐라 향 베이스를 쉐이킹하여 더욱 진한 달콤함을 시원하게 즐길 수 있는 메뉴   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,           콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,           콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.         - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "210",
+            "열량 (kcal)": "216",
+            "당류 (g)": "22",
+            "단백질 (g) (%영양소기준치)": "2(4%)",
+            "포화지방 (g) (%영양소기준치)": "6.1(40%)",
+            "나트륨 (mg) (%영양소기준치)": "21(1%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=267&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "커피 더블 베네프레소 7oz (ICED ONLY)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200617440608.png",
+        "desction": "카페베네 에스프레소와 카페베네만의 베이스를 쉐이킹하여 더욱 진한 달콤함을 시원하게 즐길 수 있는 메뉴   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,           콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,           콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.         - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "210",
+            "열량 (kcal)": "151",
+            "당류 (g)": "15",
+            "단백질 (g) (%영양소기준치)": "3(5%)",
+            "포화지방 (g) (%영양소기준치)": "7.0(47%)",
+            "나트륨 (mg) (%영양소기준치)": "22(1%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=268&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 바닐라 젤라또 라떼",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20200619766270.png",
+        "desction": "카페베네 시그니처 콜드브루와 바닐라 향이 가득한 부드러운 우유, 바닐라 젤라또를 함께 즐길 수 있는 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회 제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "251",
+            "당류 (g)": "36",
+            "단백질 (g) (%영양소기준치)": "5(9%)",
+            "포화지방 (g) (%영양소기준치)": "6(38%)",
+            "나트륨 (mg) (%영양소기준치)": "55(3%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=96&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 티라미수 젤라또 프라페노",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220315468261.png",
+        "desction": "카페베네 시그니처 콜드브루와 달콤한 티라미수의 풍미를 그대로 살린 더욱 진하고 시원하게 즐길 수 있는 블렌디드 음료    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "463",
+            "당류 (g)": "51",
+            "단백질 (g) (%영양소기준치)": "7(13%)",
+            "포화지방 (g) (%영양소기준치)": "13.6(93%)",
+            "나트륨 (mg) (%영양소기준치)": "185(9%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=271&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 브라운 슈가 버블 라떼 디카페인 (ICED ONLY)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331741354.png",
+        "desction": "카페베네 디카페인 콜드브루와 브라운 슈가의 달콤한 풍미, 쫄깃한 타피오카 펄을 함께 즐길 수 있는 음료   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "450",
+            "열량 (kcal)": "254",
+            "당류 (g)": "29",
+            "단백질 (g) (%영양소기준치)": "4(8%)",
+            "포화지방 (g) (%영양소기준치)": "3.6(24%)",
+            "나트륨 (mg) (%영양소기준치)": "57(3%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=331&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 바닐라 플로트 디카페인",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331882995.png",
+        "desction": "카페베네 디카페인 콜드브루와 바닐라 향이 가득한 부드러운 우유, 바닐라 젤라또를 함께 즐길 수 있는 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "250",
+            "당류 (g)": "29",
+            "단백질 (g) (%영양소기준치)": "5(10%)",
+            "포화지방 (g) (%영양소기준치)": "6(42%)",
+            "나트륨 (mg) (%영양소기준치)": "80(4%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=325&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 모카 프라페노 디카페인",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331477627.png",
+        "desction": "카페베네 디카페인 콜드브루와 진한 초콜릿 풍미를 시원하게 즐길 수 있는 블렌디드 음료    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "375",
+            "당류 (g)": "50",
+            "단백질 (g) (%영양소기준치)": "4(7%)",
+            "포화지방 (g) (%영양소기준치)": "12(77%)",
+            "나트륨 (mg) (%영양소기준치)": "105(5%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=329&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 카라멜 프라페노 디카페인",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331884396.png",
+        "desction": "카페베네 디카페인 콜드브루와 달콤한 카라멜 풍미를 시원하게 즐길 수 있는 블렌디드 음료   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "405",
+            "당류 (g)": "50",
+            "단백질 (g) (%영양소기준치)": "4(7%)",
+            "포화지방 (g) (%영양소기준치)": "13(84%)",
+            "나트륨 (mg) (%영양소기준치)": "85(4%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=328&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 오리지널 프라페노 디카페인",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331242382.png",
+        "desction": "카페베네만의 풍부한 커피 맛을 디카페인으로 즐길수 있는 콜드브루 디카페인 블렌디드 음료   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "270",
+            "당류 (g)": "32",
+            "단백질 (g) (%영양소기준치)": "4(7%)",
+            "포화지방 (g) (%영양소기준치)": "9(57%)",
+            "나트륨 (mg) (%영양소기준치)": "90(4%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=327&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 헤이즐넛 라떼 디카페인",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331155041.png",
+        "desction": "카페베네 디카페인 콜드브루에 부드러운 우유와 고소한 헤이즐넛 풍미가 어우러진 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "145",
+            "당류 (g)": "17",
+            "단백질 (g) (%영양소기준치)": "2(4%)",
+            "포화지방 (g) (%영양소기준치)": "1.6(11%)",
+            "나트륨 (mg) (%영양소기준치)": "35(2%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=324&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 카라멜 마끼아또 디카페인",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331558651.png",
+        "desction": "카페베네 디카페인 콜드브루를 부드러운 우유에 점을 찍듯이 부은 후 달콤한 카라멜 소스를 드리즐한 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "145",
+            "당류 (g)": "18",
+            "단백질 (g) (%영양소기준치)": "6(11%)",
+            "포화지방 (g) (%영양소기준치)": "2.8(19%)",
+            "나트륨 (mg) (%영양소기준치)": "45(2%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=323&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "더블 베네브루 디카페인  7oz (ICED ONLY)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331629403.png",
+        "desction": "카페베네 디카페인 콜드브루와 카페베네만의 베이스를 쉐이킹하여 더욱 진한 달콤함을 시원하게 즐길 수 있는 메뉴    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,           콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,           콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.         - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "210",
+            "열량 (kcal)": "157",
+            "당류 (g)": "16",
+            "단백질 (g) (%영양소기준치)": "2(4%)",
+            "포화지방 (g) (%영양소기준치)": "7(49%)",
+            "나트륨 (mg) (%영양소기준치)": "19(1%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=326&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 라떼 디카페인",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331457412.png",
+        "desction": "카페베네 디카페인 콜드브루와 부드러운 우유의 조화가 매력적인 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "110",
+            "당류 (g)": "7",
+            "단백질 (g) (%영양소기준치)": "3(5%)",
+            "포화지방 (g) (%영양소기준치)": "1.9(13%)",
+            "나트륨 (mg) (%영양소기준치)": "40(2%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=322&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 디카페인",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20210331719381.png",
+        "desction": "에티오피아 내추럴 원두를 싱글 오리진으로 사용하여 달콤한 머스캣과 군고구마의 풍미가 특징인 콜드브루 디카페인 커피    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "10",
+            "당류 (g)": "0",
+            "단백질 (g) (%영양소기준치)": "0(1%)",
+            "포화지방 (g) (%영양소기준치)": "0(0%)",
+            "나트륨 (mg) (%영양소기준치)": "0(0%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=321&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "치즈크림 플랫 화이트(HOT)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20211103803948.png",
+        "desction": "진한 라떼 위에 매력적인 단짠단짠 체다치즈 크림이 올라간 고소한 커피 음료   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {},
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=397&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "치즈크림 플랫 화이트(ICED)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20211103699166.png",
+        "desction": "진한 라떼 위에 매력적인 단짠단짠 체다치즈 크림이 올라간 고소한 커피 음료   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {},
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=398&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "더블 베네브루 시그니처 7oz (ICED ONLY)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220411964404.png",
+        "desction": "카페베네 콜드브루와 카페베네만의 베이스를 쉐이킹하여 더욱 진한 달콤함을 시원하게 즐길 수 있는 메뉴   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,           콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,           콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.         - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "열량 (kcal)": "161",
+            "당류 (g)": "16",
+            "단백질 (g) (%영양소기준치)": "2(4%)",
+            "포화지방 (g) (%영양소기준치)": "7(49%)",
+            "나트륨 (mg) (%영양소기준치)": "19(1%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=418&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 라일락 바닐라빈 라떼 (시그니처)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220329660467.png",
+        "desction": "카페베네 콜드브루에 부드러운 우유와 라일락의 연보랏빛 바닐라 풍미가 어우러진 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,           콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,           콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.         - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "241",
+            "당류 (g)": "30",
+            "단백질 (g) (%영양소기준치)": "5(10%)",
+            "포화지방 (g) (%영양소기준치)": "3.9(26%)",
+            "나트륨 (mg) (%영양소기준치)": "292(15%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=420&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 라일락 바닐라빈 라떼 (블루밍)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220329614407.png",
+        "desction": "카페베네 블루밍 콜드브루에 부드러운 우유와 라일락의 연보랏빛 바닐라 풍미가 어우러진 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,           콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,           콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.         - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "240",
+            "당류 (g)": "30",
+            "단백질 (g) (%영양소기준치)": "5(10%)",
+            "포화지방 (g) (%영양소기준치)": "3.9(26%)",
+            "나트륨 (mg) (%영양소기준치)": "292(15%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=421&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 라일락 바닐라빈 라떼 디카페인",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220329550411.png",
+        "desction": "카페베네 디카페인 콜드브루에 부드러운 우유와 라일락의 연보랏빛 바닐라 풍미가 어우러진 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,           콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,           콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.         - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "237",
+            "당류 (g)": "30",
+            "단백질 (g) (%영양소기준치)": "5(9%)",
+            "포화지방 (g) (%영양소기준치)": "3.8(25%)",
+            "나트륨 (mg) (%영양소기준치)": "292(15%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=422&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "블루밍 콜드브루",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220329457934.png",
+        "desction": "카페베네 블루밍 블렌드의 상큼한 베리류의 산미와 달콤한 카라멜 풍미가 특징인 콜드브루 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,           콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,           콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.         - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "10",
+            "당류 (g)": "0",
+            "단백질 (g) (%영양소기준치)": "0(1%)",
+            "포화지방 (g) (%영양소기준치)": "0.0(0%)",
+            "나트륨 (mg) (%영양소기준치)": "0(0%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=423&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "블루밍 콜드브루 라떼",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220329904144.png",
+        "desction": "카페베네 블루밍 콜드브루와 부드러운 우유의 조화가 매력적인 커피     - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,           콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,           콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.         - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "112",
+            "당류 (g)": "7",
+            "단백질 (g) (%영양소기준치)": "5(9%)",
+            "포화지방 (g) (%영양소기준치)": "3.8(25%)",
+            "나트륨 (mg) (%영양소기준치)": "76(4%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=424&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "블루밍 콜드브루 카라멜 마끼아또",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220329276495.png",
+        "desction": "카페베네 블루밍 콜드브루를 부드러운 우유에 점을 찍듯이 부은 후 달콤한 카라멜 소스를 드리즐한 커피      - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,           콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,           콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.         - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "182",
+            "당류 (g)": "23",
+            "단백질 (g) (%영양소기준치)": "5(9%)",
+            "포화지방 (g) (%영양소기준치)": "4.2(28%)",
+            "나트륨 (mg) (%영양소기준치)": "63(3%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=425&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "더블 베네브루 블루밍 7oz (ICED ONLY)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220329277868.png",
+        "desction": "카페베네 블루밍 콜드브루와 카페베네만의 베이스를 쉐이킹하여 더욱 진한 달콤함을 시원하게 즐길 수 있는 메뉴    - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,           콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,           콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.         - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "열량 (kcal)": "160",
+            "당류 (g)": "16",
+            "단백질 (g) (%영양소기준치)": "2(4%)",
+            "포화지방 (g) (%영양소기준치)": "7(49%)",
+            "나트륨 (mg) (%영양소기준치)": "19(1%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=426&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "블루밍 콜드브루 헤이즐넛 라떼",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220329202886.png",
+        "desction": "카페베네 블루밍 콜드브루에 부드러운 우유와 고소한 헤이즐넛 풍미가 어우러진 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,           콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,           콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.         - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "151",
+            "당류 (g)": "13",
+            "단백질 (g) (%영양소기준치)": "5(10%)",
+            "포화지방 (g) (%영양소기준치)": "4.1(27%)",
+            "나트륨 (mg) (%영양소기준치)": "54(3%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=427&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "블루밍 콜드브루 오리지널 프라페노",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220330733718.png",
+        "desction": "카페베네 블루밍 콜드브루 풍미를 시원하게  즐길 수 있는 블렌디드 음료   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,           콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,           콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.         - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "278",
+            "당류 (g)": "34",
+            "단백질 (g) (%영양소기준치)": "3(6%)",
+            "포화지방 (g) (%영양소기준치)": "8(53%)",
+            "나트륨 (mg) (%영양소기준치)": "99(5%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=428&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "블루밍 콜드브루 카라멜 프라페노",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220330581887.png",
+        "desction": "카페베네 블루밍 콜드브루와 달콤한 카라멜  풍미를 시원하게 즐길 수 있는 블렌디드 음료   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,           콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,           콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.         - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "359",
+            "당류 (g)": "44",
+            "단백질 (g) (%영양소기준치)": "4(7%)",
+            "포화지방 (g) (%영양소기준치)": "10(66%)",
+            "나트륨 (mg) (%영양소기준치)": "103(5%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=429&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "블루밍 콜드브루 바닐라 플로트",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220330889999.png",
+        "desction": "카페베네 블루밍 콜드브루와 바닐라 향이 가득한 부드러운 우유, 바닐라 젤라또를 함께 즐길 수 있는 커피   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,           콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,           콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.         - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "261",
+            "당류 (g)": "26",
+            "단백질 (g) (%영양소기준치)": "7(13%)",
+            "포화지방 (g) (%영양소기준치)": "8(50%)",
+            "나트륨 (mg) (%영양소기준치)": "93(5%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=431&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "블루밍 콜드브루 브라운 슈가 버블 라떼 (ICED ONLY)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220330305856.png",
+        "desction": "카페베네 블루밍 콜드브루와 브라운 슈가의 달콤한 풍미, 쫄깃한 타피오카 펄을 함께 즐길 수 있는 음료   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,           콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,           콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.         - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "450",
+            "열량 (kcal)": "256",
+            "당류 (g)": "29",
+            "단백질 (g) (%영양소기준치)": "4(8%)",
+            "포화지방 (g) (%영양소기준치)": "3.6(24%)",
+            "나트륨 (mg) (%영양소기준치)": "57(3%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=432&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "블루밍 콜드브루 티라미수 젤라또 프라페노",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220330598449.png",
+        "desction": "카페베네 블루밍 콜드브루와 달콤한 티라미수의 풍미를 그대로 살린 더욱 진하고 시원하게 즐길 수 있는 블렌디드 음료   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,           콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,           콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.         - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "499",
+            "당류 (g)": "42",
+            "단백질 (g) (%영양소기준치)": "6(10%)",
+            "포화지방 (g) (%영양소기준치)": "20(135%)",
+            "나트륨 (mg) (%영양소기준치)": "190(9%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=435&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "콜드브루 티라미수 젤라또 프라페노 디카페인",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220330202804.png",
+        "desction": "카페베네 디카페인 콜드브루와 달콤한 티라미수의 풍미를 그대로 살린 더욱 진하고 시원하게 즐길 수 있는 블렌디드 음료   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,           콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,           콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.         - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "497",
+            "당류 (g)": "42",
+            "단백질 (g) (%영양소기준치)": "5(10%)",
+            "포화지방 (g) (%영양소기준치)": "20(135%)",
+            "나트륨 (mg) (%영양소기준치)": "190(9%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=436&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "블루밍 콜드브루 모카 프라페노",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220411797494.png",
+        "desction": "카페베네 블루밍 콜드브루와 진한 초콜릿 풍미를 시원하게 즐길 수 있는 블렌디드 음료   - 카페베네 에스프레소는 R size(2 shot) 기준 147mg,         콜드브루 시그니처 블렌드는 R size(45-60ml) 기준 143-191mg, 콜드브루 블루밍 블렌드는 R size(45-60ml) 기준 135-179mg,         콜드브루 디카페인은 R size(45-60ml) 기준 8-11mg의 카페인이 함유되어 있습니다.       - 카페인 1일 섭취 권고량은 '성인 400mg 이하, 임산부 300mg 이하, 청소년 체중kg당 2.5mg 이하'이므로 참고하여 섭취에 주의하여 주시기 바랍니다.",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "361",
+            "당류 (g)": "43",
+            "단백질 (g) (%영양소기준치)": "4(7%)",
+            "포화지방 (g) (%영양소기준치)": "10(64%)",
+            "나트륨 (mg) (%영양소기준치)": "136(7%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=443&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "카페 오트 라떼(HOT)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220831871294.png",
+        "desction": "카페베네 에스프레소와 고소한 오트 밀크의 조화가 매력적인 스페셜 커피",
+        "information": {},
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=475&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "카페 오트 라떼(ICED)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220831182277.png",
+        "desction": "카페베네 에스프레소와 고소한 오트 밀크의 조화가 매력적인 스페셜 커피",
+        "information": {},
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=474&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "흑임자 크림 라떼(ICED)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20220831979442.png",
+        "desction": "에스프레소와 국산 흑임자 크림의 고소함이 어우러진 스페셜 커피",
+        "information": {},
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=477&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "헤이즐넛 라떼(ICED)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20240610120946.png",
+        "desction": "에스프레소에 부드러운 우유와 고소한 헤이즐넛 풍미가 어우러진 커피",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "151",
+            "당류 (g)": "21",
+            "단백질 (g) (%영양소기준치)": "6(10%)",
+            "포화지방 (g) (%영양소기준치)": "2.8(19%)",
+            "나트륨 (mg) (%영양소기준치)": "52(3%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=512&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "헤이즐넛 라떼(HOT)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20240610533010.png",
+        "desction": "에스프레소에 부드러운 우유와 고소한 헤이즐넛 풍미가 어우러진 커피",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "186",
+            "당류 (g)": "22",
+            "단백질 (g) (%영양소기준치)": "7(13%)",
+            "포화지방 (g) (%영양소기준치)": "4(27%)",
+            "나트륨 (mg) (%영양소기준치)": "70(3%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=511&pg=1&code=001000&scode="
+    },
+    {
+        "brand": "CAFFEBENE",
+        "title": "베네 크림 라떼(ICED ONLY)",
+        "imageURL": "http://www.caffebene.co.kr/uploads/product/20240610338074.png",
+        "desction": "에스프레소에 달콤한 우유 베이스와 부드러운 크림이 어우러진 커피",
+        "information": {
+            "1회제공량 1잔 (ml)": "360",
+            "열량 (kcal)": "326",
+            "당류 (g)": "30",
+            "단백질 (g) (%영양소기준치)": "8(14%)",
+            "포화지방 (g) (%영양소기준치)": "11(75%)",
+            "나트륨 (mg) (%영양소기준치)": "100(5%)"
+        },
+        "address": "http://www.caffebene.co.kr/menu/menu_view.html?seq=513&pg=1&code=001000&scode="
+    }
+]
