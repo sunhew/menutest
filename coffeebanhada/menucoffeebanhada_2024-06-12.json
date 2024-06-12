@@ -1,52 +1,49 @@
 [
     {
         "brand": "커피에반하다",
-        "title": "바닐라라떼 Vanilla Latte",
+        "title": "바닐라라떼",
+        "titleE": "Vanilla Latte",
         "imageURL": "https://coffeebanhada.com/data/menu/2024/04/29/1714383716.png",
         "desction": "바닐라의 달콤한 풍미와 부드러운 우유가 조화가 이루는 바닐라라떼",
         "information": {
-            "HOT 20oz(590ml)": {
-                "열량(Kcal)": "351",
-                "당류(g)": "7",
-                "단백질(g)": "140",
-                "포화지방(g)": "8",
-                "나트륨(mg)": "44",
-                "카페인(mg)": "615"
-            }
+            "열량(Kcal)": "351",
+            "당류(g)": "7",
+            "단백질(g)": "140",
+            "포화지방(g)": "8",
+            "나트륨(mg)": "44",
+            "카페인(mg)": "615"
         },
         "address": "https://coffeebanhada.com/main/menu/view.php?m_idx=1058"
     },
     {
         "brand": "커피에반하다",
-        "title": "카페라떼 Cafe Latte",
+        "title": "카페라떼",
+        "titleE": "Cafe Latte",
         "imageURL": "https://coffeebanhada.com/data/menu/2024/04/29/1714383434.png",
         "desction": "진하고 풍부한 에스프레소와 부드러운 우유가 만나 조화를 이루는 카페라떼",
         "information": {
-            "HOT 20oz(590ml)": {
-                "열량(Kcal)": "226",
-                "당류(g)": "6",
-                "단백질(g)": "140",
-                "포화지방(g)": "8",
-                "나트륨(mg)": "14",
-                "카페인(mg)": "615"
-            }
+            "열량(Kcal)": "226",
+            "당류(g)": "6",
+            "단백질(g)": "140",
+            "포화지방(g)": "8",
+            "나트륨(mg)": "14",
+            "카페인(mg)": "615"
         },
         "address": "https://coffeebanhada.com/main/menu/view.php?m_idx=1056"
     },
     {
         "brand": "커피에반하다",
-        "title": "아메리카노 Americano",
+        "title": "아메리카노",
+        "titleE": "Americano",
         "imageURL": "https://coffeebanhada.com/data/menu/2024/04/29/1714382640.png",
         "desction": "직접 로스팅한 원두를 추출하여 고소하고 깊은 커피",
         "information": {
-            "HOT 20oz(590ml)": {
-                "열량(Kcal)": "30",
-                "당류(g)": "-",
-                "단백질(g)": "-",
-                "포화지방(g)": "-",
-                "나트륨(mg)": "-",
-                "카페인(mg)": "615"
-            }
+            "열량(Kcal)": "30",
+            "당류(g)": "-",
+            "단백질(g)": "-",
+            "포화지방(g)": "-",
+            "나트륨(mg)": "-",
+            "카페인(mg)": "615"
         },
         "address": "https://coffeebanhada.com/main/menu/view.php?m_idx=1054"
     }
