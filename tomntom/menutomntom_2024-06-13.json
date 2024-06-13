@@ -2,144 +2,168 @@
     {
         "brand": "탐앤탐",
         "title": "오렌지 콜드브루",
+        "titleE": "orange Coldbrew",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/uploads/menu/24í´ëì_ì¤ë ì§ì½ëë¸ë£¨_2000.png_1717982333838.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "소트프 콜드브루 아포가토",
+        "titleE": "Soft Coldbrew affogato",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/uploads/menu/24ë¸ë_ìíí¸ì½ëë¸ë£¨ìí¬ê°í _2000.png_1717982204817.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "콜드브루 아포가토",
+        "titleE": "Coldbrew affogato",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/uploads/menu/24í´ëì_ì½ëë¸ë£¨ìí¬ê°í _2000.png_1717981575745.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "흑당 콜드브루라떼",
+        "titleE": "black suger Coldbrew Latte",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/uploads/menu/24í´ëì_íë¹ì½ëë¸ë£¨_2000.png_1717981297421.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "콜드브루 라떼",
+        "titleE": "Coldbrew Latte",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/uploads/menu/24í´ëì_ì½ëë¸ë£¨ë¼ë¼_2000.png_1717981167292.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "콜드브루 예가체프",
+        "titleE": "Coldbrew Yirgacheffe",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/uploads/menu/24í´ëì_ì½ëë¸ë£¨ìê°ì²´í_2000.png_1717980909531.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "리얼 바나나 딸기 스무디",
+        "titleE": "Real Banana Strawberry Smoothie",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/uploads/menu/24í´ëì_ë¸ê¸°ë°ëëì¤ë¬´ë_2000.png_1713919468148.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "리얼 바나나 망고 스무디",
+        "titleE": "Real Banana Mango Smoothie",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/uploads/menu/24í´ëì_ë§ê³ ë°ëëì¤ë¬´ë_2000.png_1713919324094.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "리얼 바나나 스무디",
+        "titleE": "Real Banana Smoothie",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/uploads/menu/24í´ëì_ë°ëëì¤ë¬´ë_2000.png_1713919038596.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "리얼 바나나라떼",
+        "titleE": "Real banana latte",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/uploads/menu/24í´ëì_ë°ëëë¼ë¼_2000.png_1713918820472.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "스프링 슈크림 라떼",
+        "titleE": "Spring Choux cream Latte",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/uploads/menu/KakaoTalk_20240307_103644568_01.png_1709776901680.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "미숫크림 탐앤치노",
+        "titleE": "Misut Cream TOMNCCINO",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/uploads/menu/ë¯¸ì«í¬ë¦¼íì¤ì¹ë¸.png_1708562284018.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "에너제틱 파인 토닉",
+        "titleE": "Energetic Pineapple Tonic",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/uploads/menu/24í´ëì_ìëì í±_íì¸_2000.png_1713316076916.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "에너제틱 베리 토닉",
+        "titleE": "Energetic Berry Tonic",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/uploads/menu/24í´ëì_ìëì í±_ë² ë¦¬_2000.png_1713316168168.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "꼰대라떼 스테비아 아이스",
+        "titleE": "Iced Kkondae Latte Stevia",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/menu/3717365327_D1af92nq_20221212040237.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "꼰대라떼 스테비아",
+        "titleE": "Kkondae Latte Stevia",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/menu/3717365327_rlkp1vdu_20221212040023.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "커피 토닉",
+        "titleE": "Coffee Tonic",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/menu/3717365327_OvEPaXlC_20220726123811.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "그래놀라 요거트",
+        "titleE": "Granola Yogurt",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/menu/2038868156_N8ToB3bZ_20211112025426.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "딸기주스",
+        "titleE": "Strawberry Juice",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/menu/2038868156_FE57VHyS_20200821052053.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "곡성 멜론 스무디",
+        "titleE": "Gokseong melon Smoothie",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/menu/2038868156_ki5lpORn_20210607083543.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "얼그레이",
+        "titleE": "Earl Grey Tea",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/menu/2038868156_hJTvtMIg_20211115022402.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "아이스 꼰대라떼",
+        "titleE": "Iced Kkondae Latte",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/menu/2038868156_Ms34FE9V_20200728122950.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "허니 제주 그린라떼",
+        "titleE": "Honey Jeju Green Latte",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/menu/2038868156_j5ulRnO3_20200831123700.png",
         "address": "https://www.tomntoms.com/menu/drink"
     },
     {
         "brand": "탐앤탐",
         "title": "군고구마 라떼",
+        "titleE": "Baked Sweet Potato Grain Latte",
         "imageURL": "https://kr.object.ncloudstorage.com/tomntoms-bucket/menu/2038868156_sDiuA0H4_20200728124808.png",
         "address": "https://www.tomntoms.com/menu/drink"
     }
