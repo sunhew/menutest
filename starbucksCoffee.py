@@ -55,9 +55,8 @@ for product_cd in product_cd_list:
     
     title_element = soup.select_one(".myAssignZone h4")
     if title_element:
-        title_parts = title_element.text.split("\n")
-        title = title_parts[0].strip()
-        titleE = title_parts[1].strip() if len(title_parts) > 1 else "No English Title"
+        title = title_element.contents[0].strip() if title_element.contents else "No Title"
+        titleE = title_element.select_one("span").text.strip() if title_element.select_one("span") else "No English Title"
     else:
         title = "No Title"
         titleE = "No English Title"
