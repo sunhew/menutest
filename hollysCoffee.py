@@ -7,7 +7,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 from datetime import datetime
-import time
 import json
 from urllib.parse import urljoin
 
@@ -16,7 +15,7 @@ current_date = datetime.now().strftime("%Y-%m-%d")
 folder_path = "hollys"
 filename = f"{folder_path}/menuhollys_{current_date}.json"
 
-# 웹드라이브 설치
+# 웹드라이버 설정
 options = ChromeOptions()
 options.add_argument("--headless")
 options.add_argument("--no-sandbox")
@@ -33,63 +32,62 @@ WebDriverWait(browser, 10).until(
 html_source_updated = browser.page_source
 soup = BeautifulSoup(html_source_updated, 'html.parser')
 
-# 데이터 추출
-coffee_data = []
-menu_items = soup.select("#menuSmallList > li")
+# 초기 페이지에서 ID 추출
+menu_ids = []
+menu_view_divs = soup.select("div.menu_view01")
 
-for item in menu_items:
-    title = item.select_one("li > a").text.strip()    
-    image_url = item.select_one("li > a > img").get('src')
-    
-    # 상대 URL을 절대 URL로 변환
-    relative_url = item.select_one("li > a").get('href')
-    menu_item_url = urljoin(base_url, relative_url)
+for div in menu_view_divs:
+    menu_id = div.get('id').replace('menuView1_', '')
+    menu_ids.append(menu_id)
+
+# 데이터 수집
+coffee_data = []
+
+for menu_id in menu_ids:
+    menu_item_url = f"https://www.hollys.co.kr/menu/espresso.do?menuView1_{menu_id}"
     browser.get(menu_item_url)
     
-    # 페이지가 완전히 로드될 때까지 대기
+    # 상세 페이지가 완전히 로드될 때까지 대기
     WebDriverWait(browser, 10).until(
         EC.presence_of_element_located((By.CLASS_NAME, "menu_detail"))
     )
     
-    time.sleep(2)  # JavaScript가 실행될 시간을 추가로 대기
-
     detail_html_source = browser.page_source
     detail_soup = BeautifulSoup(detail_html_source, 'html.parser')
     
-    # 메뉴 정보가 존재하는지 확인하고 추출
-    subTitle_element = detail_soup.select_one("div.menu_detail p.menu_info")
-    if subTitle_element:
-        subTitle = subTitle_element.text.strip()
-    else:
-        subTitle = "No subtitle available"
-
-    # .tableInfo03 내부의 span 요소 추출
-    contents = "No contents available"
-    contents_element = detail_soup.select_one("div.tableInfo03 span.ft16B")
-    if contents_element:
-        contents = contents_element.text.strip()
-
-    # HOT 행의 .center_t 클래스 요소 추출
-    content_s1 = []
+    # 세부 정보 추출
+    brand = "할리스"
+    
+    title_element = detail_soup.select_one("div.menu_detail > span")
+    title = title_element.contents[0].strip() if title_element and title_element.contents else "No title available"
+    
+    titleE_element = detail_soup.select_one("div.menu_detail > span > br + text")
+    titleE = titleE_element.strip() if titleE_element else "No English title available"
+    
+    image_element = detail_soup.select_one("div.menu_detail > img")
+    image_url = image_element.get('src') if image_element else "No image available"
+    
+    desction_element = detail_soup.select_one("div.menu_detail > p.menu_info")
+    desction = desction_element.text.strip() if desction_element else "No description available"
+    
     hot_row = detail_soup.select_one("div.tableType01 tr:has(th:contains('HOT'))")
+    information = {}
     if hot_row:
         hot_tds = hot_row.select("td.center_t")
-        content_s1 = [td.text.strip() for td in hot_tds]
+        headers = ["1회 제공량 (kcal)", "포화지방 (g)", "단백질 (g)", "지방 (g)", "트랜스지방 (g)", "나트륨 (mg)", "당류 (g)", "카페인 (mg)", "콜레스테롤 (mg)", "탄수화물 (g)"]
+        for header, td in zip(headers, hot_tds):
+            information[header] = td.text.strip()
     
-    # ICED 행의 .center_t 클래스 요소 추출
-    content_s2 = []
-    iced_row = detail_soup.select_one("div.tableType01 tr:has(th:contains('ICED'))")
-    if iced_row:
-        iced_tds = iced_row.select("td.center_t")
-        content_s2 = [td.text.strip() for td in iced_tds]
+    address = menu_item_url
     
     coffee_data.append({
+        "brand": brand,
         "title": title,
+        "titleE": titleE,
         "imageURL": image_url,
-        "SubTitle": subTitle,
-        "contents": contents,
-        "content_s1": content_s1,
-        "content_s2": content_s2
+        "desction": desction,
+        "information": information,
+        "address": address
     })
 
 # 데이터를 JSON 파일로 저장
