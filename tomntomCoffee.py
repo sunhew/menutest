@@ -48,7 +48,7 @@ tracks = soup.select("#root > section.max-w-7xl.p-4.mx-auto.pb-20.w-full > div.g
 
 for track in tracks:
     title = track.select_one(".relative.w-full button > div > div > p > span.tracking-wider").text.strip()    
-    titleE = track.select_one(".relative.w-full button > div > div > p > h3.text-sm").text.strip()    
+    titleE = track.select_one(".relative.w-full button > div > div > p > h3.text-sm.text-gray-400").text.strip()    
     image_url = track.select_one(".relative.w-full button > div > img").get('src')
     coffee_data.append({
         "title": title,
