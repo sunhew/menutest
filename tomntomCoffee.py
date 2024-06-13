@@ -18,7 +18,7 @@ filename = f"{folder_path}/menutomntom_{current_date}.json"
 # 웹드라이브 설치
 options = ChromeOptions()
 options.add_argument("--headless")
-browser = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
+browser = webdriver.Chrome(options=options)
 browser.get("https://www.tomntoms.com/menu/drink")
 
 # 페이지가 완전히 로드될 때까지 대기
@@ -47,41 +47,18 @@ coffee_data = []
 tracks = soup.select("#root > section.max-w-7xl.p-4.mx-auto.pb-20.w-full > div.grid.gap-6.mt-8.grid-cols-1 .relative.w-full")
 
 for track in tracks:
-    # 클릭하여 상세 정보 열기
-    try:
-        clickable_element = track.find_element(By.CSS_SELECTOR, ".group.block.flex.flex-col.items-center.overflow-hidden")
-        browser.execute_script("arguments[0].click();", clickable_element)
-        time.sleep(2)  # JavaScript가 실행될 시간을 추가로 대기
-
-        detail_html_source = browser.page_source
-        detail_soup = BeautifulSoup(detail_html_source, 'html.parser')
-
-        # 데이터 수집
-        title = track.select_one(".tracking-wider").text.strip()    
-        image_url = track.select_one("img").get('src')
-        titleE = detail_soup.select_one(".menu-container .text-sm.text-gray-400").text.strip()
-        description = detail_soup.select_one(".menu-container .break-words.text-sm").text.strip()
-
-        # 영양 정보 수집
-        info_elements = detail_soup.select(".menu-container .min-h-[50%] .flex.justify-between")
-        information = {info.select_one(".text-gray-500").text.strip(): info.select_one(".text-black").text.strip() for info in info_elements}
-
-        coffee_data.append({
-            "brand": "탐앤탐",
-            "title": title,
-            "titleE": titleE,
-            "imageURL": image_url,
-            "description": description,
-            "information": information,
-            "address": "https://www.tomntoms.com/menu/drink"
-        })
-
-    except Exception as e:
-        print(f"Error processing track: {e}")
+    title = track.select_one(".relative.w-full button > div > div > p > span.tracking-wider").text.strip()    
+    image_url = track.select_one(".relative.w-full button > div > img").get('src')
+    coffee_data.append({
+        "brand": "탐앤탐",
+        "title": title,
+        "imageURL": image_url,
+        "address": "https://www.tomntoms.com/menu/drink"
+    })
 
 # 데이터를 JSON 파일로 저장
 with open(filename, 'w', encoding='utf-8') as f:
     json.dump(coffee_data, f, ensure_ascii=False, indent=4)
 
-# 브라우저 종료
-browser.quit()
+# # 브라우저 종료
+# browser.quit()
