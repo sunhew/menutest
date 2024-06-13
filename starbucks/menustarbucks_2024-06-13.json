@@ -1,0 +1,782 @@
+[
+    {
+        "brand": "스타벅스",
+        "title": "에스프레소 콘 파나",
+        "titleE": "Espresso Con Panna",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[30]_20210415144252425.jpg",
+        "desction": "신선한 에스프레소 샷에 풍부한 휘핑크림을 얹은 커피 음료로서, 뜨거운 커피의 맛과 차갑고 달콤한 생크림의 맛을 같이 즐길 수 있는 커피 음료",
+        "information": {
+            "1회 제공량 (kcal)": "30",
+            "포화지방 (g)": "1.5",
+            "단백질 (g)": "0",
+            "지방 (g)": "2.5",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "0",
+            "당류 (g)": "1",
+            "카페인 (mg)": "75",
+            "콜레스테롤 (mg)": "10",
+            "탄수화물 (g)": "2"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=30"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "에스프레소 마키아또",
+        "titleE": "Espresso Macchiato",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[25]_20210415144211354.jpg",
+        "desction": "신선한 에스프레소 샷에 우유 거품을 살짝 얹은 커피 음료로써, 강렬한 에스프레소의 맛과 우유의 부드러움을 같이 즐길 수 있는 커피 음료",
+        "information": {
+            "1회 제공량 (kcal)": "10",
+            "포화지방 (g)": "0",
+            "단백질 (g)": "1",
+            "지방 (g)": "0",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "0",
+            "당류 (g)": "0",
+            "카페인 (mg)": "75",
+            "콜레스테롤 (mg)": "0",
+            "탄수화물 (g)": "1"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=25"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "아이스 카페 아메리카노",
+        "titleE": "Iced Caffe Americano",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[110563]_20210426095937947.jpg",
+        "desction": "진한 에스프레소에 시원한 정수물과 얼음을 더하여 스타벅스의 깔끔하고 강렬한 에스프레소를 가장 부드럽고 시원하게 즐길 수 있는 커피",
+        "information": {
+            "1회 제공량 (kcal)": "10",
+            "포화지방 (g)": "0",
+            "단백질 (g)": "1",
+            "지방 (g)": "0",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "5",
+            "당류 (g)": "0",
+            "카페인 (mg)": "150",
+            "콜레스테롤 (mg)": "0",
+            "탄수화물 (g)": "2"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=110563"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "카페 아메리카노",
+        "titleE": "Caffe Americano",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[94]_20210430103337157.jpg",
+        "desction": "진한 에스프레소와 뜨거운 물을 섞어 스타벅스의 깔끔하고 강렬한 에스프레소를 가장 부드럽게 잘 느낄 수 있는 커피",
+        "information": {
+            "1회 제공량 (kcal)": "10",
+            "포화지방 (g)": "0",
+            "단백질 (g)": "1",
+            "지방 (g)": "0",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "5",
+            "당류 (g)": "0",
+            "카페인 (mg)": "150",
+            "콜레스테롤 (mg)": "0",
+            "탄수화물 (g)": "2"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=94"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "아이스 카라멜 마키아또",
+        "titleE": "Iced Caramel Macchiato",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[110582]_20210415142706229.jpg",
+        "desction": "향긋한 바닐라 시럽과 시원한 우유와 얼음을 넣고 점을 찍듯이 에스프레소를 부은 후 벌집 모양으로 카라멜 드리즐을 올린 달콤한 커피 음료",
+        "information": {
+            "1회 제공량 (kcal)": "190",
+            "포화지방 (g)": "4.6",
+            "단백질 (g)": "6",
+            "지방 (g)": "8",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "110",
+            "당류 (g)": "22",
+            "카페인 (mg)": "75",
+            "콜레스테롤 (mg)": "20",
+            "탄수화물 (g)": "23"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=110582"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "카라멜 마키아또",
+        "titleE": "Caramel Macchiato",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[126197]_20210415154610012.jpg",
+        "desction": "향긋한 바닐라 시럽과 따뜻한 스팀 밀크 위에 풍성한 우유 거품을 얹고 점을 찍듯이 에스프레소를 부은 후 벌집 모양으로 카라멜 드리즐을 올린 달콤한 커피 음료",
+        "information": {
+            "1회 제공량 (kcal)": "200",
+            "포화지방 (g)": "5",
+            "단백질 (g)": "8",
+            "지방 (g)": "9",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "130",
+            "당류 (g)": "22",
+            "카페인 (mg)": "75",
+            "콜레스테롤 (mg)": "25",
+            "탄수화물 (g)": "24"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=126197"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "아이스 카푸치노",
+        "titleE": "Iced Cappuccino",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[110601]_20210415143400922.jpg",
+        "desction": "풍부하고 진한 에스프레소에 신선한 우유와 우유 거품이 얼음과 함께 들어간 시원하고 부드러운 커피 음료",
+        "information": {
+            "1회 제공량 (kcal)": "110",
+            "포화지방 (g)": "3.5",
+            "단백질 (g)": "6",
+            "지방 (g)": "6",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "90",
+            "당류 (g)": "9",
+            "카페인 (mg)": "75",
+            "콜레스테롤 (mg)": "20",
+            "탄수화물 (g)": "10"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=110601"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "카푸치노",
+        "titleE": "Cappuccino",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[38]_20210415154821991.jpg",
+        "desction": "풍부하고 진한 에스프레소에 따뜻한 우유와 벨벳 같은 우유 거품이 1:1 비율로 어우러져 마무리된 커피 음료",
+        "information": {
+            "1회 제공량 (kcal)": "110",
+            "포화지방 (g)": "3",
+            "단백질 (g)": "6",
+            "지방 (g)": "6",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "70",
+            "당류 (g)": "8",
+            "카페인 (mg)": "75",
+            "콜레스테롤 (mg)": "15",
+            "탄수화물 (g)": "9"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=38"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "라벤더 카페 브레베",
+        "titleE": "Lavender Cafe Breve",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2022/04/[9200000004119]_20220412083026158.png",
+        "desction": "진한 리저브 에스프레소 샷과 은은한 라벤더향이 고급스럽게 어우러진 부드럽고 세련된 풍미의 라벤더 카페 브레베",
+        "information": {
+            "1회 제공량 (kcal)": "400",
+            "포화지방 (g)": "22",
+            "단백질 (g)": "8",
+            "지방 (g)": "27",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "140",
+            "당류 (g)": "30",
+            "카페인 (mg)": "105",
+            "콜레스테롤 (mg)": "25",
+            "탄수화물 (g)": "31"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=9200000004119"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "바닐라 빈 라떼",
+        "titleE": "Vanilla Bean Latte",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/02/[9200000001939]_20210225094313320.jpg",
+        "desction": "리저브만을 위한 바닐라 빈 시럽이 부드럽게 어우러진 카페 라떼",
+        "information": {
+            "1회 제공량 (kcal)": "245",
+            "포화지방 (g)": "6",
+            "단백질 (g)": "9",
+            "지방 (g)": "9",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "150",
+            "당류 (g)": "27",
+            "카페인 (mg)": "210",
+            "콜레스테롤 (mg)": "30",
+            "탄수화물 (g)": "29"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=9200000001939"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "사케라또 비안코 오버 아이스",
+        "titleE": "Shakerato Bianco Over Ice",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/03/[9200000002095]_20240318144702026.jpg",
+        "desction": "얼음과 같이 쉐이킹하여 차가워진 진한 리저브 에스프레소와 하우스 메이드 크림이 어우러진 달콤한 음료",
+        "information": {
+            "1회 제공량 (kcal)": "270",
+            "포화지방 (g)": "18",
+            "단백질 (g)": "3",
+            "지방 (g)": "21",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "45",
+            "당류 (g)": "14",
+            "카페인 (mg)": "315",
+            "콜레스테롤 (mg)": "10",
+            "탄수화물 (g)": "17"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=9200000002095"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "스타벅스 1호점 바닐라 빈 라떼",
+        "titleE": "Starbucks 1st Store Vanilla Bean Latte",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2023/07/[9200000004732]_20230705095515293.jpg",
+        "desction": "한국 스타벅스 1호점인 이대R점을 상징하는 리저브 바닐라 빈 라떼.\n시애틀 1호점을 기념하는 '파이크 플레이스 로스트'VIA와 번트 카라멜 파우더로\n만든 리저브 로고는 부드러운 우유 폼에 달콤쌉쌀한 풍미를 선사.",
+        "information": {
+            "1회 제공량 (kcal)": "234",
+            "포화지방 (g)": "6",
+            "단백질 (g)": "9",
+            "지방 (g)": "9",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "150",
+            "당류 (g)": "27",
+            "카페인 (mg)": "210",
+            "콜레스테롤 (mg)": "30",
+            "탄수화물 (g)": "30"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=9200000004732"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "스타벅스 1호점 카페 라떼",
+        "titleE": "Starbucks 1st Store Cafe Latte",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2023/07/[9200000004728]_20230705095319967.jpg",
+        "desction": "한국 스타벅스 1호점인 이대R점을 상징하는 리저브 카페 라떼.\n시애틀 1호점을 기념하는 '파이크 플레이스 로스트'VIA와 번트 카라멜 파우더로\n만든 리저브 로고는 부드러운 우유 폼에 달콤쌉쌀한 풍미를 선사.",
+        "information": {
+            "1회 제공량 (kcal)": "191",
+            "포화지방 (g)": "6",
+            "단백질 (g)": "10",
+            "지방 (g)": "10",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "150",
+            "당류 (g)": "15",
+            "카페인 (mg)": "210",
+            "콜레스테롤 (mg)": "30",
+            "탄수화물 (g)": "17"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=9200000004728"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "스타벅스 돌체 라떼",
+        "titleE": "Starbucks Dolce Latte",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[128692]_20210426091933798.jpg",
+        "desction": "스타벅스의 다른 커피 음료보다 더욱 깊은 커피의 맛과 향에 깔끔한 무지방 우유와 부드러운 돌체 시럽이 들어간 음료로 달콤하고 진한 커피 라떼",
+        "information": {
+            "1회 제공량 (kcal)": "255",
+            "포화지방 (g)": "2.6",
+            "단백질 (g)": "12",
+            "지방 (g)": "4.2",
+            "트랜스지방 (g)": "0.3",
+            "나트륨 (mg)": "190",
+            "당류 (g)": "39",
+            "카페인 (mg)": "150",
+            "콜레스테롤 (mg)": "15",
+            "탄수화물 (g)": "42"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=128692"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "아이스 라벤더 카페 브레베",
+        "titleE": "Iced Lavender Cafe Breve",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2022/04/[9200000004120]_20220412082952470.png",
+        "desction": "진한 리저브 에스프레소 샷과 은은한 라벤더향이 고급스럽게 어우러진 부드럽고 세련된 풍미의 라벤더 카페 브레베",
+        "information": {
+            "1회 제공량 (kcal)": "335",
+            "포화지방 (g)": "18",
+            "단백질 (g)": "6",
+            "지방 (g)": "22",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "110",
+            "당류 (g)": "27",
+            "카페인 (mg)": "105",
+            "콜레스테롤 (mg)": "20",
+            "탄수화물 (g)": "28"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=9200000004120"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "아이스 바닐라 빈 라떼",
+        "titleE": "Iced Vanilla Bean Latte",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/02/[9200000001941]_20210225094346658.jpg",
+        "desction": "리저브만을 위한 바닐라 빈 시럽이 부드럽게 어우러진 카페 라떼",
+        "information": {
+            "1회 제공량 (kcal)": "155",
+            "포화지방 (g)": "2.9",
+            "단백질 (g)": "5",
+            "지방 (g)": "4.8",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "75",
+            "당류 (g)": "20",
+            "카페인 (mg)": "210",
+            "콜레스테롤 (mg)": "15",
+            "탄수화물 (g)": "22"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=9200000001941"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "아이스 스타벅스 1호점 바닐라 빈 라떼",
+        "titleE": "Iced Starbucks 1st Store Vanilla Bean Latte",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2023/07/[9200000004734]_20230705095557599.jpg",
+        "desction": "한국 스타벅스 1호점인 이대R점을 상징하는 리저브 바닐라 빈 라떼.\n시애틀 1호점을 기념하는 '파이크 플레이스 로스트'VIA와 번트 카라멜 파우더로\n만든 리저브 로고는 부드러운 밀크 콜드폼에 달콤쌉쌀한 풍미를 선사.",
+        "information": {
+            "1회 제공량 (kcal)": "159",
+            "포화지방 (g)": "2.9",
+            "단백질 (g)": "6",
+            "지방 (g)": "4.8",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "90",
+            "당류 (g)": "21",
+            "카페인 (mg)": "210",
+            "콜레스테롤 (mg)": "15",
+            "탄수화물 (g)": "24"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=9200000004734"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "아이스 스타벅스 1호점 카페 라떼",
+        "titleE": "Iced Starbucks 1st Store Cafe Latte",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2023/07/[9200000004730]_20230705095423458.jpg",
+        "desction": "한국 스타벅스 1호점인 이대R점을 상징하는 리저브 카페 라떼.\n시애틀 1호점을 기념하는 '파이크 플레이스 로스트'VIA와 번트 카라멜 파우더로\n만든 리저브 로고는 부드러운 밀크 콜드폼에 달콤쌉쌀한 풍미를 선사.",
+        "information": {
+            "1회 제공량 (kcal)": "117",
+            "포화지방 (g)": "3.2",
+            "단백질 (g)": "6",
+            "지방 (g)": "5",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "100",
+            "당류 (g)": "9",
+            "카페인 (mg)": "210",
+            "콜레스테롤 (mg)": "15",
+            "탄수화물 (g)": "12"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=9200000004730"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "아이스 스타벅스 돌체 라떼",
+        "titleE": "Iced Starbucks Dolce Latte",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[128695]_20210426092032110.jpg",
+        "desction": "스타벅스의 다른 커피 음료보다 더욱 깊은 커피의 맛과 향에 깔끔한 무지방 우유와 부드러운 돌체 시럽이 들어간 음료로 달콤하고 진한 커피 라떼",
+        "information": {
+            "1회 제공량 (kcal)": "230",
+            "포화지방 (g)": "2.5",
+            "단백질 (g)": "10",
+            "지방 (g)": "4",
+            "트랜스지방 (g)": "0.3",
+            "나트륨 (mg)": "145",
+            "당류 (g)": "35",
+            "카페인 (mg)": "150",
+            "콜레스테롤 (mg)": "15",
+            "탄수화물 (g)": "38"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=128695"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "아이스 인절미 크림 라떼",
+        "titleE": "Iced Injeolmi Cream Latte",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/05/[9200000005285]_20240509131125607.jpg",
+        "desction": "고소하고 쌉싸름한 맛의 콩고물과 쫀득한 식감의 인절미 젤리를 달콤한 크림이 얹어진 커피와 함께 즐길 수 있는 라떼",
+        "information": {
+            "1회 제공량 (kcal)": "450",
+            "포화지방 (g)": "16",
+            "단백질 (g)": "9",
+            "지방 (g)": "23",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "180",
+            "당류 (g)": "43",
+            "카페인 (mg)": "75",
+            "콜레스테롤 (mg)": "15",
+            "탄수화물 (g)": "53"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=9200000005285"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "아이스 카페 라떼",
+        "titleE": "Iced Caffe Latte",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[110569]_20210415143036138.jpg",
+        "desction": "풍부하고 진한 농도의 에스프레소가 시원한 우유와 얼음을 만나 고소함과 시원함을 즐길 수 있는 대표적인 커피 라떼",
+        "information": {
+            "1회 제공량 (kcal)": "110",
+            "포화지방 (g)": "3.5",
+            "단백질 (g)": "6",
+            "지방 (g)": "6",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "75",
+            "당류 (g)": "8",
+            "카페인 (mg)": "75",
+            "콜레스테롤 (mg)": "20",
+            "탄수화물 (g)": "9"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=110569"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "인절미 크림 라떼",
+        "titleE": "Injeolmi Cream Latte",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2024/05/[9200000005284]_20240509131037473.jpg",
+        "desction": "고소하고 쌉싸름한 맛의 콩고물과 쫀득한 식감의 인절미 젤리를 달콤한 크림이 얹어진 커피와 함께 즐길 수 있는 라떼",
+        "information": {
+            "1회 제공량 (kcal)": "530",
+            "포화지방 (g)": "19",
+            "단백질 (g)": "12",
+            "지방 (g)": "27",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "250",
+            "당류 (g)": "49",
+            "카페인 (mg)": "75",
+            "콜레스테롤 (mg)": "25",
+            "탄수화물 (g)": "59"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=9200000005284"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "카페 라떼",
+        "titleE": "Caffe Latte",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[41]_20210415133833879.jpg",
+        "desction": "풍부하고 진한 에스프레소가 신선한 스팀 밀크를 만나 부드러워진 커피 위에 우유 거품을 살짝 얹은 대표적인 커피 라떼",
+        "information": {
+            "1회 제공량 (kcal)": "180",
+            "포화지방 (g)": "5",
+            "단백질 (g)": "10",
+            "지방 (g)": "9",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "115",
+            "당류 (g)": "13",
+            "카페인 (mg)": "75",
+            "콜레스테롤 (mg)": "30",
+            "탄수화물 (g)": "14"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=41"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "아이스 카페 모카",
+        "titleE": "Iced Caffe Mocha",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[110566]_20210415134334432.jpg",
+        "desction": "진한 초콜릿 모카 시럽과 풍부한 에스프레소를 신선한 우유 그리고 얼음과 섞어 휘핑크림으로 마무리한 음료로 진한 에스프레소와 초콜릿 맛이 어우러진 커피",
+        "information": {
+            "1회 제공량 (kcal)": "250",
+            "포화지방 (g)": "8",
+            "단백질 (g)": "7",
+            "지방 (g)": "14",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "70",
+            "당류 (g)": "21",
+            "카페인 (mg)": "95",
+            "콜레스테롤 (mg)": "45",
+            "탄수화물 (g)": "28"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=110566"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "No Title",
+        "titleE": "No English Title",
+        "imageURL": "",
+        "desction": "",
+        "information": {
+            "1회 제공량 (kcal)": "",
+            "포화지방 (g)": "",
+            "단백질 (g)": "",
+            "지방 (g)": "",
+            "트랜스지방 (g)": "",
+            "나트륨 (mg)": "",
+            "당류 (g)": "",
+            "카페인 (mg)": "",
+            "콜레스테롤 (mg)": "",
+            "탄수화물 (g)": ""
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=110572"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "카페 모카",
+        "titleE": "Caffe Mocha",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[46]_20210415134438311.jpg",
+        "desction": "진한 초콜릿 모카 시럽과 풍부한 에스프레소를 스팀 밀크와 섞어 휘핑크림으로 마무리한 음료로 진한 에스프레소와 초콜릿 맛이 어우러진 커피",
+        "information": {
+            "1회 제공량 (kcal)": "290",
+            "포화지방 (g)": "9",
+            "단백질 (g)": "10",
+            "지방 (g)": "15",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "105",
+            "당류 (g)": "25",
+            "카페인 (mg)": "95",
+            "콜레스테롤 (mg)": "45",
+            "탄수화물 (g)": "33"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=46"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "클래식 민트 모카",
+        "titleE": "Classic Mint Mocha",
+        "imageURL": "https://image.istarbucks.co.kr/upload/store/skuimg/2022/10/[9200000004313]_20221005145157135.jpg",
+        "desction": "스타벅스의 클래식인 페퍼민트 모카를 떠올리게 하는 리저브만의 에스프레소 음료.\n오트음료(식물성 대체유)의 고소함과 다크 초콜릿의 쌉쌀함이 특징인 음료.",
+        "information": {
+            "1회 제공량 (kcal)": "335",
+            "포화지방 (g)": "0.7",
+            "단백질 (g)": "4",
+            "지방 (g)": "8",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "200",
+            "당류 (g)": "43",
+            "카페인 (mg)": "210",
+            "콜레스테롤 (mg)": "0",
+            "탄수화물 (g)": "62"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=9200000004313"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "화이트 초콜릿 모카",
+        "titleE": "White Chocolate Mocha",
+        "imageURL": "",
+        "desction": "달콤하고 부드러운 화이트 초콜릿 시럽과 에스프레소를 스팀 밀크와 섞어 휘핑크림으로 마무리한 음료로 달콤함과 강렬한 에스프레소가 부드럽게 어우러진 커피",
+        "information": {
+            "1회 제공량 (kcal)": "405",
+            "포화지방 (g)": "11",
+            "단백질 (g)": "12",
+            "지방 (g)": "19",
+            "트랜스지방 (g)": "0",
+            "나트륨 (mg)": "230",
+            "당류 (g)": "47",
+            "카페인 (mg)": "75",
+            "콜레스테롤 (mg)": "30",
+            "탄수화물 (g)": "49"
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=128192"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "No Title",
+        "titleE": "No English Title",
+        "imageURL": "",
+        "desction": "",
+        "information": {
+            "1회 제공량 (kcal)": "",
+            "포화지방 (g)": "",
+            "단백질 (g)": "",
+            "지방 (g)": "",
+            "트랜스지방 (g)": "",
+            "나트륨 (mg)": "",
+            "당류 (g)": "",
+            "카페인 (mg)": "",
+            "콜레스테롤 (mg)": "",
+            "탄수화물 (g)": ""
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=9200000005181"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "No Title",
+        "titleE": "No English Title",
+        "imageURL": "",
+        "desction": "",
+        "information": {
+            "1회 제공량 (kcal)": "",
+            "포화지방 (g)": "",
+            "단백질 (g)": "",
+            "지방 (g)": "",
+            "트랜스지방 (g)": "",
+            "나트륨 (mg)": "",
+            "당류 (g)": "",
+            "카페인 (mg)": "",
+            "콜레스테롤 (mg)": "",
+            "탄수화물 (g)": ""
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=9200000005178"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "No Title",
+        "titleE": "No English Title",
+        "imageURL": "",
+        "desction": "",
+        "information": {
+            "1회 제공량 (kcal)": "",
+            "포화지방 (g)": "",
+            "단백질 (g)": "",
+            "지방 (g)": "",
+            "트랜스지방 (g)": "",
+            "나트륨 (mg)": "",
+            "당류 (g)": "",
+            "카페인 (mg)": "",
+            "콜레스테롤 (mg)": "",
+            "탄수화물 (g)": ""
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=110612"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "No Title",
+        "titleE": "No English Title",
+        "imageURL": "",
+        "desction": "",
+        "information": {
+            "1회 제공량 (kcal)": "",
+            "포화지방 (g)": "",
+            "단백질 (g)": "",
+            "지방 (g)": "",
+            "트랜스지방 (g)": "",
+            "나트륨 (mg)": "",
+            "당류 (g)": "",
+            "카페인 (mg)": "",
+            "콜레스테롤 (mg)": "",
+            "탄수화물 (g)": ""
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=9200000002950"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "No Title",
+        "titleE": "No English Title",
+        "imageURL": "",
+        "desction": "",
+        "information": {
+            "1회 제공량 (kcal)": "",
+            "포화지방 (g)": "",
+            "단백질 (g)": "",
+            "지방 (g)": "",
+            "트랜스지방 (g)": "",
+            "나트륨 (mg)": "",
+            "당류 (g)": "",
+            "카페인 (mg)": "",
+            "콜레스테롤 (mg)": "",
+            "탄수화물 (g)": ""
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=9200000003505"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "No Title",
+        "titleE": "No English Title",
+        "imageURL": "",
+        "desction": "",
+        "information": {
+            "1회 제공량 (kcal)": "",
+            "포화지방 (g)": "",
+            "단백질 (g)": "",
+            "지방 (g)": "",
+            "트랜스지방 (g)": "",
+            "나트륨 (mg)": "",
+            "당류 (g)": "",
+            "카페인 (mg)": "",
+            "콜레스테롤 (mg)": "",
+            "탄수화물 (g)": ""
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=9200000003506"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "No Title",
+        "titleE": "No English Title",
+        "imageURL": "",
+        "desction": "",
+        "information": {
+            "1회 제공량 (kcal)": "",
+            "포화지방 (g)": "",
+            "단백질 (g)": "",
+            "지방 (g)": "",
+            "트랜스지방 (g)": "",
+            "나트륨 (mg)": "",
+            "당류 (g)": "",
+            "카페인 (mg)": "",
+            "콜레스테롤 (mg)": "",
+            "탄수화물 (g)": ""
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=9200000002953"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "No Title",
+        "titleE": "No English Title",
+        "imageURL": "",
+        "desction": "",
+        "information": {
+            "1회 제공량 (kcal)": "",
+            "포화지방 (g)": "",
+            "단백질 (g)": "",
+            "지방 (g)": "",
+            "트랜스지방 (g)": "",
+            "나트륨 (mg)": "",
+            "당류 (g)": "",
+            "카페인 (mg)": "",
+            "콜레스테롤 (mg)": "",
+            "탄수화물 (g)": ""
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=20"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "No Title",
+        "titleE": "No English Title",
+        "imageURL": "",
+        "desction": "",
+        "information": {
+            "1회 제공량 (kcal)": "",
+            "포화지방 (g)": "",
+            "단백질 (g)": "",
+            "지방 (g)": "",
+            "트랜스지방 (g)": "",
+            "나트륨 (mg)": "",
+            "당류 (g)": "",
+            "카페인 (mg)": "",
+            "콜레스테롤 (mg)": "",
+            "탄수화물 (g)": ""
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=110611"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "No Title",
+        "titleE": "No English Title",
+        "imageURL": "",
+        "desction": "",
+        "information": {
+            "1회 제공량 (kcal)": "",
+            "포화지방 (g)": "",
+            "단백질 (g)": "",
+            "지방 (g)": "",
+            "트랜스지방 (g)": "",
+            "나트륨 (mg)": "",
+            "당류 (g)": "",
+            "카페인 (mg)": "",
+            "콜레스테롤 (mg)": "",
+            "탄수화물 (g)": ""
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=9200000001631"
+    },
+    {
+        "brand": "스타벅스",
+        "title": "No Title",
+        "titleE": "No English Title",
+        "imageURL": "",
+        "desction": "",
+        "information": {
+            "1회 제공량 (kcal)": "",
+            "포화지방 (g)": "",
+            "단백질 (g)": "",
+            "지방 (g)": "",
+            "트랜스지방 (g)": "",
+            "나트륨 (mg)": "",
+            "당류 (g)": "",
+            "카페인 (mg)": "",
+            "콜레스테롤 (mg)": "",
+            "탄수화물 (g)": ""
+        },
+        "address": "https://www.starbucks.co.kr/menu/drink_view.do?product_cd=110614"
+    }
+]
