@@ -50,8 +50,8 @@ for track in tracks:
     titleE = track.select_one(".relative.w-full button > div > div > h3").text.strip()
     image_url = track.select_one(".relative.w-full button > div > img").get('src')
     
-    # 상세 정보 가져오기
-    clickable_element = track.find_element(By.CSS_SELECTOR, ".group.block.flex.flex-col.items-center.overflow-hidden")
+    # Selenium을 사용하여 clickable element 찾기
+    clickable_element = browser.find_element(By.CSS_SELECTOR, f"#{track.attrs['id']} .group.block.flex.flex-col.items-center.overflow-hidden")
     browser.execute_script("arguments[0].click();", clickable_element)
     
     # 상세 정보가 로드될 때까지 대기
