@@ -1,6 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.chrome.options import Options as ChromeOptions
+from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -45,44 +46,45 @@ soup = BeautifulSoup(html_source_updated, 'html.parser')
 coffee_data = []
 tracks = soup.select("#root > section.max-w-7xl.p-4.mx-auto.pb-20.w-full > div.grid.gap-6.mt-8.grid-cols-1 .relative.w-full")
 
-for track in tracks:
+for i, track in enumerate(tracks):
     title = track.select_one(".relative.w-full button > div > div > p > span.tracking-wider").text.strip()
     titleE = track.select_one(".relative.w-full button > div > div > h3").text.strip()
     image_url = track.select_one(".relative.w-full button > div > img").get('src')
     
     # Selenium을 사용하여 clickable element 찾기
-    clickable_element = browser.find_element(By.CSS_SELECTOR, f"#{track.attrs['id']} .group.block.flex.flex-col.items-center.overflow-hidden")
-    browser.execute_script("arguments[0].click();", clickable_element)
+    clickable_elements = browser.find_elements(By.CSS_SELECTOR, ".relative.w-full")
+    if i < len(clickable_elements):
+        browser.execute_script("arguments[0].click();", clickable_elements[i])
     
-    # 상세 정보가 로드될 때까지 대기
-    WebDriverWait(browser, 10).until(
-        EC.presence_of_element_located((By.CSS_SELECTOR, ".menu-container"))
-    )
-    
-    # 상세 페이지 HTML 추출
-    detail_html_source = browser.page_source
-    detail_soup = BeautifulSoup(detail_html_source, 'html.parser')
-    
-    description = detail_soup.select_one(".menu-container .flex.flex-col .break-words.text-sm").text.strip()
-    
-    # 영양 정보 추출
-    info_elements = detail_soup.select(".menu-container .min-h-[50%] .flex.justify-between")
-    information = {element.select_one("p.text-xs.font-bold.text-gray-500").text.strip(): element.select_one("p.text-xs.font-bold.text-black").text.strip() for element in info_elements}
+        # 상세 정보가 로드될 때까지 대기
+        WebDriverWait(browser, 10).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, ".menu-container"))
+        )
+        
+        # 상세 페이지 HTML 추출
+        detail_html_source = browser.page_source
+        detail_soup = BeautifulSoup(detail_html_source, 'html.parser')
+        
+        description = detail_soup.select_one(".menu-container .flex.flex-col .break-words.text-sm").text.strip()
+        
+        # 영양 정보 추출
+        info_elements = detail_soup.select(".menu-container .min-h-[50%] .flex.justify-between")
+        information = {element.select_one("p.text-xs.font-bold.text-gray-500").text.strip(): element.select_one("p.text-xs.font-bold.text-black").text.strip() for element in info_elements}
 
-    coffee_data.append({
-        "brand": "탐앤탐",
-        "title": title,
-        "titleE": titleE,
-        "imageURL": image_url,
-        "description": description,
-        "information": information,
-        "address": "https://www.tomntoms.com/menu/drink"
-    })
-    
-    # 팝업 닫기
-    close_button = detail_soup.select_one(".menu-container button")
-    if close_button:
-        browser.execute_script("arguments[0].click();", close_button)
+        coffee_data.append({
+            "brand": "탐앤탐",
+            "title": title,
+            "titleE": titleE,
+            "imageURL": image_url,
+            "description": description,
+            "information": information,
+            "address": "https://www.tomntoms.com/menu/drink"
+        })
+        
+        # 팝업 닫기
+        close_button = browser.find_element(By.CSS_SELECTOR, ".menu-container button")
+        if close_button:
+            browser.execute_script("arguments[0].click();", close_button)
 
 # 데이터를 JSON 파일로 저장
 with open(filename, 'w', encoding='utf-8') as f:
