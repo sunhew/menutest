@@ -5,6 +5,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException
 from bs4 import BeautifulSoup
 from datetime import datetime
 import time
@@ -18,7 +19,7 @@ filename = f"{folder_path}/menutomntom_{current_date}.json"
 # 웹드라이브 설치
 options = ChromeOptions()
 options.add_argument("--headless")
-browser = webdriver.Chrome(options=options)
+browser = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
 browser.get("https://www.tomntoms.com/menu/drink")
 
 # 페이지가 완전히 로드될 때까지 대기
@@ -50,12 +51,12 @@ for i, track in enumerate(tracks):
     title = track.select_one(".relative.w-full button > div > div > p > span.tracking-wider").text.strip()
     titleE = track.select_one(".relative.w-full button > div > div > h3").text.strip()
     image_url = track.select_one(".relative.w-full button > div > img").get('src')
-    
+
     # Selenium을 사용하여 clickable element 찾기
     clickable_elements = browser.find_elements(By.CSS_SELECTOR, ".relative.w-full")
     if i < len(clickable_elements):
         browser.execute_script("arguments[0].click();", clickable_elements[i])
-        
+
         try:
             # 상세 정보가 로드될 때까지 대기
             WebDriverWait(browser, 20).until(
@@ -64,13 +65,15 @@ for i, track in enumerate(tracks):
         except TimeoutException as e:
             print(f"TimeoutException while waiting for menu-container: {e}")
             continue
-        
+
         # 상세 페이지 HTML 추출
         detail_html_source = browser.page_source
         detail_soup = BeautifulSoup(detail_html_source, 'html.parser')
-        
-        description = detail_soup.select_one(".menu-container .flex.flex-col .break-words.text-sm").text.strip()
-        
+
+        # 설명 추출
+        description_element = detail_soup.select_one(".menu-container .flex.flex-col .break-words.text-sm")
+        description = description_element.text.strip() if description_element else "No description available"
+
         # 영양 정보 추출
         info_elements = detail_soup.select(".menu-container .min-h-[50%] .flex.justify-between")
         information = {element.select_one("p.text-xs.font-bold.text-gray-500").text.strip(): element.select_one("p.text-xs.font-bold.text-black").text.strip() for element in info_elements}
@@ -80,11 +83,11 @@ for i, track in enumerate(tracks):
             "title": title,
             "titleE": titleE,
             "imageURL": image_url,
-            "description": description,
+            "desction": description,
             "information": information,
             "address": "https://www.tomntoms.com/menu/drink"
         })
-        
+
         # 팝업 닫기
         close_button = browser.find_element(By.CSS_SELECTOR, ".menu-container button")
         if close_button:
