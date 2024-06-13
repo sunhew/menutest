@@ -22,19 +22,19 @@ browser = webdriver.Chrome(options=options)
 browser.get("https://www.tomntoms.com/menu/drink")
 
 # 페이지가 완전히 로드될 때까지 대기
-WebDriverWait(browser, 10).until(
+WebDriverWait(browser, 20).until(
     EC.presence_of_element_located((By.CLASS_NAME, "pb-20"))
 )
 
 # "더보기" 버튼을 찾아 클릭
 try:
-    more_button = WebDriverWait(browser, 10).until(
+    more_button = WebDriverWait(browser, 20).until(
         EC.visibility_of_element_located((By.CSS_SELECTOR, ".custom-button.main-tab"))
     )
     if more_button:
         browser.execute_script("arguments[0].click();", more_button)
         print("Clicked '더보기' button.")
-        time.sleep(3)
+        time.sleep(5)  # 충분한 대기 시간을 줌
 except Exception as e:
     print("Error clicking '더보기':", e)
 
@@ -55,11 +55,15 @@ for i, track in enumerate(tracks):
     clickable_elements = browser.find_elements(By.CSS_SELECTOR, ".relative.w-full")
     if i < len(clickable_elements):
         browser.execute_script("arguments[0].click();", clickable_elements[i])
-    
-        # 상세 정보가 로드될 때까지 대기
-        WebDriverWait(browser, 10).until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, ".menu-container"))
-        )
+        
+        try:
+            # 상세 정보가 로드될 때까지 대기
+            WebDriverWait(browser, 20).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, ".menu-container"))
+            )
+        except TimeoutException as e:
+            print(f"TimeoutException while waiting for menu-container: {e}")
+            continue
         
         # 상세 페이지 HTML 추출
         detail_html_source = browser.page_source
@@ -85,6 +89,7 @@ for i, track in enumerate(tracks):
         close_button = browser.find_element(By.CSS_SELECTOR, ".menu-container button")
         if close_button:
             browser.execute_script("arguments[0].click();", close_button)
+        time.sleep(1)  # 팝업이 닫힐 시간을 줌
 
 # 데이터를 JSON 파일로 저장
 with open(filename, 'w', encoding='utf-8') as f:
