@@ -8,7 +8,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 from datetime import datetime
 import json
-from urllib.parse import urljoin
 
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
@@ -26,69 +25,78 @@ browser.get(base_url)
 
 # 페이지가 완전히 로드될 때까지 대기
 WebDriverWait(browser, 10).until(
-    EC.presence_of_element_located((By.CLASS_NAME, "menu_list01.mar_t_40"))
+    EC.presence_of_element_located((By.CLASS_NAME, "menu_list01"))
 )
 
 html_source_updated = browser.page_source
 soup = BeautifulSoup(html_source_updated, 'html.parser')
 
-# 초기 페이지에서 ID 추출
-menu_ids = []
-menu_view_divs = soup.select("div.menu_view01")
-
-for div in menu_view_divs:
-    menu_id = div.get('id').replace('menuView1_', '')
-    menu_ids.append(menu_id)
+# ID 목록
+menu_ids = [
+    "menuView1_877", "menuView2_877",
+    "menuView1_876", "menuView2_876",
+    "menuView1_932", "menuView2_932",
+    "menuView1_633", "menuView2_633",
+    "menuView1_632", "menuView2_632",
+    "menuView1_631", "menuView2_631",
+    "menuView1_549", "menuView2_549",
+    "menuView1_209", "menuView2_209",
+    "menuView1_208", "menuView2_208",
+    "menuView1_13", "menuView2_13",
+    "menuView1_10", "menuView2_10",
+    "menuView1_7", "menuView2_7",
+    "menuView1_11", "menuView2_11",
+    "menuView1_12", "menuView2_12",
+    "menuView1_6", "menuView2_6",
+    "menuView1_2", "menuView2_2",
+    "menuView1_14", "menuView2_14"
+]
 
 # 데이터 수집
 coffee_data = []
 
-for menu_id in menu_ids:
-    menu_item_url = f"https://www.hollys.co.kr/menu/espresso.do?menuView1_{menu_id}"
-    browser.get(menu_item_url)
+for i in range(0, len(menu_ids), 2):
+    view1_id = menu_ids[i]
+    view2_id = menu_ids[i + 1]
     
-    # 상세 페이지가 완전히 로드될 때까지 대기
-    WebDriverWait(browser, 10).until(
-        EC.presence_of_element_located((By.CLASS_NAME, "menu_detail"))
-    )
+    view1_element = soup.find(id=view1_id)
+    view2_element = soup.find(id=view2_id)
     
-    detail_html_source = browser.page_source
-    detail_soup = BeautifulSoup(detail_html_source, 'html.parser')
-    
-    # 세부 정보 추출
-    brand = "할리스"
-    
-    title_element = detail_soup.select_one("div.menu_detail > span")
-    title = title_element.contents[0].strip() if title_element and title_element.contents else "No title available"
-    
-    titleE_element = detail_soup.select_one("div.menu_detail > span > br + text")
-    titleE = titleE_element.strip() if titleE_element else "No English title available"
-    
-    image_element = detail_soup.select_one("div.menu_detail > img")
-    image_url = image_element.get('src') if image_element else "No image available"
-    
-    desction_element = detail_soup.select_one("div.menu_detail > p.menu_info")
-    desction = desction_element.text.strip() if desction_element else "No description available"
-    
-    hot_row = detail_soup.select_one("div.tableType01 tr:has(th:contains('HOT'))")
-    information = {}
-    if hot_row:
-        hot_tds = hot_row.select("td.center_t")
-        headers = ["1회 제공량 (kcal)", "포화지방 (g)", "단백질 (g)", "지방 (g)", "트랜스지방 (g)", "나트륨 (mg)", "당류 (g)", "카페인 (mg)", "콜레스테롤 (mg)", "탄수화물 (g)"]
-        for header, td in zip(headers, hot_tds):
-            information[header] = td.text.strip()
-    
-    address = menu_item_url
-    
-    coffee_data.append({
-        "brand": brand,
-        "title": title,
-        "titleE": titleE,
-        "imageURL": image_url,
-        "desction": desction,
-        "information": information,
-        "address": address
-    })
+    if view1_element and view2_element:
+        brand = "할리스"
+        
+        # menuView1 정보 추출
+        image_element = view1_element.find("img")
+        image_url = image_element.get('src') if image_element else "No image available"
+        
+        title_element = view1_element.select_one(".menu_detail p span")
+        title = title_element.contents[0].strip() if title_element and title_element.contents else "No title available"
+        
+        titleE = title_element.next_sibling.strip() if title_element and title_element.next_sibling else "No English title available"
+        
+        desction_element = view1_element.select_one(".menu_detail p.menu_info")
+        desction = desction_element.text.strip() if desction_element else "No description available"
+        
+        # menuView2 정보 추출
+        information = {}
+        hot_row = view2_element.select_one(".tableType01 tbody tr:has(th:contains('HOT'))")
+        if hot_row:
+            hot_tds = hot_row.select("td.center_t")
+            headers = ["1회 제공량 (kcal)", "당류 (g)", "단백질 (g)", "포화지방 (g)", "나트륨 (mg)", "카페인 (mg)"]
+            for header, td in zip(headers, hot_tds):
+                information[header] = td.text.strip()
+        
+        address = base_url
+        
+        coffee_data.append({
+            "brand": brand,
+            "title": title,
+            "titleE": titleE,
+            "imageURL": image_url,
+            "desction": desction,
+            "information": information,
+            "address": address
+        })
 
 # 데이터를 JSON 파일로 저장
 with open(filename, 'w', encoding='utf-8') as f:
