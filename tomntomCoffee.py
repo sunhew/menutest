@@ -40,13 +40,9 @@ try:
 except Exception as e:
     print("Error clicking '더보기':", e)
 
-# 업데이트된 페이지 소스를 변수에 저장
-html_source_updated = browser.page_source
-soup = BeautifulSoup(html_source_updated, 'html.parser')
-
 # 데이터 추출
 coffee_data = []
-tracks = soup.select("#root > section.max-w-7xl.p-4.mx-auto.pb-20.w-full > div.grid.gap-6.mt-8.grid-cols-1 .relative.w-full")
+tracks = browser.find_elements(By.CSS_SELECTOR, "#root > section.max-w-7xl.p-4.mx-auto.pb-20.w-full > div.grid.gap-6.mt-8.grid-cols-1 .relative.w-full")
 
 for track in tracks:
     # 항목 클릭
@@ -65,7 +61,7 @@ for track in tracks:
     brand = "톰앤톰스"
     title = detail_soup.select_one(".menu-container .text-xl.font-bold").text.strip()
     titleE = detail_soup.select_one(".menu-container .text-sm.text-gray-400").text.strip() if detail_soup.select_one(".menu-container .text-sm.text-gray-400") else ""
-    image_url = track.select_one("img").get('src')
+    image_url = track.find_element(By.CSS_SELECTOR, "img").get_attribute('src')
     desction = detail_soup.select_one(".menu-container .flex.flex-col.whitespace-normal.break-words .break-words.text-sm").text.strip()
     
     information = {}
