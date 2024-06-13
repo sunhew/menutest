@@ -51,30 +51,37 @@ for track in tracks:
     titleE = track.select_one(".relative.w-full button > div > div > h3").text.strip()    
     image_url = track.select_one(".relative.w-full button > div > img").get('src')
 
-    # 클릭하여 상세 정보 열기
+    coffee_data.append({
+        "brand": "탐앤탐",
+        "title": title,
+        "titleE": titleE,
+        "imageURL": image_url,
+        "desction": "",  # Placeholder for desction
+        "information": {},  # Placeholder for information
+        "address": "https://www.tomntoms.com/menu/drink"
+    })
+
+# 상세 정보를 클릭하여 수집
+for i, track in enumerate(tracks):
     try:
-        clickable_element = track.find_element(By.CSS_SELECTOR, ".group.block.flex.flex-col.items-center.overflow-hidden")
-        browser.execute_script("arguments[0].click();", clickable_element)
-        time.sleep(2)  # JavaScript가 실행될 시간을 추가로 대기
+        # 상세 정보를 클릭하여 열기
+        clickable_element = track.select_one(".group.block.flex.flex-col.items-center.overflow-hidden")
+        if clickable_element:
+            clickable_element.click()
+            time.sleep(2)  # JavaScript가 실행될 시간을 추가로 대기
 
-        detail_html_source = browser.page_source
-        detail_soup = BeautifulSoup(detail_html_source, 'html.parser')
+            detail_html_source = browser.page_source
+            detail_soup = BeautifulSoup(detail_html_source, 'html.parser')
 
-        # 설명과 영양 정보 추출
-        desction = detail_soup.select_one(".menu-container .break-words.text-sm").text.strip()
-        info_elements = detail_soup.select(".menu-container .min-h-[50%] .flex.justify-between")
-        information = {info.select_one(".text-gray-500").text.strip(): info.select_one(".text-black").text.strip() for info in info_elements}
+            # 설명과 영양 정보 추출
+            desction = detail_soup.select_one(".menu-container .break-words.text-sm").text.strip()
+            info_elements = detail_soup.select(".menu-container .min-h-\\[50%\\] .flex.justify-between")
+            information = {info.select_one(".text-gray-500").text.strip(): info.select_one(".text-black").text.strip() for info in info_elements}
 
-        coffee_data.append({
-            "brand": "탐앤탐",
-            "title": title,
-            "titleE": titleE,
-            "imageURL": image_url,
-            "desction": desction,
-            "information": information,
-            "address": "https://www.tomntoms.com/menu/drink"
-        })
-        
+            # 기존 데이터에 추가 정보 저장
+            coffee_data[i]["desction"] = desction
+            coffee_data[i]["information"] = information
+
     except Exception as e:
         print(f"Error processing track: {e}")
 
