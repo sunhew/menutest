@@ -52,7 +52,8 @@ menu_ids = [
     "menuView1_14", "menuView2_14"
 ]
 
-# 데이터 수집
+# 중복 방지를 위한 수집된 타이틀 저장소
+collected_titles = set()
 coffee_data = []
 
 for i in range(0, len(menu_ids), 2):
@@ -71,6 +72,10 @@ for i in range(0, len(menu_ids), 2):
         
         title_element = view1_element.select_one(".menu_detail p span")
         title = title_element.contents[0].strip() if title_element and title_element.contents else "No title available"
+        
+        # 중복 확인
+        if title in collected_titles:
+            continue
         
         titleE = title_element.next_sibling.strip() if title_element and title_element.next_sibling else "No English title available"
         
@@ -97,6 +102,9 @@ for i in range(0, len(menu_ids), 2):
             "information": information,
             "address": address
         })
+        
+        # 타이틀을 중복 확인 리스트에 추가
+        collected_titles.add(title)
 
 # 데이터를 JSON 파일로 저장
 with open(filename, 'w', encoding='utf-8') as f:
